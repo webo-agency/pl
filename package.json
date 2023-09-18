@@ -10,15 +10,7 @@
     "deploy": "npm run generate"
   },
   "dependencies": {
-    "@nuxt/content": "^2.8.2",
-    "@nuxt/image": "1.0.0-rc.2",
-    "@nuxt/kit": "^3.7.3",
-    "@nuxtjs/tailwindcss": "^6.8.0",
-    "@vueuse/core": "^10.4.1",
     "@webo-agency/theme": "github:webo-agency/www",
-    "dotenv": "^16.3.1",
-    "nuxt": "^3.7.3",
-    "nuxt-bugsnag": "^7.0.0",
-    "swiper": "8.4.5"
+    "nuxt": "^3.7.3"
   }
 }
