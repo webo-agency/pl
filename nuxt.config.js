@@ -1,4 +1,4 @@
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
-  extends: ["github:webo-agency/webo-agency"],
+  extends: ["github:webo-agency/www"],
 });
