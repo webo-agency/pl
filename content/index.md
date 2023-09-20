@@ -5,7 +5,7 @@ button.link: https://www.webo.agency/kontakt
 ---
 
 #subtitle
- Witaj w Webo PLLL
+ Witaj w Webo
 
 #title
 # Dostarczamy efekty przez *UX i technologię!*
