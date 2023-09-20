@@ -1,53 +1,48 @@
-## ::block-hero-md
-
+::block-hero-md
+---
 button.title: Rozpocznij projekt
 button.link: https://www.webo.agency/kontakt
-
 ---
 
 #subtitle
-Witaj w \_Webo
+ Witaj w Webo PLLL
 
 #title
-
-# Dostarczamy efekty przez _UX i technologię!_
+# Dostarczamy efekty przez *UX i technologię!*
 
 #description
 Stwórzmy razem rozwiązanie dla <u>Twojej firmy</u>
 
 ::
 
-## ::block-highlighted-md
 
-## class: mb-[100px] tablet:mb-[200px]
+::block-highlighted-md
+---
+class: mb-[100px] tablet:mb-[200px]
+---
 
-### Jesteśmy młodą agencją interaktywną, założoną przez specjalistów z _10 letnim doświadczeniem_ w _tworzeniu produktów cyfrowych._
+### Jesteśmy młodą agencją interaktywną, założoną przez specjalistów z *10 letnim doświadczeniem* w *tworzeniu produktów cyfrowych.*
 
 ::
 
-## ::page-section-md
 
+::page-section-md
+---
 id: uslugi
 classes: mb-[50px] tablet:mb-[150px]
-
 ---
-
 :::effect-appear-md
 ::::block-header-md
-
 ---
-
 class: mb-10 tablet:mb-20
 maxWidth: 450
-
 ---
 
 #subtitle
-_1/_ Usługi
+*1/* Usługi
 
 #title
-
-## W czym możemy Ci _pomóc?_
+## W czym możemy Ci *pomóc?*
 
 #description
 Dostarczamy optymalne produkty cyfrowe. Jesteśmy ciekawi Twoich potrzeb - to one są podstawą oferowanych przez nas rozwiązań
@@ -57,96 +52,77 @@ Dostarczamy optymalne produkty cyfrowe. Jesteśmy ciekawi Twoich potrzeb - to on
 
 :::block-offer-tiles-md
 ::::offer-tile-md
-
 ---
-
 icon: '/img/icons/store.png'
 bgIcon: '/img/icons/store_bgIcon.png'
 link: 'https://www.webo.agency/uslugi/sklepy-internetowe'
-
 ---
-
 #title
-
 ##### Sklepy internetowe
 
 #description
 E-commerce z płynnym procesem zakupowym, dostosowany do potrzeb Twojej firmy. Tworzymy sklepy przygotowane do dalszego rozwoju i ekspansji.
 ::::
 
-## ::::offer-tile-md
-
+::::offer-tile-md
+---
 icon: '/img/icons/site.png'
 bgIcon: '/img/icons/site_bgIcon.png'
 link: 'https://www.webo.agency/uslugi/strony-internetowe'
 delay: 1
-
 ---
-
 #title
-
 ##### Strony www
 
 #description
 Kreujemy szybkie nowoczesne i funkcjonalne strony internetowe, na których Twój klient szybko znajdzie to czego szuka.
 ::::
 
-## ::::offer-tile-md
-
+::::offer-tile-md
+---
 icon: '/img/icons/apps.png'
 bgIcon: '/img/icons/apps_bgIcon.png'
 link: ''
 delay: 2
-
 ---
-
 #title
-
 ##### Aplikacje internetowe
 
 #description
 Dedykowane do specjalnych zastosowań w Twojej firmie. Przyjazne dla użytkowników i proste w zarządzaniu.
 ::::
 
-## ::::offer-tile-md
-
+::::offer-tile-md
+---
 icon: '/img/icons/pwa.png'
 bgIcon: '/img/icons/pwa_bgIcon.png'
 link: 'https://www.webo.agency/uslugi/strony-headless-pwa'
 delay: 3
-
 ---
-
 #title
-
 ##### Strony Headless / PWA
 
 #description
 Wykonane w nowych technologiach, dostarczające maksimum wydajności zapewniające najwyższy standard bezpieczeństwa.
 ::::
 
-## ::::offer-tile-md
-
+::::offer-tile-md
+---
 icon: '/img/icons/support.png'
 link: 'https://www.webo.agency/uslugi/wsparcie-i-rozwoj'
 delay: 4
-
 ---
-
 #title
-
 ##### Wsparcie i rozwój sklepów internetowych i stron www
 
 ::::
 
-## ::::offer-tile-md
-
+::::offer-tile-md
+---
 icon: '/img/icons/uxui.png'
 link: ''
 delay: 5
-
 ---
-
 #title
 Projektowanie UX/UI
 
@@ -154,51 +130,43 @@ Projektowanie UX/UI
 :::
 ::
 
-## ::page-section-md
-
-## class: mb-[100px] tablet:mb-[200px]
-
+::page-section-md
+---
+class: mb-[100px] tablet:mb-[200px]
+---
 :::effect-appear-md
 ::::block-cta-md
-
 ---
-
 button.link: https://www.webo.agency/kontakt
 button.title: 'Skontaktuj się'
-
 ---
 
 #subtitle
-_-/_ Szukasz innej usługi?
+*-/* Szukasz innej usługi?
 
 #title
-
 ## Napisz do nas Porozmawiajmy!
 
 ::::
 :::
 ::
 
-## ::page-section-md
-
-## class: mb-[50px] tablet:mb-[150px]
-
+::page-section-md
+---
+class: mb-[50px] tablet:mb-[150px]
+---
 :::effect-appear-md
 ::::block-header-md
-
 ---
-
 class: mb-20
 maxWidth: 650
 center: true
-
 ---
 
 #subtitle
-_2/_ Proces
+*2/* Proces
 
 #title
-
 ## Do projektów podchodzimy etapowo
 
 #description
@@ -210,73 +178,65 @@ W realizacji projektu istotne jest posiadanie szerokiej wiedzy z zakresu technol
 #full
 :::block-process-md
 ::::process-tile-md
-
 ---
-
-## number: 1
-
+number: 1
+---
 #title
-
 ##### Zbieramy wymagania
 
 #description
 Jest to pierwszy krok jaki musimy wykonać w celu stworzenia strony. Poznajemy wszystkie założenia oraz Twoją firmę, jej klientów i branżę.
 ::::
 
-## ::::process-tile-md
-
-## number: 2
-
+::::process-tile-md
+---
+number: 2
+---
 #title
-
 ##### Analizujemy informacje
 
 #description
 Wytyczamy ścieżki użytkownika, projektujemy architekturę informacji oraz prototyp, kończąc na gotowym wyglądzie strony.
 ::::
 
-## ::::process-tile-md
-
-## number: 3
-
+::::process-tile-md
+---
+number: 3
+---
 #title
-
 ##### Projektujemy interfejs
 
 #description
 Wytyczamy ścieżki użytkownika, projektujemy architekturę informacji oraz prototyp, kończąc na gotowym wyglądzie strony.
 ::::
 
-## ::::process-tile-md
-
-## number: 4
-
+::::process-tile-md
+---
+number: 4
+---
 #title
-
 ##### Wdrażamy stronę
 
 #description
 Instalujemy i kodujemy zaprojektowane rozwiązanie w wybranej technologii. Efektem jest gotowa do testów aplikacja.
 ::::
 
-## ::::process-tile-md
-
-## number: 5
-
+::::process-tile-md
+---
+number: 5
+---
 #title
-
 ##### Testujemy i poprawiamy
 
 #description
 Sprawdzamy poprawność funkcjonowania systemu, wprowadzamy poprawki - ostatecznie Ty akceptujesz czy ruszamy na podbój internetu.
 ::::
 
-## ::::process-tile-md
-
-## number: 6
-
+::::process-tile-md
+---
+number: 6
+---
 #title
-
 ##### Publikujemy i rozwijamy
 
 #description
@@ -285,23 +245,20 @@ Po Twojej akceptacji publikujemy stronę www, następnie rozwijamy ją w ramach 
 :::
 ::
 
-## ::page-section-md
-
-## class: w-full mb-[100px] tablet:mb-[200px] bg-gray-light
-
-## :::block-columns-img-md
-
+::page-section-md
+---
+class: w-full mb-[100px] tablet:mb-[200px] bg-gray-light
+---
+:::block-columns-img-md
+---
 image.url: '/img/content-images/1solutions.png'
 imageMobile.url: '/img/content-images/1solutions_mobile.png'
-
 ---
-
 #subtitle
-_3/_ Skalowalne rozwiązania
+*3/* Skalowalne rozwiązania
 
 #title
-
-### Wybierzemy najlepsze rozwiązanie dla _Twojego biznesu_
+### Wybierzemy najlepsze rozwiązanie dla *Twojego biznesu*
 
 #description
 Do każdego projektu podchodzimy indywidualnie, analizując jego potrzeby. Korzystamy z najnowszych technologii, wspierając także popularne rozwiązania. Sprawdź sam!
@@ -309,89 +266,59 @@ Do każdego projektu podchodzimy indywidualnie, analizując jego potrzeby. Korzy
 
 :::effect-appear-md
 ::::block-logos-slider-md
-
+---
+class: pb-10 desktop:pb-[70px]
 ---
 
-## class: pb-10 desktop:pb-[70px]
-
-## :::::icon-logo-md
-
+:::::icon-logo-md
+---
 imgUrl: /img/logos/drupal.png
 title: Drupal
-
 ---
-
 :::::
 :::::icon-logo-md
-
 ---
-
 imgUrl: /img/logos/vue.png
 title: Vue
-
 ---
-
 :::::
 :::::icon-logo-md
-
 ---
-
 imgUrl: /img/logos/nuxt.png
 title: Nuxt
-
 ---
-
 :::::
 :::::icon-logo-md
-
 ---
-
 imgUrl: /img/logos/tailwind.png
 title: TailwindCSS
-
 ---
-
 :::::
 :::::icon-logo-md
-
 ---
-
 imgUrl: /img/logos/node.png
 title: NodeJS
-
 ---
-
 :::::
 :::::icon-logo-md
-
 ---
-
 imgUrl: /img/logos/js.png
 title: JavaScript
-
 ---
-
 :::::
 :::::icon-logo-md
-
 ---
-
 imgUrl: /img/logos/presta.png
 title: PrestaShop
-
 ---
-
 :::::
 :::::icon-logo-md
-
 ---
-
 imgUrl: /img/logos/cloudflare.png
 title: Cloudflare
-
 ---
-
 :::::
+
 
 #title
 Używane technologie
@@ -400,29 +327,23 @@ Używane technologie
 :::
 ::
 
-## ::page-section-md
-
+::page-section-md
+---
 id: realizacje
 class: mb-[80px] tablet:mb-[130px]
-
 ---
-
 :::effect-appear-md
 ::::block-header-link-md
-
 ---
-
 url: 'https://www.webo.agency/realizacje'
 linktitle: Zobacz więcej projektów
-
 ---
 
 #subtitle
-_4/_ Case study
+*4/* Case study
 
 #title
-
-### Jasteśmy dumni <br> z _wykonanych projektów_
+### Jasteśmy dumni <br> z *wykonanych projektów*
 
 ::::
 :::
@@ -435,55 +356,48 @@ _4/_ Case study
 :::
 ::
 
-## ::page-section-md
-
-## class: mb-[100px] tablet:mb-[200px]
+::page-section-md
+---
+class: mb-[100px] tablet:mb-[200px]
+---
 
 #full
 :::effect-appear-md
 ::::block-text-bg-md
-
+---
+imgUrl: '/img/content-images/5teamwork.png'
 ---
 
-## imgUrl: '/img/content-images/5teamwork.png'
-
 #subtitle
-_5/_ Nasza misja
+*5/* Nasza misja
 
 #title
-
-### Stosując nowoczesne narzędzia, _rozwiązujemy problemy_ użytkowników, _osiągając_ dzięki temu cele _biznesowe_ naszych partnerów.
+### Stosując nowoczesne narzędzia, *rozwiązujemy problemy* użytkowników, *osiągając* dzięki temu cele *biznesowe* naszych partnerów.
 
 ::::
 :::
 ::
 
-## ::page-section-md
-
+::page-section-md
+---
 id: o-nas
 class: mb-[100px] tablet:mb-[200px]
-
 ---
-
 :::block-bg-map-md
 :::
 
 :::effect-appear-md
 ::::block-header-md
-
 ---
-
 class: relative z-10 mb-10 tablet:mb-20
 maxWidth: 570
-
 ---
 
 #subtitle
-_6/_ Korzyści dla biznesu
+*6/* Korzyści dla biznesu
 
 #title
-
-### Dlaczego warto z nami _współpracować?_
+### Dlaczego warto z nami *współpracować?*
 
 #description
 Zajmujemy się kompleksowym wdrażaniem rozwiązań cyfrowych dla biznesu. Jeśli chcesz prowadzić i rozwijać swój biznes w sieci, my wiemy jak to zrobić!
@@ -491,19 +405,18 @@ Zajmujemy się kompleksowym wdrażaniem rozwiązań cyfrowych dla biznesu. Jeśl
 ::::
 :::
 
-## :::block-icons-md
+:::block-icons-md
+---
+class: mb-[50px] tablet:mb-[100px]
+---
 
-## class: mb-[50px] tablet:mb-[100px]
-
-## ::::icon-tile-md
-
+::::icon-tile-md
+---
 iconUrl: '/img/icons/icn_chart.png'
 delay: 0
-
 ---
 
 #title
-
 ##### Realizujemy cele biznesowe
 
 #description
@@ -511,16 +424,12 @@ Jako partner technologiczny przed rozpoczęciem projektu analizujemy Twoje zało
 
 ::::
 ::::icon-tile-md
-
 ---
-
 iconUrl: '/img/icons/uxui.png'
 delay: 1
-
 ---
 
 #title
-
 ##### Dbamy o potrzeby użytkownika
 
 #description
@@ -528,16 +437,12 @@ Każdy projekt opieramy o potrzeby użytkowników. Dzięki temu dostarczamy intu
 
 ::::
 ::::icon-tile-md
-
 ---
-
 iconUrl: '/img/icons/arrows.png'
 delay: 2
-
 ---
 
 #title
-
 ##### Stawiamy na Twój rozwój
 
 #description
@@ -545,16 +450,12 @@ Celem prowadzenia biznesu jest jego rozwój. Tworzymy skalowalne rozwiązania, z
 
 ::::
 ::::icon-tile-md
-
 ---
-
 iconUrl: '/img/icons/gears.png'
 delay: 3
-
 ---
 
 #title
-
 ##### Automatyzujemy procesy
 
 #description
@@ -562,16 +463,12 @@ Rozwijamy strony o automatyzacje, dzięki temu oszczędzamy Twój czas, a przy t
 
 ::::
 ::::icon-tile-md
-
 ---
-
 iconUrl: '/img/icons/AZ.png'
 delay: 4
-
 ---
 
 #title
-
 ##### Działamy kompleksowo
 
 #description
@@ -579,16 +476,12 @@ Od wstępnych rozmów, przez projekt strony i wdrożenie, po rozwój i wsparcie.
 
 ::::
 ::::icon-tile-md
-
 ---
-
 iconUrl: '/img/icons/partnership.png'
 delay: 5
-
 ---
 
 #title
-
 ##### Budujemy partnerskie relacje
 
 #description
@@ -600,58 +493,42 @@ Zależy nam na Twoim biznesie. We współpracy stawiamy na transparentność i z
 :::effect-appear-md
 ::::block-counters-md
 :::::counter-md
-
 ---
-
 target: 50
 symbol: '+'
-
 ---
 
 #title
-
 ##### Wykonanych projektów
 
 :::::
 :::::counter-md
-
 ---
-
 target: 10
 symbol: '+'
-
 ---
 
 #title
-
 ##### Wspieranych firm i instytucji
 
 :::::
 :::::counter-md
-
 ---
-
 target: 20
 symbol: '+'
-
 ---
 
 #title
-
 ##### Używanych rozwiązań OpenSource
 
 :::::
 :::::counter-md
-
 ---
-
 target: 98
 symbol: '%'
-
 ---
 
 #title
-
 ##### Trwałych relacji biznesowych
 
 :::::
@@ -659,26 +536,23 @@ symbol: '%'
 :::
 ::
 
-## ::page-section-md
-
+::page-section-md
+---
 id: opinie
 class: mb-[50px] tablet:mb-[150px]
-
 ---
 
-## :::block-header-md
-
+:::block-header-md
+---
 class: mb-[50px] tablet:mb-[100px]
 maxWidth: 700
 center: true
-
 ---
 
 #subtitle
-_7/_ Opinie
+*7/* Opinie
 
 #title
-
 ### Jesteśmy rekomendowani przez małe i średnie przedsiębiorstwa
 
 :::
@@ -687,10 +561,9 @@ _7/_ Opinie
 :::effect-appear-md
 ::::block-opinions-md
 :::::opinion-md
-
 ---
-
-## rating: 5
+rating: 5
+---
 
 #author
 Bartłomiej Świstak Piotrowski
@@ -703,10 +576,9 @@ W firmie Webo zamówiłem **stronę www**. Już na etapie **badania potrzeb dał
 
 :::::
 :::::opinion-md
-
 ---
-
-## rating: 5
+rating: 5
+---
 
 #author
 Natalia Ryfa
@@ -719,10 +591,9 @@ Pomogli nam w przelaniu naszych wizji sklepu internetowego na realny, **dobrze o
 
 :::::
 :::::opinion-md
-
 ---
-
-## rating: 5
+rating: 5
+---
 
 #author
 Adam Wasilewski
@@ -735,10 +606,9 @@ Właściciel - **Caffe wasyl**
 
 :::::
 :::::opinion-md
-
 ---
-
-## rating: 5
+rating: 5
+---
 
 #author
 Adam Przebinda
@@ -754,25 +624,22 @@ Bardzo profesjonalna firma, indywidualne podejście do klienta, **dobry i ciąg�
 :::
 ::
 
-## ::page-section-md
 
-## class: mb-[50px] tablet:mb-[100px]
-
+::page-section-md
+---
+class: mb-[50px] tablet:mb-[100px]
+---
 :::effect-appear-md
 ::::block-cta-md
-
 ---
-
 button.link: https://www.webo.agency/kontakt
 button.title: 'Skontaktuj się'
-
 ---
 
 #subtitle
-_-/_ Zainteresowała Cię nasza oferta?
+*-/* Zainteresowała Cię nasza oferta?
 
 #title
-
 ## Skontaktuj się z nami i rozpocznij współpracę
 
 ::::
