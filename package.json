@@ -7,10 +7,10 @@
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
-    "deploy": "npm run generate"
+    "deploy": "pnpm run generate"
   },
   "dependencies": {
-    "@webo-agency/theme": "github:webo-agency/www",
+    "@webo-agency/theme": "github:webo-agency/www#main",
     "nuxt": "^3.7.3"
   }
 }
