@@ -182,7 +182,7 @@ W realizacji projektu istotne jest posiadanie szerokiej wiedzy z zakresu technol
 number: 1
 ---
 #title
-##### Zbieramy wymagania
+##### Analizujemy założenia
 
 #description
 Jest to pierwszy krok jaki musimy wykonać w celu stworzenia strony. Poznajemy wszystkie założenia oraz Twoją firmę, jej klientów i branżę.
@@ -193,7 +193,7 @@ Jest to pierwszy krok jaki musimy wykonać w celu stworzenia strony. Poznajemy w
 number: 2
 ---
 #title
-##### Analizujemy informacje
+##### Projektujemy interfejs strony
 
 #description
 Wytyczamy ścieżki użytkownika, projektujemy architekturę informacji oraz prototyp, kończąc na gotowym wyglądzie strony.
@@ -204,10 +204,10 @@ Wytyczamy ścieżki użytkownika, projektujemy architekturę informacji oraz pro
 number: 3
 ---
 #title
-##### Projektujemy interfejs
+##### Programujemy stronę www
 
 #description
-Wytyczamy ścieżki użytkownika, projektujemy architekturę informacji oraz prototyp, kończąc na gotowym wyglądzie strony.
+Instalujemy i kodujemy zaprojektowane rozwiązanie w wybranej technologii. Działamy od konfiguracji infrastruktury, po pełne zaprogramowanie funkcjonalności i wyglądu.
 ::::
 
 ::::process-tile-md
@@ -215,10 +215,10 @@ Wytyczamy ścieżki użytkownika, projektujemy architekturę informacji oraz pro
 number: 4
 ---
 #title
-##### Wdrażamy stronę
+##### Testujemy i poprawiamy
 
 #description
-Instalujemy i kodujemy zaprojektowane rozwiązanie w wybranej technologii. Efektem jest gotowa do testów aplikacja.
+Gruntownie sprawdzamy działanie strony. Testy wykonujemy na wielu urządzeniach i rozdzielczościach aby mieć pewność że wszystko działa jak należy.
 ::::
 
 ::::process-tile-md
@@ -226,10 +226,10 @@ Instalujemy i kodujemy zaprojektowane rozwiązanie w wybranej technologii. Efekt
 number: 5
 ---
 #title
-##### Testujemy i poprawiamy
+##### Publikujemy stronę
 
 #description
-Sprawdzamy poprawność funkcjonowania systemu, wprowadzamy poprawki - ostatecznie Ty akceptujesz czy ruszamy na podbój internetu.
+Po wykonaniu wszelkich poprawek i otrzymaniu zielonego światła na publikację, przenosimy stronę na serwer produkcyjny skąd startuje na podbuj internetu!
 ::::
 
 ::::process-tile-md
@@ -237,10 +237,10 @@ Sprawdzamy poprawność funkcjonowania systemu, wprowadzamy poprawki - ostateczn
 number: 6
 ---
 #title
-##### Publikujemy i rozwijamy
+##### Wspieramy i rozwijamy
 
 #description
-Po Twojej akceptacji publikujemy stronę www, następnie rozwijamy ją w ramach usługi wsparcia technicznego.
+Publikacja strony to często początek, dlatego oferujemy wsparcie w ramach którego tworzymy nowe funkcjonalności, dbamy o aktualizację, monitorujemy wydajność i bezpieczeństwo a także reagujemy na awarie.
 ::::
 :::
 ::
