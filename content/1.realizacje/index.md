@@ -1,6 +1,9 @@
 ---
 name: Realizacje
 showInNav: true
+hreflangs:
+    EN: '/realizacje'
+    PL: '/realizacje'
 ---
 ::page-section-md
 ---
