@@ -3,7 +3,7 @@ name: Napisz do nas
 showInNav: true
 navButton: true
 hreflangs:
-    EN: '/kontakt'
+    EN: '/contact'
     PL: '/kontakt'
 ---
 ::block-banner-md

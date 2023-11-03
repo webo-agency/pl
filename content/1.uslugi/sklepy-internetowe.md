@@ -5,7 +5,7 @@ showInNav: true
 draft: false
 public: true
 hreflangs:
-    EN: '/uslugi/sklepy-internetowe'
+    EN: '/services/e-commerce'
     PL: '/uslugi/sklepy-internetowe'
 ---
 

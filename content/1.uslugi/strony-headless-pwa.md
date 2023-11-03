@@ -5,7 +5,7 @@ showInNav: true
 draft: false
 public: true
 hreflangs:
-    EN: '/uslugi/strony-headless-pwa'
+    EN: '/services/headless-and-pwa-websites'
     PL: '/uslugi/strony-headless-pwa'
 ---
 ::block-banner-md

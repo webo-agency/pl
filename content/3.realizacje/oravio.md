@@ -9,7 +9,7 @@ image.url: '/img/case-studies/Oravio.jpg'
 homepage_hidden: false
 public: true
 hreflangs:
-    EN: '/realizacje/oravio'
+    EN: '/case-studies/oravio'
     PL: '/realizacje/oravio'
 ---
 
