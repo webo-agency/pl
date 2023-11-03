@@ -65,6 +65,7 @@ class: mb-[50px] tablet:mb-[150px]
 
 :::block-filter-cases-md
 ---
+contentFolder: realizacje
 filters:
     - E-commerce
     - Strony www
