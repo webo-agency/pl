@@ -46,6 +46,6 @@ general:
         - type: behance
           link: https://www.behance.net/webo_agency
 head:
-    title: Webo - Cyfrowy partner
+    title: Webo - Strony www i e-commerce w nowych technologiach
     description: Rozwiązania cyfrowe takie jak strony web czy projektowanie budowane w myśl procesu agile
 ---
