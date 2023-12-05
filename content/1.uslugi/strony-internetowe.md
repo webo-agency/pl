@@ -1,6 +1,6 @@
 ---
-name: Sklepy internetowe
-description: Łatwe w obsłudze sklepy internetowe z płynnym procesem sprzedaży.
+name: Strony www
+description: Szybkie, wydajne i funkcjonalne strony internetowe.
 showInNav: true
 draft: false
 public: true
