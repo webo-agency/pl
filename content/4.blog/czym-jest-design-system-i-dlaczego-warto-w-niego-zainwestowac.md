@@ -87,7 +87,7 @@ class: mb-20
 ---
 shareText: 'Udostępnij:'
 tags:
-    - Technologia
+    - Design
 ---
 
 :::
