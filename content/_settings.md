@@ -24,6 +24,8 @@ footer:
           link: https://www.webo.agency/realizacje
         - title: Opinie
           link: https://www.webo.agency/#opinie
+        - title: Blog
+          link: https://www.webo.agency/blog
         - title: Kontakt
           link: https://www.webo.agency/kontakt
 general:
