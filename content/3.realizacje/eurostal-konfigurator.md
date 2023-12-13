@@ -9,6 +9,9 @@ technologies:
 image.url: '/img/content-images/case-eurostall-img1.png'
 homepage_hidden: false
 public: true
+hreflangs:
+    EN: '/case-studies/eurostal-konfigurator'
+    PL: '/realizacje/eurostal-konfigurator'
 ---
 
 
@@ -33,7 +36,6 @@ Konfigurator Eurostal umożliwia pełne dostosowanie garaży blaszanych dla klie
 #buttontext
 Zobacz online
 
-<!-- TODO: tags shold be taken from the data on top of .md file -->
 #tags
 - Aplikacja internetowa
 
