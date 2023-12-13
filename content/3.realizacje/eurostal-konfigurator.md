@@ -10,7 +10,7 @@ image.url: '/img/content-images/case-eurostall-img1.png'
 homepage_hidden: false
 public: true
 hreflangs:
-    EN: '/realizacje/eurostal-konfigurator'
+    EN: 'https://webo.pl/realizacje/eurostal-konfigurator'
     PL: '/realizacje/eurostal-konfigurator'
 ---
 
