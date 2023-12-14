@@ -312,6 +312,13 @@ class: static-content mb-[50px] desktop:mb-[100px]
 class: mx-default
 ---
 
+::::svg-decorated
+---
+decoration: true
+class: -bottom-6 -left-32
+---
+::::
+
 ### **Rezultat pracy**
 ::::prose-p3
 Ostatnim etapem prac było wykonanie optymalizacji zdjęć które przyśpieszyło czas ładowania, dodanie prostego formularza kontaktowego oraz publikacja konfiguratora na kilku sklepach klienta.
