@@ -343,7 +343,7 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 :::effect-appear-md
-::::prose-figure{src="/img/content-images/case-eurostall-img3.png"}
+::::prose-figure{src="/img/content-images/case-eurostall-img4.png"}
 ::::
 :::
 ::
