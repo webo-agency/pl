@@ -341,7 +341,7 @@ W efekcie prac nasz klient otrzymał gotowy konfigurator produktu który może b
 ---
 class: mb-[50px] tablet:mb-[100px]
 ---
-
+<!-- test -->
 :::effect-appear-md
 ::::prose-figure{src="/img/content-images/case-eurostall-img4.png"}
 ::::
