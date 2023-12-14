@@ -309,7 +309,7 @@ class: static-content mb-[50px] desktop:mb-[100px]
 ---
 :::effect-appear-md
 ---
-class: mx-default
+class: mx-default relative
 ---
 
 ::::svg-decorated
