@@ -53,7 +53,7 @@ Nie korzystamy z szablonów czy gotowców. Strony internetowe wdrażamy od podst
 :::block-offer-tiles-md
 ::::offer-tile-md
 --- 
-icon: '/img/icons/site.png'
+icon: '/img/icons/site.svg'
 link: ''
 stylesCustom: true
 ---
@@ -67,7 +67,7 @@ Nowoczesne witryny internetowe, stworzone by realizować określone założenia 
 
 ::::offer-tile-md
 --- 
-icon: '/img/icons/onepage.png'
+icon: '/img/icons/onepage.svg'
 link: ''
 stylesCustom: true
 delay: 1
@@ -82,7 +82,7 @@ Zadaniowe strony internetowe, mające na celu promocje produktu lub usługi. Pro
 
 ::::offer-tile-md
 --- 
-icon: '/img/icons/site_extensive.png'
+icon: '/img/icons/site_extensive.svg'
 link: ''
 stylesCustom: true
 delay: 2
@@ -96,7 +96,7 @@ Dedykowane dla dużych firm. Rozbudowane portale internetowe z wieloma funkcjami
 
 ::::offer-tile-md
 --- 
-icon: '/img/icons/pwa.png'
+icon: '/img/icons/pwa.svg'
 link: 'https://www.webo.agency/uslugi/strony-headless-pwa'
 stylesCustom: true
 delay: 3

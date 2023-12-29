@@ -217,7 +217,7 @@ class: desktop:[&_.offer-tile]:!basis-1/3
 ---
 ::::offer-tile-md
 ---
-icon: '/img/icons/site.png'
+icon: '/img/icons/site.svg'
 iconBg: true
 link: 'https://www.webo.agency/uslugi/strony-internetowe'
 stylesMinimal: true
@@ -232,7 +232,7 @@ Nowoczesne witryny internetowe, stworzone by realizować określone założenia 
 
 ::::offer-tile-md
 ---
-icon: '/img/icons/store.png'
+icon: '/img/icons/store.svg'
 link: 'https://www.webo.agency/uslugi/sklepy-internetowe'
 iconBg: true
 stylesMinimal: true
@@ -247,7 +247,7 @@ Nowoczesne witryny internetowe, stworzone by realizować określone założenia 
 
 ::::offer-tile-md
 ---
-icon: '/img/icons/apps.png'
+icon: '/img/icons/apps.svg'
 iconBg: true
 link: ''
 stylesMinimal: true

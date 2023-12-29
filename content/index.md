@@ -60,7 +60,7 @@ Dostarczamy optymalne produkty cyfrowe. Jesteśmy ciekawi Twoich potrzeb - to on
 :::block-offer-tiles-md
 ::::offer-tile-md
 ---
-icon: '/img/icons/store.png'
+icon: '/img/icons/store.svg'
 bgIcon: '/img/icons/store_bgIcon.png'
 link: 'https://www.webo.agency/uslugi/sklepy-internetowe'
 ---
@@ -73,7 +73,7 @@ E-commerce z płynnym procesem zakupowym, dostosowany do potrzeb Twojej firmy. T
 
 ::::offer-tile-md
 ---
-icon: '/img/icons/site.png'
+icon: '/img/icons/site.svg'
 bgIcon: '/img/icons/site_bgIcon.png'
 link: 'https://www.webo.agency/uslugi/strony-internetowe'
 delay: 1
@@ -87,7 +87,7 @@ Kreujemy szybkie nowoczesne i funkcjonalne strony internetowe, na których Twój
 
 ::::offer-tile-md
 ---
-icon: '/img/icons/apps.png'
+icon: '/img/icons/apps.svg'
 bgIcon: '/img/icons/apps_bgIcon.png'
 link: ''
 delay: 2
@@ -101,7 +101,7 @@ Dedykowane do specjalnych zastosowań w Twojej firmie. Przyjazne dla użytkownik
 
 ::::offer-tile-md
 ---
-icon: '/img/icons/pwa.png'
+icon: '/img/icons/pwa.svg'
 bgIcon: '/img/icons/pwa_bgIcon.png'
 link: 'https://www.webo.agency/uslugi/strony-headless-pwa'
 delay: 3
@@ -115,7 +115,7 @@ Wykonane w nowych technologiach, dostarczające maksimum wydajności zapewniają
 
 ::::offer-tile-md
 ---
-icon: '/img/icons/support.png'
+icon: '/img/icons/support.svg'
 link: 'https://www.webo.agency/uslugi/wsparcie-i-rozwoj'
 delay: 4
 ---
@@ -126,12 +126,12 @@ delay: 4
 
 ::::offer-tile-md
 ---
-icon: '/img/icons/uxui.png'
-link: ''
+icon: '/img/icons/uxui.svg'
+link: 'https://www.webo.agency/uslugi/projektowanie-ux-ui'
 delay: 5
 ---
 #title
-Projektowanie UX/UI
+##### Projektowanie UX/UI
 
 ::::
 :::
@@ -285,43 +285,43 @@ title: Drupal
 :::::
 :::::icon-logo-md
 ---
-imgUrl: /img/logos/vue.png
+imgUrl: /img/logos/vue.svg
 title: Vue
 ---
 :::::
 :::::icon-logo-md
 ---
-imgUrl: /img/logos/nuxt.png
+imgUrl: /img/logos/nuxt.svg
 title: Nuxt
 ---
 :::::
 :::::icon-logo-md
 ---
-imgUrl: /img/logos/tailwind.png
+imgUrl: /img/logos/tailwind.svg
 title: TailwindCSS
 ---
 :::::
 :::::icon-logo-md
 ---
-imgUrl: /img/logos/node.png
+imgUrl: /img/logos/node.svg
 title: NodeJS
 ---
 :::::
 :::::icon-logo-md
 ---
-imgUrl: /img/logos/js.png
+imgUrl: /img/logos/js.svg
 title: JavaScript
 ---
 :::::
 :::::icon-logo-md
 ---
-imgUrl: /img/logos/presta.png
+imgUrl: /img/logos/presta.svg
 title: PrestaShop
 ---
 :::::
 :::::icon-logo-md
 ---
-imgUrl: /img/logos/cloudflare.png
+imgUrl: /img/logos/cloudflare.svg
 title: Cloudflare
 ---
 :::::
@@ -422,7 +422,7 @@ class: mb-[50px] tablet:mb-[100px]
 
 ::::icon-tile-md
 ---
-iconUrl: '/img/icons/icn_chart.png'
+iconUrl: '/img/icons/icn_chart.svg'
 delay: 0
 ---
 
@@ -435,7 +435,7 @@ Jako partner technologiczny przed rozpoczęciem projektu analizujemy Twoje zało
 ::::
 ::::icon-tile-md
 ---
-iconUrl: '/img/icons/uxui.png'
+iconUrl: '/img/icons/uxui.svg'
 delay: 1
 ---
 
@@ -448,7 +448,7 @@ Każdy projekt opieramy o potrzeby użytkowników. Dzięki temu dostarczamy intu
 ::::
 ::::icon-tile-md
 ---
-iconUrl: '/img/icons/arrows.png'
+iconUrl: '/img/icons/arrows.svg'
 delay: 2
 ---
 
@@ -461,7 +461,7 @@ Celem prowadzenia biznesu jest jego rozwój. Tworzymy skalowalne rozwiązania, z
 ::::
 ::::icon-tile-md
 ---
-iconUrl: '/img/icons/gears.png'
+iconUrl: '/img/icons/gears.svg'
 delay: 3
 ---
 
@@ -474,7 +474,7 @@ Rozwijamy strony o automatyzacje, dzięki temu oszczędzamy Twój czas, a przy t
 ::::
 ::::icon-tile-md
 ---
-iconUrl: '/img/icons/AZ.png'
+iconUrl: '/img/icons/AZ.svg'
 delay: 4
 ---
 
@@ -487,7 +487,7 @@ Od wstępnych rozmów, przez projekt strony i wdrożenie, po rozwój i wsparcie.
 ::::
 ::::icon-tile-md
 ---
-iconUrl: '/img/icons/partnership.png'
+iconUrl: '/img/icons/partnership.svg'
 delay: 5
 ---
 
