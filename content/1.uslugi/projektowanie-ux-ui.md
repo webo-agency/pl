@@ -18,7 +18,7 @@ class: block !mb-0
 ---
 
 #subtitle
-*-/* Gwarantowana dostępność specjalistów IT
+*-/* User Experience Design
 
 #title
 ## Projektowanie UX/UI stron www, sklepów i aplikacji
@@ -242,7 +242,7 @@ delay: 1
 ##### Sklepy e-commerce <br> i portale internetowe
 
 #description
-Nowoczesne witryny internetowe, stworzone by realizować określone założenia firm i instytucji. Projektowane z myślą o użytkownikach i osiąganiu celów biznesowych.
+Sklepy internetowe z płynnym procesem sprzedaży oraz przejrzyste serwisy www, koncentrujące uwagę użytkowników.
 ::::
 
 ::::offer-tile-md
@@ -257,7 +257,7 @@ delay: 2
 ##### Aplikacje webowe <br> i konfiguratory 
 
 #description
-Nowoczesne witryny internetowe, stworzone by realizować określone założenia firm i instytucji. Projektowane z myślą o użytkownikach i osiąganiu celów biznesowych.
+Dedykowane do specjalnych zastosowań w firmach, proste w zarządzaniu i usprawniające konkretne procesy biznesowe.
 
 ::::
 :::

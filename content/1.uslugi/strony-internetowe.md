@@ -138,7 +138,6 @@ class: mb-20
 ### Jakość kodu, automatyzacje, <br> bezpieczeństwo i świetny UX
 
 #description
-Nie korzystamy z szablonów czy gotowców. Strony internetowe wdrażamy od podstaw, korzystając tylko ze sprawdzonych i nowoczesnych technologii oraz jasnych procesów technologicznych. Dzięki temu zapewniamy najwyższą jakość, wydajność i bezpieczeństwo. Od projektu UX/UI strony, przez programowanie backend/frontent, po wsparcie powdrożeniowe, stworzysz z nami:
 
 ::::
 :::
