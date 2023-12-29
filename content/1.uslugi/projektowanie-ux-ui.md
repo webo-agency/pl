@@ -361,7 +361,7 @@ W tym etapie sprawdzamy czy prototyp spełnia cele i założenia oraz czy odpowi
 :::::
 :::::process-tile-arrow-md
 ---
-icon: '/img/icons/design.svg'
+icon: '/img/icons/design-proto.svg'
 ---
 
 #title

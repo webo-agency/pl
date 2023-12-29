@@ -292,7 +292,7 @@ Dostosowanie strony pod kątem wyszukiwarek to konieczność, każdą naszą str
 ::::
 ::::icon-tile-md
 ---
-iconUrl: '/img/icons/design.png'
+iconUrl: '/img/icons/design-proto.svg'
 iconInline: true
 line: false
 delay: 2
