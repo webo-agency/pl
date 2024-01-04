@@ -26,7 +26,7 @@ Tworzonych bez szablonów czy gotowców - <u>od podstaw zgodnie z dokumentacją,
 ::page-section-md
 ---
 id: uslugi
-classes: mb-[50px] tablet:mb-[150px]
+classes: mb-[50px] tablet:mb-[150px] pt-[80px] desktop:pt-[120px]
 ---
 :::effect-appear-md
 ::::block-header-md
