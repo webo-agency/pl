@@ -15,20 +15,10 @@ button.link: https://www.webo.agency/kontakt
  Witaj w Webo
 
 #title
-# Dostarczamy efekty przez *UX i technologię!*
+# Jesteśmy specjalistami od solidnych *stron internetowych*
 
 #description
-Stwórzmy razem rozwiązanie dla <u>Twojej firmy</u>
-
-::
-
-
-::block-highlighted-md
----
-class: mb-[100px] tablet:mb-[200px]
----
-
-### Jesteśmy młodą agencją interaktywną, założoną przez specjalistów z *10 letnim doświadczeniem* w *tworzeniu produktów cyfrowych.*
+Tworzonych bez szablonów czy gotowców - <u>od podstaw zgodnie z dokumentacją, jak należy.</u>
 
 ::
 
