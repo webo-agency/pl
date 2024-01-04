@@ -7,7 +7,7 @@ sitemap:
 ---
 ::block-hero-md
 ---
-button.title: Rozpocznij projekt
+button.title: Dowiedz się więcej
 button.link: https://www.webo.agency/kontakt
 ---
 
