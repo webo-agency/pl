@@ -8,7 +8,7 @@ sitemap:
 ::block-hero-md
 ---
 button.title: Dowiedz się więcej
-button.link: https://www.webo.agency/kontakt
+button.link: https://webo.pl/uslugi/strony-internetowe
 ---
 
 #subtitle
