@@ -114,6 +114,7 @@ Dowiedz się więcej
 ::::offer-tile-md
 ---
 icon: '/img/icons/support.png'
+technologies: '/img/icons/support-technologies.png'
 link: 'https://www.webo.agency/uslugi/wsparcie-i-rozwoj'
 delay: 4
 ---
