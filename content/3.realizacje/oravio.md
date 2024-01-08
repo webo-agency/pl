@@ -5,11 +5,12 @@ introduction.description: 'Oravio to to polski producent wysokiej jakości szczo
 type:
     - E-commerce
     - UX/UI
-image.url: '/img/case-studies/Oravio.jpg'
-homepage_hidden: false
+image.url: '/img/case-studies/Oravio.png'
+tile_hidden: false
+tile_order: 4
 public: true
 hreflangs:
-    EN: '/case-studies/oravio'
+    # EN: '/case-studies/oravio'
     PL: '/realizacje/oravio'
 ---
 

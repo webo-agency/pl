@@ -636,7 +636,7 @@ linktitle: Zobacz więcej projektów
 
 #full
 :::effect-appear-md
-::::block-cases-slider-md
+::::block-cases-md
 ---
 contentFolder: realizacje
 selectedSlugs:

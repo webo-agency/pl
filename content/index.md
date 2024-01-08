@@ -8,7 +8,7 @@ sitemap:
 ::block-hero-md
 ---
 button.title: Dowiedz się więcej
-button.link: https://webo.pl/uslugi/strony-internetowe
+button.link: https://www.webo.agency/uslugi/strony-internetowe
 ---
 
 #subtitle
@@ -29,17 +29,30 @@ id: uslugi
 classes: mb-[50px] tablet:mb-[150px] pt-[80px] desktop:pt-[120px]
 ---
 :::effect-appear-md
-::::block-header-md
+:::svg-decorated
+---
+decoration: true
+class: bottom-0 right-[10%] scale-x-[-1]
+---
+:::
+:::svg-bg-dots
+---
+decoration: true
+class: top-0 right-0
+---
+:::
+
+::::block-header-two-cols-md
 ---
 class: mb-10 tablet:mb-20
-maxWidth: 450
+maxWidth: 640
 ---
 
 #subtitle
 *1/* Usługi
 
 #title
-## W czym możemy Ci *pomóc?*
+## Dostarczamy rozwiązania *internetowe dla firm*
 
 #description
 Dostarczamy optymalne produkty cyfrowe. Jesteśmy ciekawi Twoich potrzeb - to one są podstawą oferowanych przez nas rozwiązań
@@ -50,8 +63,25 @@ Dostarczamy optymalne produkty cyfrowe. Jesteśmy ciekawi Twoich potrzeb - to on
 :::block-offer-tiles-md
 ::::offer-tile-md
 ---
-icon: '/img/icons/store.svg'
-bgIcon: '/img/icons/store_bgIcon.png'
+icon: '/img/icons/site.png'
+technologies: '/img/icons/websites-technologies.png'
+link: 'https://www.webo.agency/uslugi/strony-internetowe'
+delay: 1
+---
+#title
+##### Strony internetowe
+
+#description
+Kreujemy szybkie nowoczesne i funkcjonalne strony internetowe, na których Twój klient szybko znajdzie to czego szuka.
+
+#readMoreText
+Dowiedz się więcej
+::::
+
+::::offer-tile-md
+---
+icon: '/img/icons/store.png'
+technologies: '/img/icons/stores-technologies.png'
 link: 'https://www.webo.agency/uslugi/sklepy-internetowe'
 ---
 #title
@@ -59,26 +89,15 @@ link: 'https://www.webo.agency/uslugi/sklepy-internetowe'
 
 #description
 E-commerce z płynnym procesem zakupowym, dostosowany do potrzeb Twojej firmy. Tworzymy sklepy przygotowane do dalszego rozwoju i ekspansji.
+
+#readMoreText
+Dowiedz się więcej
 ::::
 
 ::::offer-tile-md
 ---
-icon: '/img/icons/site.svg'
-bgIcon: '/img/icons/site_bgIcon.png'
-link: 'https://www.webo.agency/uslugi/strony-internetowe'
-delay: 1
----
-#title
-##### Strony www
-
-#description
-Kreujemy szybkie nowoczesne i funkcjonalne strony internetowe, na których Twój klient szybko znajdzie to czego szuka.
-::::
-
-::::offer-tile-md
----
-icon: '/img/icons/apps.svg'
-bgIcon: '/img/icons/apps_bgIcon.png'
+icon: '/img/icons/apps.png'
+technologies: '/img/icons/websites-technologies.png'
 link: ''
 delay: 2
 ---
@@ -87,42 +106,42 @@ delay: 2
 
 #description
 Dedykowane do specjalnych zastosowań w Twojej firmie. Przyjazne dla użytkowników i proste w zarządzaniu.
+
+#readMoreText
+Dowiedz się więcej
 ::::
 
 ::::offer-tile-md
 ---
-icon: '/img/icons/pwa.svg'
-bgIcon: '/img/icons/pwa_bgIcon.png'
-link: 'https://www.webo.agency/uslugi/strony-headless-pwa'
-delay: 3
----
-#title
-##### Strony Headless / PWA
-
-#description
-Wykonane w nowych technologiach, dostarczające maksimum wydajności zapewniające najwyższy standard bezpieczeństwa.
-::::
-
-::::offer-tile-md
----
-icon: '/img/icons/support.svg'
+icon: '/img/icons/support.png'
 link: 'https://www.webo.agency/uslugi/wsparcie-i-rozwoj'
 delay: 4
 ---
 #title
-##### Wsparcie i rozwój sklepów internetowych i stron www
+##### Wsparcie i rozwój
 
+#description
+Dzięki któremu zabezpieczysz zasoby, zmaksymalizujesz wydajność i zredukujesz koszta utrzymania strony internetowej.
+
+#readMoreText
+Dowiedz się więcej
 ::::
 
 ::::offer-tile-md
 ---
-icon: '/img/icons/uxui.svg'
+icon: '/img/icons/uxui.png'
+technologies: '/img/icons/uxui-technologies.png'
 link: 'https://www.webo.agency/uslugi/projektowanie-ux-ui'
 delay: 5
 ---
 #title
 ##### Projektowanie UX/UI
 
+#description
+Dzięki której zwiększysz zaangażowanie klientów, wyróżnisz się na rynku i uprościsz korzystanie ze swojej strony / sklepu internetowego.
+
+#readMoreText
+Dowiedz się więcej
 ::::
 :::
 ::
@@ -330,10 +349,9 @@ id: realizacje
 class: mb-[80px] tablet:mb-[130px]
 ---
 :::effect-appear-md
-::::block-header-link-md
+::::block-header-md
 ---
-url: 'https://www.webo.agency/realizacje'
-linktitle: Zobacz więcej projektów
+class: mb-10 tablet:mb-20
 ---
 
 #subtitle
@@ -345,14 +363,13 @@ linktitle: Zobacz więcej projektów
 ::::
 :::
 
-#full
-:::effect-appear-md
-::::block-cases-slider-md
+:::block-cases-md
 ---
 contentFolder: realizacje
+moreBtn.url: 'https://www.webo.agency/realizacje'
+moreBtn.linktitle: Zobacz wszystkie projekty
 ---
 
-::::
 :::
 ::
 
