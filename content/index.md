@@ -64,7 +64,7 @@ Dostarczamy optymalne produkty cyfrowe. Jesteśmy ciekawi Twoich potrzeb - to on
 ::::offer-tile-md
 ---
 icon: '/img/icons/services-site.svg'
-technologies: '/img/icons/websites-technologies.png'
+technologies: '/img/icons/websites-technologies.svg'
 link: 'https://www.webo.agency/uslugi/strony-internetowe'
 delay: 1
 ---
@@ -81,7 +81,7 @@ Dowiedz się więcej
 ::::offer-tile-md
 ---
 icon: '/img/icons/services-store.svg'
-technologies: '/img/icons/stores-technologies.png'
+technologies: '/img/icons/stores-technologies.svg'
 link: 'https://www.webo.agency/uslugi/sklepy-internetowe'
 ---
 #title
@@ -97,7 +97,7 @@ Dowiedz się więcej
 ::::offer-tile-md
 ---
 icon: '/img/icons/services-apps.svg'
-technologies: '/img/icons/websites-technologies.png'
+technologies: '/img/icons/websites-technologies.svg'
 link: ''
 delay: 2
 ---
@@ -114,7 +114,7 @@ Dowiedz się więcej
 ::::offer-tile-md
 ---
 icon: '/img/icons/services-support.svg'
-technologies: '/img/icons/support-technologies.png'
+technologies: '/img/icons/support-technologies.svg'
 link: 'https://www.webo.agency/uslugi/wsparcie-i-rozwoj'
 delay: 4
 ---
@@ -131,7 +131,7 @@ Dowiedz się więcej
 ::::offer-tile-md
 ---
 icon: '/img/icons/services-uxui.svg'
-technologies: '/img/icons/uxui-technologies.png'
+technologies: '/img/icons/uxui-technologies.svg'
 link: 'https://www.webo.agency/uslugi/projektowanie-ux-ui'
 delay: 5
 ---
