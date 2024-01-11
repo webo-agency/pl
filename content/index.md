@@ -170,100 +170,6 @@ button.title: 'Skontaktuj się'
 
 ::page-section-md
 ---
-class: mb-[50px] tablet:mb-[150px]
----
-:::effect-appear-md
-::::block-header-md
----
-class: mb-20
-maxWidth: 650
-center: true
----
-
-#subtitle
-*2/* Proces
-
-#title
-## Do projektów podchodzimy etapowo
-
-#description
-W realizacji projektu istotne jest posiadanie szerokiej wiedzy z zakresu technologii i projektowania nastawionego na użytkownika oraz wypracowanego procesu, który zapewnia realizację założeń bez obsów czasowych i w ustalonym budżecie.
-
-::::
-:::
-
-#full
-:::block-process-md
-::::process-tile-md
----
-number: 1
----
-#title
-##### Analizujemy założenia
-
-#description
-Jest to pierwszy krok jaki musimy wykonać w celu stworzenia strony. Poznajemy wszystkie założenia oraz Twoją firmę, jej klientów i branżę.
-::::
-
-::::process-tile-md
----
-number: 2
----
-#title
-##### Projektujemy interfejs strony
-
-#description
-Wytyczamy ścieżki użytkownika, projektujemy architekturę informacji oraz prototyp, kończąc na gotowym wyglądzie strony.
-::::
-
-::::process-tile-md
----
-number: 3
----
-#title
-##### Programujemy stronę www
-
-#description
-Instalujemy i kodujemy zaprojektowane rozwiązanie w wybranej technologii. Działamy od konfiguracji infrastruktury, po pełne zaprogramowanie funkcjonalności i wyglądu.
-::::
-
-::::process-tile-md
----
-number: 4
----
-#title
-##### Testujemy i poprawiamy
-
-#description
-Gruntownie sprawdzamy działanie strony. Testy wykonujemy na wielu urządzeniach i rozdzielczościach aby mieć pewność że wszystko działa jak należy.
-::::
-
-::::process-tile-md
----
-number: 5
----
-#title
-##### Publikujemy stronę
-
-#description
-Po wykonaniu wszelkich poprawek i otrzymaniu zielonego światła na publikację, przenosimy stronę na serwer produkcyjny skąd startuje na podbuj internetu!
-::::
-
-::::process-tile-md
----
-number: 6
----
-#title
-##### Wspieramy i rozwijamy
-
-#description
-Publikacja strony to często początek, dlatego oferujemy wsparcie w ramach którego tworzymy nowe funkcjonalności, dbamy o aktualizację, monitorujemy wydajność i bezpieczeństwo a także reagujemy na awarie.
-::::
-:::
-::
-
-::page-section-md
----
 class: w-full mb-[100px] tablet:mb-[200px] bg-gray-light
 ---
 :::block-columns-img-md
@@ -272,7 +178,7 @@ image.url: '/img/content-images/1solutions.png'
 imageMobile.url: '/img/content-images/1solutions_mobile.png'
 ---
 #subtitle
-*3/* Skalowalne rozwiązania
+*2/* Skalowalne rozwiązania
 
 #title
 ### Wybierzemy najlepsze rozwiązanie dla *Twojego biznesu*
@@ -356,7 +262,7 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-*4/* Case study
+*3/* Case study
 
 #title
 ### Jasteśmy dumni <br> z *wykonanych projektów*
@@ -376,181 +282,131 @@ moreBtn.linktitle: Zobacz wszystkie projekty
 
 ::page-section-md
 ---
-class: mb-[100px] tablet:mb-[200px]
+class: bg-gray-darkest relative z-10 overflow-hidden mb-[100px] tablet:mb-[200px] pt-10 tablet:pt-[100px] [&_.right]:relative [&_.right]:flex [&_.right]:items-end
 ---
 
-#full
-:::effect-appear-md
-::::block-text-bg-md
----
-imgUrl: '/img/content-images/5teamwork.png'
----
+:::block-columns-1-1-md
 
-#subtitle
-*5/* Nasza misja
-
-#title
-### Stosując nowoczesne narzędzia, *rozwiązujemy problemy* użytkowników, *osiągając* dzięki temu cele *biznesowe* naszych partnerów.
-
-::::
-:::
-::
-
-::page-section-md
+#left
+::::effect-appear-md
+:::::block-header-md
 ---
-id: o-nas
-class: mb-[100px] tablet:mb-[200px]
----
-:::block-bg-map-md
-:::
-
-:::effect-appear-md
-::::block-header-md
----
-class: relative z-10 mb-10 tablet:mb-20
-maxWidth: 570
+textWhite: true
+class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-*6/* Korzyści dla biznesu
+*4/* Nasze podejście
 
 #title
-### Dlaczego warto z nami *współpracować?*
+### Dlaczego warto <br> nam *zaufać?*
 
 #description
-Zajmujemy się kompleksowym wdrażaniem rozwiązań cyfrowych dla biznesu. Jeśli chcesz prowadzić i rozwijać swój biznes w sieci, my wiemy jak to zrobić!
-
+::::::prose-p-3
+---
+class: px-5 tablet:px-10
+---
+Nasz zespół to solidne umysły ścisłe. Znamy się na technologii jak na niczym innym, pracujemy na twardych danych a nie domysłach.
+::::::
+:::::
 ::::
-:::
 
-:::block-icons-md
+::::block-list-ul-md
 ---
-class: mb-[50px] tablet:mb-[100px]
+class: mb-10 gap-5 columns-1 tablet:columns-2 [&_li]:inline-block space-y-5
 ---
 
-::::icon-tile-md
+:::::tile-dark-icon-md
 ---
-iconUrl: '/img/icons/icn_chart.svg'
+iconUrl: '/img/icons/coding.svg'
 delay: 0
 ---
 
 #title
-##### Realizujemy cele biznesowe
+#### Zawsze opieramy się o dokumentację techniczną
 
 #description
-Jako partner technologiczny przed rozpoczęciem projektu analizujemy Twoje założenia biznesowe- to one są najważniejsze.
+Dzięki czemu nasze strony są wydajne i bezpieczne, a kod strony odpowiednio zoptymalizowany.
 
-::::
-::::icon-tile-md
+:::::
+:::::tile-dark-icon-md
 ---
-iconUrl: '/img/icons/uxui.svg'
+iconUrl: '/img/icons/military-rank.svg'
+delay: 2
+class: mt-0 tablet:mt-5
+---
+
+#title
+#### Jesteśmy zespołem od zadań specjalnych
+
+#description
+Nie ma rzeczy niemożliwych 
+i problemów których nie da się rozwiązać - udowadnialiśmy to wielokrotnie
+
+:::::
+:::::tile-dark-icon-md
+---
+iconUrl: '/img/icons/stability.svg'
 delay: 1
 ---
 
 #title
-##### Dbamy o potrzeby użytkownika
+#### Tworzymy strony stabilnie działające przez lata
 
 #description
-Każdy projekt opieramy o potrzeby użytkowników. Dzięki temu dostarczamy intuicyjne strony www, połączone z unikalnym designem.
+Dbamy o szczegóły i jakość naszej pracy, stawiamy na ręcznie programowane strony, bez śmieciowego kodu
 
-::::
-::::icon-tile-md
----
-iconUrl: '/img/icons/arrows.svg'
-delay: 2
----
-
-#title
-##### Stawiamy na Twój rozwój
-
-#description
-Celem prowadzenia biznesu jest jego rozwój. Tworzymy skalowalne rozwiązania, zapewniając że strona www jest gotowa na Twój sukces.
-
-::::
-::::icon-tile-md
+:::::
+:::::tile-dark-icon-md
 ---
 iconUrl: '/img/icons/gears.svg'
 delay: 3
 ---
 
 #title
-##### Automatyzujemy procesy
+#### Wielokrotnie testujemy przed publikacją
 
 #description
-Rozwijamy strony o automatyzacje, dzięki temu oszczędzamy Twój czas, a przy tym pieniądze potrzebne na zarządzanie stroną.
-
-::::
-::::icon-tile-md
----
-iconUrl: '/img/icons/AZ.svg'
-delay: 4
----
-
-#title
-##### Działamy kompleksowo
-
-#description
-Od wstępnych rozmów, przez projekt strony i wdrożenie, po rozwój i wsparcie. Świadczymy usługi na każdym etapie życia produktu.
-
-::::
-::::icon-tile-md
----
-iconUrl: '/img/icons/partnership.svg'
-delay: 5
----
-
-#title
-##### Budujemy partnerskie relacje
-
-#description
-Zależy nam na Twoim biznesie. We współpracy stawiamy na transparentność i zaufanie aby każdy był zadowolony z podejmowanych działań.
-
-::::
-:::
-
-:::effect-appear-md
-::::block-counters-md
-:::::counter-md
----
-target: 50
-symbol: '+'
----
-
-#title
-##### Wykonanych projektów
-
-:::::
-:::::counter-md
----
-target: 10
-symbol: '+'
----
-
-#title
-##### Wspieranych firm i instytucji
-
-:::::
-:::::counter-md
----
-target: 20
-symbol: '+'
----
-
-#title
-##### Używanych rozwiązań OpenSource
-
-:::::
-:::::counter-md
----
-target: 98
-symbol: '%'
----
-
-#title
-##### Trwałych relacji biznesowych
+Przed publikacją gruntownie sprawdzamy działanie  strony, zarówno manualnie jak i wykorzystując testy automatyczne.
 
 :::::
 ::::
+
+#right
+::::effect-appear-md
+---
+class: w-full
+---
+:::::effect-parallax-md
+---
+parallaxScale: 0.15
+startBottom: true
+---
+::::::img-decorated-md
+---
+imgUrl: '/img/content-images/approach-img.png'
+decoration: false
+class: mt-0 !mb-0 !pl-20 tablet:!pl-32 !w-full relative after:block after:content-[''] after:bottom-0 after:inset-x-0 after:top-1/3 after:z-30 after:bg-gradient-to-t after:bg-gradient-from after:from-gray-darkest after:absolute
+---
+::::::
+:::::
+:::::effect-parallax-md
+---
+class: bottom-0 left-10 !absolute
+parallaxScale: 0.05
+startBottom: true
+---
+::::::img-decorated-md
+---
+imgUrl: '/img/logo-o-cropped.svg'
+decoration: false
+class: mt-0 !pl-0 !mb-0 !w-[70%] !ml-0
+---
+::::::
+:::::
+::::
+
+
 :::
 ::
 
@@ -568,13 +424,15 @@ class: mb-10 tablet:mb-24 [&_.right]:flex [&_.right]:items-center [&_.right]:jus
 #right
 ::::widget-rating-clutch
 ---
-class: h-[60px] p-2 mt-6 tablet:mt-0 rounded-[5px] border-[1px] border-green-main
+border: true
+shrinkMobile: true
+class: mt-6 tablet:mt-0
 ---
 ::::
-
 ::::widget-rating-google
 ---
-class: h-[60px] p-1 mt-6 tablet:mt-0 rounded-[5px] border-[1px] border-green-main
+border: true
+class: mt-6 tablet:mt-0
 rating: 5
 link: https://www.google.com/search?q=webo+gliwice&sca_esv=581867933&ei=avdRZdPPHbCVxc8PqvGHwAM&ved=0ahUKEwjTrJKs38CCAxWwSvEDHar4ATgQ4dUDCBA&uact=5&oq=webo+gliwice&gs_lp=Egxnd3Mtd2l6LXNlcnAiDHdlYm8gZ2xpd2ljZTICECZIsdsJUPXHCVj1xwlwAngAkAEAmAFXoAFXqgEBMbgBA8gBAPgBAeIDBBgBIEGIBgE&sclient=gws-wiz-serp#lrd=0x471131b61b903edb:0xe16af5e90276dac,1,,,,
 text: See all our reviews
@@ -586,7 +444,7 @@ text: See all our reviews
 :::::block-header-md
 
 #subtitle
-*7/* Opinie
+*5/* Opinie
 
 #title
 ### Jesteśmy rekomendowani przez *małe i średnie przedsiębiorstwa*
