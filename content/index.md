@@ -415,7 +415,7 @@ class: mt-0 !pl-0 !mb-0 !w-[70%] !ml-0
 ::page-section-md
 ---
 id: opinie
-class: mb-[50px] tablet:mb-[150px]
+class: mb-[50px] tablet:mb-[100px]
 ---
 
 :::block-columns-1-1-md
@@ -542,17 +542,16 @@ Dzięki pracy Webo mój klient osiągnął wyższe pozycje w wyszukiwarkach, **p
 class: mb-[50px] tablet:mb-[100px]
 ---
 :::effect-appear-md
-::::block-cta-md
+::::block-header-md
 ---
-button.link: https://www.webo.agency/kontakt
-button.title: 'Skontaktuj się'
+center: true
 ---
 
 #subtitle
-*-/* Zainteresowała Cię nasza oferta?
+*6/* Nasi klienci
 
 #title
-## Skontaktuj się z nami i rozpocznij współpracę
+### Poznaj firmy które *nam zaufały*
 
 ::::
 :::
