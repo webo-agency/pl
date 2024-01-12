@@ -82,7 +82,7 @@ class: block [&_.title]:!mb-4 [&_p]:max-w-[312px] [&_p]:font-medium
 ---
 
 #title
-### Potrzebujesz naszej pomocy lub wyceny projektu?
+#### Potrzebujesz naszej pomocy lub wyceny projektu?
 
 #description
 Skontaktuj się z nami i skorzystaj z bezpłatnej konsultacji
