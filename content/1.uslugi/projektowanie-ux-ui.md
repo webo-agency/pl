@@ -581,38 +581,15 @@ moreBtn.linktitle: Zobacz wszystkie projekty
 :::
 ::
 
-
 ::page-section-md
 ---
-class: mb-[50px] tablet:mb-[100px]
----
-:::effect-appear-md
-::::block-cta-md
----
-maxWidth: 650
-button.link: https://www.webo.agency/kontakt
-button.title: 'Umów się na konsultację'
-button.isWide: true
----
-
-#title
-#### Potrzebujesz więcej informacji?
-
-#description
-Umów się na bezpłatną konsultację i poznaj nasza ofertę
-
-::::
-:::
-::
-
-::page-section-md
----
-class: mb-[50px] tablet:mb-[100px]
+class: mb-20 tablet:mb-[130px]
 ---
 :::effect-appear-md
 ::::block-header-md
 ---
 center: true
+class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
@@ -621,6 +598,17 @@ center: true
 #title
 ### Poznaj firmy które *nam zaufały*
 
+::::
+:::
+:::block-brands-before-footer-md
+:::
+::
+::page-section-md
+---
+class: mb-20 tablet:mb-[130px]
+---
+:::effect-appear-md
+::::block-form-before-footer-md
 ::::
 :::
 ::

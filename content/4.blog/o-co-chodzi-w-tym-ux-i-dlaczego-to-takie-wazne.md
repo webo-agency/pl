@@ -109,7 +109,7 @@ button.link: https://www.webo.agency/kontakt
 button.title: 'Skontaktuj się z nami'
 button.isWide: true
 maxWidth: 560
-class: block [&_.title]:!mb-4 [&_p]:max-w-[312px] [&_p]:font-medium
+class: block [&_.title]:!mb-4  [&_p]:font-medium
 ---
 
 #title
@@ -119,5 +119,28 @@ class: block [&_.title]:!mb-4 [&_p]:max-w-[312px] [&_p]:font-medium
 Skontaktuj się z nami i skorzystaj z bezpłatnej konsultacji
 
 ::::
+:::
+::
+
+::page-section-md
+---
+class: mb-20 tablet:mb-[130px]
+---
+:::effect-appear-md
+::::block-header-md
+---
+center: true
+class: mb-[50px] tablet:mb-[100px]
+---
+
+#subtitle
+*-/* Nasi klienci
+
+#title
+### Poznaj firmy które *nam zaufały*
+
+::::
+:::
+:::block-brands-before-footer-md
 :::
 ::
