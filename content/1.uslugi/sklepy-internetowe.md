@@ -12,8 +12,9 @@ hreflangs:
 
 ::block-banner-md
 ---
-bgUrl: './img/services_shops_bg.png'
-headerWidth: 830
+bgImg: false
+headerWidth: 660
+descriptionWidth: 660
 ---
 
 #subtitle
@@ -25,8 +26,16 @@ headerWidth: 830
 #description
 Dostarczamy narzędzia, których potrzebujesz, aby <u> sprzedawać online </u>
 
+#right
+:::block-banner-decoration-md
+---
+rotate1: 90
+rotate2: 90
+svgUrl1: '/img/svg-square.svg'
+svgUrl2: '/img/svg-arc.svg'
+---
+:::
 ::
-
 ::page-section-md
 :::effect-appear-md
 ::::block-header-md
