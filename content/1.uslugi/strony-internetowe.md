@@ -36,9 +36,74 @@ svgUrl2: '/img/svg-square.svg'
 
 ::page-section-md
 ---
+classes: mb-5 tablet:mb-32 static-content
+---
+
+:::block-columns-1-1-md
+
+#left
+::::effect-appear-md
+:::::block-header-md
+---
+center: false
+maxWidth: 700
+class: mb-20
+---
+
+#subtitle
+::::::prose-p-3
+*1/* Tworzymy wydajne strony www
+::::::
+
+#title
+### Jesteśmy doświadczonym zespołem *do zadań specjalnych*
+:::::
+
+:::::prose-p-3
+---
+class: max-w-[650px] [&_p]:desktop:!mb-5 [&_p]:!leading-8
+--- 
+Nie korzystamy z szablonów czy gotowców. Strony internetowe wdrażamy od podstaw, korzystając tylko ze sprawdzonych i nowoczesnych technologii oraz jasnych procesów technologicznych. Dzięki temu zapewniamy najwyższą jakość, wydajność i bezpieczeństwo.
+:::::
+
+:::::prose-p-4
+---
+class: static-content max-w-[650px]
+--- 
+Od projektu UX/UI strony, przez programowanie backend/frontent, po wsparcie powdrożeniowe, świadczymy usługi na każdym etapie życia produktu.
+:::::
+::::
+
+#right
+::::effect-appear-md
+---
+class: h-full relative
+---
+:::::img-decorated-md
+---
+imgUrl: '/img/content-images/strony-internetowe/section1-right-img.png'
+decoration: false
+class: tablet:w-auto !w-full desktop:scale-[1.1] desktop-wide:scale-[1.2] fullHd:scale-[1.3] tablet:!pl-14 desktop-wide:!pl-20
+---
+:::::
+::::
+:::
+::
+
+::page-section-md
+---
 classes: mb-5 tablet:mb-[100px]
 ---
+
 :::effect-appear-md
+
+:::svg-bg-dots
+---
+decoration: true
+class: tablet:-top-64 right-0
+---
+:::
+
 ::::block-header-md
 ---
 center: true
@@ -47,73 +112,95 @@ class: mb-20
 ---
 
 #subtitle
-*1/* Profesjonalne strony www
+*2/* Technologie
 
 #title
-### Doświadczony zespół do <br> *zadań specjalnych*
-
-#description
-Nie korzystamy z szablonów czy gotowców. Strony internetowe wdrażamy od podstaw, korzystając tylko ze sprawdzonych i nowoczesnych technologii oraz jasnych procesów technologicznych. Dzięki temu zapewniamy najwyższą jakość, wydajność i bezpieczeństwo. Od projektu UX/UI strony, przez programowanie backend/frontent, po wsparcie powdrożeniowe, stworzysz z nami:
-
+### Specjalizujemy się w *stronach*
 ::::
 :::
 
 :::block-offer-tiles-md
+
 ::::offer-tile-md
 --- 
-icon: '/img/icons/site.svg'
+icon: '/img/icons/wordpress.svg'
 link: ''
-stylesCustom: true
+stylesCustom: false
+isSmallTile: true
+noDescription: true
 ---
 #title
-##### Strony www dla firm i instytucji
-
-#description
-Nowoczesne witryny internetowe, stworzone by realizować określone założenia firm i instytucji. Projektowane z myślą o użytkownikach i osiąganiu celów biznesowych.
+##### Wordpress
 
 ::::
 
 ::::offer-tile-md
 --- 
-icon: '/img/icons/onepage.svg'
+icon: '/img/icons/drupal.svg'
 link: ''
-stylesCustom: true
+stylesCustom: false
 delay: 1
+isSmallTile: true
+noDescription: true
 ---
 #title
-##### Strony internetowe One Page
+##### Drupal
 
-#description
-Zadaniowe strony internetowe, mające na celu promocje produktu lub usługi. Projektowane i wdrażane z myślą o finalizacji celu konwersji, zamknięciu sprzedaży.
 
 ::::
 
 ::::offer-tile-md
 --- 
-icon: '/img/icons/site_extensive.svg'
+icon: '/img/icons/wordpress-headles.svg'
 link: ''
-stylesCustom: true
+stylesCustom: false
 delay: 2
+isSmallTile: true
+noDescription: true
 ---
 #title
-##### Rozbudowane serwisy internetowe
+##### Wordpress + Headless
 
-#description
-Dedykowane dla dużych firm. Rozbudowane portale internetowe z wieloma funkcjami, spełniające wysokie wymagania dostępności, kierowane do konkretnej grupy odbiorców.
+
+::::
+:::
+::
+
+
+::page-section-md
+---
+class: mb-[100px] tablet:mb-[100px]
+---
+:::effect-appear-md
+
+:::svg-decorated
+---
+decoration: true
+class: top-20 right-[15%] fullHd:right-[20%] scale-x-[-1.6] scale-y-[1.6]
+---
+:::
+
+::::svg-bg-dots
+---
+decoration: true
+class: block desktop:hidden top-0 right-0
+---
 ::::
 
-::::offer-tile-md
---- 
-icon: '/img/icons/pwa.svg'
-link: 'https://www.webo.agency/uslugi/strony-headless-pwa'
-stylesCustom: true
-delay: 3
+::::block-cta-md
 ---
+maxWidth: 800
+button.link: https://www.webo.agency/kontakt
+button.title: 'Skontaktuj się z nami'
+button.isWide: true
+class: tablet:mb-36
+---
+
 #title
-##### Strony Headless / PWA
+#### Nie wiesz jakiego rozwiązania potrzebujesz?
 
 #description
-Wykonane w nowych technologiach, dostarczające maksimum wydajności. Idealne dla wymagających klientów, współpracujących z globalnymi markami oraz startupów technologicznych.
+Umów się na bezpłatną konsultację!
 
 ::::
 :::
@@ -140,7 +227,7 @@ class: mb-20
 ---
 
 #subtitle
-*2/* Zapewniamy najwyższe standardy
+*3/* Zapewniamy najwyższe standardy
 
 #title
 ### Jakość kodu, automatyzacje, <br> bezpieczeństwo i świetny UX
@@ -343,7 +430,7 @@ class: mb-10
 ---
 
 #subtitle
-*3/* Strony www Drupal i Wordpress
+*4/* Strony www Drupal i Wordpress
 
 #title
 ### Korzystamy z najlepszych *technologii*
@@ -385,7 +472,7 @@ class: mb-20
 ---
 
 #subtitle
-*4/* Etapy realizacji strony internetowej
+*5/* Etapy realizacji strony internetowej
 
 #title
 ### Do realizacji stron www <br> *podchodzimy etapowo*
@@ -667,7 +754,7 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-*5/* Nasze realizacje stron www
+*6/* Nasze realizacje stron www
 
 #title
 ### Jesteśmy dumni <br>z *wykonanych projektów*
@@ -698,7 +785,7 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-*6/* Nasi klienci
+*7/* Nasi klienci
 
 #title
 ### Poznaj firmy które *nam zaufały*
