@@ -126,7 +126,7 @@ button.title: 'Skontaktuj się'
 ---
 
 #title
-#### Nie wiesz jakąofertę wybrać?
+#### Nie wiesz jaką ofertę wybrać?
 
 #description
 Dowiedz się które rozwiązanie będzie optymalne dla Twojego biznesu
