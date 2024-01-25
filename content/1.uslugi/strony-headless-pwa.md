@@ -15,7 +15,6 @@ headerWidth: 660
 descriptionWidth: 660
 isSecondSvg: true
 ---
-<!-- test -->
 #subtitle
 *-/* Strony Headless i PWA
 
