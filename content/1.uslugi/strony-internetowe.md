@@ -366,9 +366,6 @@ textWhite: true
 center: true
 ---
 
-#subtitle
-*4/* -
-
 #title
 ### Dlaczego wysoka jakość strony internetowej *się opłaca?*
 
