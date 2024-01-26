@@ -384,6 +384,9 @@ iconDecorated: true
 #title
 #### 30% szybsze ładowanie strony
 
+#description
+Które bezpośrednio wpływa na pozycjonowanie w wynikach Googla, a także na wrażenia użytkowników - współczynnik odrzuceń wzrasta o 90% gdy strona łąduje się powyżej 3s
+
 ::::::
 ::::::tile-dark-icon-md
 ---
@@ -395,6 +398,9 @@ iconDecorated: true
 #title
 #### 50% niższy koszt rozbudowy
 
+#description
+Dobry jakościowo kod i zgodność z dokumentacją sprawiają że dalsza rozbudowa nie będzie niosła za sobą komplikacji i skróci czas jaki developer potrzebuje na wdrożenie nowych podstron czy funkcji.
+
 ::::::
 ::::::tile-dark-icon-md
 ---
@@ -405,6 +411,9 @@ iconDecorated: true
 
 #title
 #### Stabilne działanie nawet przez wiele lat
+
+#description
+Jakościowe wdrożenie to pewność działania strony m.in. bez wtop wydajnościowych czy błędów blokujących otwarcie oraz maksymalizacja bezpieczeństwa danych.
 
 ::::::
 :::::
