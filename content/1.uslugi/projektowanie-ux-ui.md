@@ -41,7 +41,7 @@ svgUrl2: '/img/svg-arc.svg'
 
 ::page-section-md
 ---
-classes: pt-[50px] tablet:pt-[100px] desktop:pt-[150px] mb-[50px] tablet:mb-[100px] overflow-hidden
+classes: pt-20 mb-5 tablet:mb-20 overflow-hidden
 ---
 :::block-columns-1-1-md
 ---
@@ -80,9 +80,9 @@ class: relative z-10
 ---
 :::::img-decorated-md
 ---
-imgUrl: '/img/content-images/uxui-mockup.png'
+imgUrl: '/img/content-images/projektowanie-uxui/section1-right-img.png'
 decoration: false
-class: tablet:!pl-0 !-mx-10 tablet:!ml-0 desktop:!-ml-10 tablet:!-mr-40 tablet:-my-40 !w-auto
+class: tablet:!pl-0 !mb-0 !-mx-10 tablet:!ml-0 desktop:!-ml-10 tablet:!-mr-40 desktop:!-mr-56 tablet:!-mt-40 !w-auto
 ---
 :::::
 ::::
@@ -96,32 +96,144 @@ classes: mb-10 tablet:mb-20
 ---
 
 :::effect-appear-md
-::::block-header-md
+::::block-header-two-cols-md
 ---
-maxWidth: 940
-class: mb-20
+class: mb-10 tablet:mb-20 [&_.description]:!text-base
+maxWidth: 640
 ---
 
 #subtitle
-*2/* Dlaczego UX jest ważny?
+*2/* Projektowanie stron i sklepów internetowych
 
 #title
-### Jakie są korzyści z  *projektowania UX/UI?*
+## Co możemy dla Ciebie *zaprojektować?*
+
+#description
+Uwielbiamy wyzwania i rozwiązywanie problemów,specjalizujemy się w projektowaniu interfejsów na cele internetu skupiając się nie tylko na wyglądzie ale także praktycznym wykorzystaniu i funkcjonalności. Z chęcią zaprojektujemy:
+
+::::
+:::
+
+:::block-offer-tiles-md
+::::offer-tile-md
+--- 
+icon: '/img/icons/services-site.svg'
+link: 'https://www.webo.agency/uslugi/strony-internetowe'
+---
+#title
+##### Strony internetowe i landing page
+
+::::
+
+::::offer-tile-md
+--- 
+icon: '/img/icons/services-store.svg'
+link: 'https://www.webo.agency/uslugi/sklepy-internetowe'
+delay: 1
+---
+#title
+##### Sklepy e-commerce i portale internetowe
+
+::::
+
+::::offer-tile-md
+--- 
+icon: '/img/icons/services-apps.svg'
+link: ''
+delay: 2
+---
+#title
+##### Aplikacje webowe i konfiguratory 
+ 
+::::
+:::
+
+:::block-bg-map-md
+---
+class: -z-10
+---
+:::
+::
+
+::page-section-md
+---
+class: mb-[100px] tablet:mb-[100px]
+---
+:::effect-appear-md
+
+:::svg-decorated
+---
+decoration: true
+class: top-20 right-[15%] fullHd:right-[20%] scale-x-[-1.6] scale-y-[1.6]
+---
+:::
+
+::::svg-bg-dots
+---
+decoration: true
+class: block desktop:hidden top-0 right-0
+---
+::::
+
+::::block-cta-md
+---
+maxWidth: 745
+button.link: https://www.webo.agency/kontakt
+button.title: 'Skontaktuj się z nami'
+button.isWide: true
+class: tablet:mb-36 [&_.description]:desktop:!text-lg
+---
+
+#title
+#### Szukasz doświadczonego zespołu *projektowego UX/UI?*
+
+#description
+Skontaktuj się z nami i skorzystaj z bezpłatnej konsultacji podczas której omówimy Twój projekt.
+
+::::
+:::
+::
+
+
+::page-section-md
+---
+classes: bg-gray-darkest pt-10 tablet:pt-[100px] mb-[100px] tablet:mb-[200px]
+---
+
+
+:::effect-appear-md
+---
+class: relative z-20
+---
+
+::::block-header-md
+---
+maxWidth: 940
+class: mb-10 tablet:mb-20 [&_.title]:!max-w-[500px]
+textWhite: true
+center: true
+---
+
+#subtitle
+*3/* Dlaczego UX jest ważny?
+
+#title
+### Jakie są korzyści z *projektowania UX/UI?*
 
 #description
 Wygląd i działanie Twojej strony internetowej ma ogromne znaczenie - już w pierwszej sekundzie przebywania na stronie, użytkownicy decydują czy na niej zostaną. Dzięki UX/UI wpłyniesz na
 
 ::::
-:::
-
-:::::block-columns-1-1-md
-
-#left
-::::::effect-appear-md
-:::::::icon-tile-static-md
+:::::block-list-ul-md
 ---
-iconUrl: '/img/icons/person-outline.png'
-iconInline: true
+class: mb-10 tablet:mb-20 flex flex-wrap justify-center gap-5 tablet:[&>li]:w-[calc(50%_-_10px)] desktop:[&>li]:w-[calc(33.3333%_-_14px)]
+---
+
+::::::tile-dark-icon-md
+---
+iconUrl: '/img/icons/user.svg'
+center: true
+iconDecorated: true
 ---
 
 #title
@@ -130,35 +242,26 @@ iconInline: true
 #description
 m.in. dzięki dopracowanej architekturze informacji i warstwie wizualnej użytkownicy z chęcią będą wracać do Twojej strony i zostawać na niej dłużej
 
-:::::::
 ::::::
-
-#right
-::::::effect-appear-md
-:::::::icon-tile-static-md
+::::::tile-dark-icon-md
 ---
-iconUrl: '/img/icons/stack.png'
-iconInline: true
+iconUrl: '/img/icons/target.svg'
+center: true
+iconDecorated: true
 ---
 
 #title
-#### Wzmocnienie wizerunku marki i wyróżnienie się na tle konkurencji
+#### Realizacja celów biznesowych
 
 #description
-budowa atrakcyjnego wyglądu na bazie istniejącej identyfikacji wizualnej sprawi, że Twoja strona internetowa zostanie zapamiętana na dłużej i kojarzona tylko z Twoją firmą
+niezależnie od tego czy sprzedajesz produkty czy prowadzisz serwis internetowy, odpowiednio zaprojektowany interfejs pomoże w realizacji celów jakie stawiasz przed stroną. 
 
-:::::::
 ::::::
-:::::
-
-:::::block-columns-1-1-md
-
-#left
-::::::effect-appear-md
-:::::::icon-tile-static-md
+::::::tile-dark-icon-md
 ---
-iconUrl: '/img/icons/coin.png'
-iconInline: true
+iconUrl: '/img/icons/coin.svg'
+center: true
+iconDecorated: true
 ---
 
 #title
@@ -166,127 +269,51 @@ iconInline: true
 
 #description
 dzięki intuicyjnej obsłudze i odpowiednim ścieżkom poruszania, użytkownik łatwiej dociera do potrzebnych informacji, a Ty zwiększasz szanse na sprzedaż swojego produktu lub usługi
-:::::::
-::::::
 
-#right
-::::::effect-appear-md
-:::::::icon-tile-static-md
+::::::
+::::::tile-dark-icon-md
 ---
-iconUrl: '/img/icons/piggy-bank.png'
-iconInline: true
+iconUrl: '/img/icons/piggy-bank.svg'
+center: true
+iconDecorated: true
 ---
 
 #title
-#### Ograniczenie kosztów prac deweloperskich
+#### Zmniejszenie kosztów prac deweloperskich
 
 #description
 szeroka wiedza z zakresu technologii pozwala projektować interfejs uwzględniając jej ograniczenia, zachowując jednocześnie funkcjonalność i łatwość obsługi strony
 
-:::::::
+::::::
+::::::tile-dark-icon-md
+---
+iconUrl: '/img/icons/layout.svg'
+center: true
+iconDecorated: true
+---
+
+#title
+#### Wzmocnienie wizerunku marki
+
+#description
+budowa atrakcyjnego wyglądu na bazie istniejącej identyfikacji wizualnej sprawi, że Twoja strona internetowa zostanie zapamiętana na dłużej i kojarzona tylko z Twoją firmą
+
 ::::::
 :::::
-:::block-bg-map-md
----
-class: -z-10
----
 :::
-::
 
-
-::page-section-md
----
-innerContainerClasses: bg-gray-light p-5 tablet:px-10 tablet:pt-10 desktop:px-[120px] desktop:pt-[100px] desktop:pb-[55px]
----
-:::effect-appear-md
-::::block-header-md
----
-maxWidth: 810
-class: mb-10
----
-
-#subtitle
-*3/* Projektowanie stron i sklepów internetowych
-
-#title
-### Co możemy dla <br> Ciebie *zaprojektować?*
-
-#description
-:::::prose-p3
----
-class: px-1 tablet:px-5 desktop:px-10
----
-Uwielbiamy wyzwania i rozwiązywanie problemów,specjalizujemy się w projektowaniu interfejsów na cele internetu skupiając się nie tylko na wyglądzie ale także praktycznym wykorzystaniu i funkcjonalności. Z chęcią zaprojektujemy:
-:::::
-::::
-:::
-:::block-offer-tiles-md
----
-class: desktop:[&_.offer-tile]:!basis-1/3
----
-::::offer-tile-md
----
-icon: '/img/icons/site.svg'
-iconBg: true
-link: 'https://www.webo.agency/uslugi/strony-internetowe'
-stylesMinimal: true
-delay: 0
----
-#title
-##### Strony internetowe <br> i landing page
-
-#description
-Nowoczesne witryny internetowe, stworzone by realizować określone założenia firm i instytucji. Projektowane z myślą o użytkownikach i osiąganiu celów biznesowych.
-::::
-
-::::offer-tile-md
----
-icon: '/img/icons/store.svg'
-link: 'https://www.webo.agency/uslugi/sklepy-internetowe'
-iconBg: true
-stylesMinimal: true
-delay: 1
----
-#title
-##### Sklepy e-commerce <br> i portale internetowe
-
-#description
-Sklepy internetowe z płynnym procesem sprzedaży oraz przejrzyste serwisy www, koncentrujące uwagę użytkowników.
-::::
-
-::::offer-tile-md
----
-icon: '/img/icons/apps.svg'
-iconBg: true
-link: ''
-stylesMinimal: true
-delay: 2
----
-#title
-##### Aplikacje webowe <br> i konfiguratory 
-
-#description
-Dedykowane do specjalnych zastosowań w firmach, proste w zarządzaniu i usprawniające konkretne procesy biznesowe.
-
-::::
-:::
-::
-
-
-::page-section-md
----
-classes: mb-10 tablet:mb-20
-innerContainerClasses: bg-gray-light rounded-b-[5px] overflow-hidden
----
+#full
 :::effect-appear-md
 ::::prose-figure
 ---
-src: /img/content-images/uxui-consultation.png
+src: '/img/content-images/projektowanie-uxui/section3.png'
 rounded: false
 ---
 ::::
 :::
 ::
+
+
 
 ::page-section-md
 ---
@@ -452,9 +479,7 @@ class: desktop:[&_.offer-tile]:!basis-1/3
 ::::offer-tile-md
 ---
 icon: '/img/icons/destination.svg'
-iconBg: true
 link: ''
-stylesMinimal: true
 delay: 0
 ---
 #title
@@ -468,8 +493,6 @@ Określa emocje towarzyszące użytkownikom podczas korzystania z interfejsu. Dz
 ---
 icon: '/img/icons/structure.svg'
 link: ''
-iconBg: true
-stylesMinimal: true
 delay: 1
 ---
 #title
@@ -482,9 +505,7 @@ Architektura informacji odpowiada za organizację i podział treści na stronie 
 ::::offer-tile-md
 ---
 icon: '/img/icons/strategy.svg'
-iconBg: true
 link: ''
-stylesMinimal: true
 delay: 2
 ---
 #title
@@ -497,9 +518,7 @@ To schemat określający ścieżkę jaką musi pokonać użytkownik na stronie i
 ::::offer-tile-md
 ---
 icon: '/img/icons/design-proto.svg'
-iconBg: true
 link: ''
-stylesMinimal: true
 delay: 3
 ---
 #title
@@ -512,9 +531,7 @@ To graficzna prezentacja układu elementów na stronie, pozwalająca na określe
 ::::offer-tile-md
 ---
 icon: '/img/icons/puzzle.svg'
-iconBg: true
 link: ''
-stylesMinimal: true
 delay: 4
 ---
 #title
@@ -527,9 +544,7 @@ Jest to zbiór wytycznych i elementów standardowych (np. różnych wersji przyc
 ::::offer-tile-md
 ---
 icon: '/img/icons/pen-curve.svg'
-iconBg: true
 link: ''
-stylesMinimal: true
 delay: 5
 ---
 #title
