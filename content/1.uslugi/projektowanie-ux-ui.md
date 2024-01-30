@@ -106,7 +106,7 @@ maxWidth: 640
 *2/* Projektowanie stron i sklepów internetowych
 
 #title
-## Co możemy dla Ciebie *zaprojektować?*
+### Co możemy dla <br> Ciebie *zaprojektować?*
 
 #description
 Uwielbiamy wyzwania i rozwiązywanie problemów,specjalizujemy się w projektowaniu interfejsów na cele internetu skupiając się nie tylko na wyglądzie ale także praktycznym wykorzystaniu i funkcjonalności. Z chęcią zaprojektujemy:
