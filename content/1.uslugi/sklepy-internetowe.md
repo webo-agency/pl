@@ -281,7 +281,7 @@ animated: false
 #### Zaawansowane funkcjonalności i moduły
 
 #description
-Jeśłi Twój sklep potrzebuje nietypowych funkcji, dzięki którym wyprzedzisz konkurencję także możesz na nas liczyć. Jesteśmy zespołem do zadań specjalnych i nie boimy się wyzwań. Z chęcią zaprojektujemy i wdrożymy dla Ciebie dedykowane rozwiązania.
+Jeśli Twój sklep potrzebuje nietypowych funkcji, dzięki którym wyprzedzisz konkurencję także możesz na nas liczyć. Jesteśmy zespołem do zadań specjalnych i nie boimy się wyzwań. Z chęcią zaprojektujemy i wdrożymy dla Ciebie dedykowane rozwiązania.
 ::::::
 :::::
 ::::
