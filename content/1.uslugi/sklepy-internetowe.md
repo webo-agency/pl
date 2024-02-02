@@ -676,6 +676,9 @@ class: mb-10 tablet:mb-20
 contentFolder: realizacje
 moreBtn.url: 'https://www.webo.agency/realizacje'
 moreBtn.linktitle: Zobacz wszystkie projekty
+selectedSlugs:
+    - feeby
+    - oravio
 ---
 
 :::
