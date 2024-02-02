@@ -13,19 +13,19 @@ hreflangs:
 ::block-banner-md
 ---
 bgImg: false
-headerWidth: 660
-descriptionWidth: 660
+headerWidth: 550
+descriptionWidth: 440
 isSecondSvg: true
 ---
 
 #subtitle
-*-/* Sklepy internetowe 
+*-/* E-commerce B2B i B2C
 
 #title
-## Wydajne, intuicyjne i przygotowane do rozwoju *sklepy www*
+## Sklepy internetowe
 
 #description
-Dostarczamy narzędzia, których potrzebujesz, aby <u> sprzedawać online </u>
+Projektujemy i wdrażamy świetnie wyglądające i wydajne sklepy internetowe z płynnym procesem zakupowym.
 
 #right
 :::block-banner-decoration-md
