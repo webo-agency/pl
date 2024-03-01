@@ -362,7 +362,7 @@ icon: '/img/icons/uxui-teamwork.svg'
 #### 01. Warsztaty
 
 #description
-Faza Discovery czyli zebranie wymagań - w pierwszym kroku zapraszamy Cię na rozmowę podczas której poznajemy wszystkie założenia projektu, Twoją firmę i użytkowników przyszłej strony, sklepu czy aplikacji
+Faza Discovery czyli zebranie wymagań - w pierwszym kroku zapraszamy Cię na rozmowę podczas której poznajemy wszystkie założenia projektu, Twoją firmę i użytkowników przyszłej strony, sklepu czy aplikacji.
 
 :::::
 ::::
