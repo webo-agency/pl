@@ -340,17 +340,23 @@ Projektowanie interfejsów stron internetowych może wydawać się skomplikowane
 :::
 
 #full
-:::effect-appear-md
-::::block-process-md
+:::block-swiper-tabs-md
 ---
-decoration: false
-topNavigation: true
-disableSwiperBreakpoint: true
+slidesNarrow: true
+tabNames:
+    - Warsztaty
+    - Analiza założeń
+    - Projektowanie prototypu
+    - Weryfikacja / testy
+    - Projektowanie interfejsu
+    - Wdrożenie i rozwój
 ---
-:::::process-tile-arrow-md
+
+::::block-swiper-tabs-slide-md
 ---
-icon: '/img/icons/teamwork.svg'
+icon: '/img/icons/uxui-teamwork.svg'
 ---
+:::::block-header-md
 
 #title
 #### 01. Warsztaty
@@ -359,10 +365,13 @@ icon: '/img/icons/teamwork.svg'
 Faza Discovery czyli zebranie wymagań - w pierwszym kroku zapraszamy Cię na rozmowę podczas której poznajemy wszystkie założenia projektu, Twoją firmę i użytkowników przyszłej strony, sklepu czy aplikacji
 
 :::::
-:::::process-tile-arrow-md
+::::
+
+::::block-swiper-tabs-slide-md
 ---
-icon: '/img/icons/analysis.svg'
+icon: '/img/icons/uxui-analysis.svg'
 ---
+:::::block-header-md
 
 #title
 #### 02. Analiza założeń
@@ -371,10 +380,14 @@ icon: '/img/icons/analysis.svg'
 Analiza otrzymanych informacji - podczas tego etapu porządkujemy otrzymane dane. Analizujemy przekazane założenia i pomysły, następnie rozpoczynamy prace opracowując m.in. persony (profil użytkownika) mapę strony czy user flow (ścieżki użytkownika).
 
 :::::
-:::::process-tile-arrow-md
+::::
+
+
+::::block-swiper-tabs-slide-md
 ---
-icon: '/img/icons/prototyping.svg'
+icon: '/img/icons/uxui-prototyping.svg'
 ---
+:::::block-header-md
 
 #title
 #### 03. Projektowanie prototypu
@@ -383,10 +396,12 @@ icon: '/img/icons/prototyping.svg'
 Stworzenie koncepcji produktu - w kolejnym kroku projektujemy architekturę informacji, szkicujemy pierwsze widoki, kończąc na makietach UX (prototypie/szkielecie strony).
 
 :::::
-:::::process-tile-arrow-md
+::::
+::::block-swiper-tabs-slide-md
 ---
-icon: '/img/icons/exam.svg'
+icon: '/img/icons/uxui-exam.svg'
 ---
+:::::block-header-md
 
 #title
 #### 04. Weryfikacja / testy
@@ -395,10 +410,12 @@ icon: '/img/icons/exam.svg'
 W tym etapie sprawdzamy czy prototyp spełnia cele i założenia oraz czy odpowiada na potrzeby użytkowników, następnie wprowadzamy poprawki i ponownie poddajemy weryfikacji.
 
 :::::
-:::::process-tile-arrow-md
+::::
+::::block-swiper-tabs-slide-md
 ---
-icon: '/img/icons/design-proto.svg'
+icon: '/img/icons/uxui-design.svg'
 ---
+:::::block-header-md
 
 #title
 #### 05. Projektowanie interfejsu
@@ -407,10 +424,12 @@ icon: '/img/icons/design-proto.svg'
 na podstawie zaakceptowanego prototypu, projektujemy szatę graficzną strony/sklepu opierając się o identyfikację wizualną marki i obecne trendy.
 
 :::::
-:::::process-tile-arrow-md
+::::
+::::block-swiper-tabs-slide-md
 ---
-icon: '/img/icons/shuttle.svg'
+icon: '/img/icons/uxui-shuttle.svg'
 ---
+:::::block-header-md
 
 #title
 #### 06. Wdrożenie i rozwój
