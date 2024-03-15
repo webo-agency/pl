@@ -559,7 +559,7 @@ maxWidth: 480
 *5/* Etapy realizacji sklepu internetowego
 
 #title
-### Zobacz jak tworzymy *sklepy internetowe*
+### Jak przebiega proces realizacji strony internetowej?
 
 :::::
 ::::
