@@ -7,7 +7,7 @@ settings:
 dependencies:
   '@webo-agency/theme':
     specifier: github:webo-agency/www#main
-    version: github.com/webo-agency/www/3fe53bfb65671c587fd248be6ae5c3a512fbbc46(@nuxt/devtools@1.0.8)(@vue/compiler-core@3.4.27)(h3@1.11.1)(markdown-it@14.1.0)(postcss@8.4.38)(vite@5.2.11)(vue@3.4.27)(webpack@5.91.0)
+    version: github.com/webo-agency/www/e2e5c1c89d388e58f50f61150694cea81d7271fa(@nuxt/devtools@1.0.8)(@vue/compiler-core@3.4.27)(h3@1.11.1)(markdown-it@14.1.0)(postcss@8.4.38)(vite@5.2.11)(vue@3.4.27)(webpack@5.91.0)
   nuxt:
     specifier: ^3.9.0
     version: 3.9.0(vite@5.2.11)
@@ -9404,6 +9404,7 @@ packages:
   /read-package-json@7.0.1:
     resolution: {integrity: sha512-8PcDiZ8DXUjLf687Ol4BR8Bpm2umR7vhoZOzNRt+uxD9GpBh/K+CAAALVIiYFknmvlmyg7hM7BSNUXPaCCqd0Q==}
     engines: {node: ^16.14.0 || >=18.0.0}
+    deprecated: This package is no longer supported. Please use @npmcli/package-json instead.
     dependencies:
       glob: 10.3.15
       json-parse-even-better-errors: 3.0.2
@@ -11807,11 +11808,11 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: false
 
-  github.com/webo-agency/www/3fe53bfb65671c587fd248be6ae5c3a512fbbc46(@nuxt/devtools@1.0.8)(@vue/compiler-core@3.4.27)(h3@1.11.1)(markdown-it@14.1.0)(postcss@8.4.38)(vite@5.2.11)(vue@3.4.27)(webpack@5.91.0):
-    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/3fe53bfb65671c587fd248be6ae5c3a512fbbc46}
-    id: github.com/webo-agency/www/3fe53bfb65671c587fd248be6ae5c3a512fbbc46
+  github.com/webo-agency/www/e2e5c1c89d388e58f50f61150694cea81d7271fa(@nuxt/devtools@1.0.8)(@vue/compiler-core@3.4.27)(h3@1.11.1)(markdown-it@14.1.0)(postcss@8.4.38)(vite@5.2.11)(vue@3.4.27)(webpack@5.91.0):
+    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/e2e5c1c89d388e58f50f61150694cea81d7271fa}
+    id: github.com/webo-agency/www/e2e5c1c89d388e58f50f61150694cea81d7271fa
     name: '@webo-agency/theme'
-    version: 3.7.2
+    version: 3.7.3
     requiresBuild: true
     dependencies:
       '@nuxt/content': 2.12.1(nuxt@3.9.0)(vue@3.4.27)
