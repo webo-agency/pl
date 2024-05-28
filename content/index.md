@@ -3,7 +3,7 @@ hreflangs:
     EN: '/'
     PL: '/'
 sitemap:
-    priority: 1
+  priority: 1
 ---
 ::block-hero-md
 ---
@@ -14,6 +14,7 @@ button.link: https://www.webo.agency/uslugi/strony-internetowe
 #subtitle
  Witaj w Webo
 
+
 #title
 # Jesteśmy specjalistami od solidnych *stron internetowych*
 
@@ -22,12 +23,12 @@ Tworzonych bez szablonów czy gotowców - <u>od podstaw zgodnie z dokumentacją,
 
 ::
 
-
 ::page-section-md
 ---
 id: uslugi
 classes: mb-[50px] tablet:mb-[80px] pt-[80px] desktop:pt-[120px] 
 ---
+
 :::effect-appear-md
 :::svg-decorated
 ---
@@ -49,7 +50,7 @@ maxWidth: 640
 ---
 
 #subtitle
-*1/* Usługi
+### *1/* Usługi
 
 #title
 ## Dostarczamy rozwiązania *internetowe dla firm*
@@ -69,7 +70,7 @@ link: 'https://www.webo.agency/uslugi/strony-internetowe'
 delay: 1
 ---
 #title
-##### Strony internetowe
+#### Strony internetowe
 
 #description
 Kreujemy szybkie nowoczesne i funkcjonalne strony internetowe, na których Twój klient szybko znajdzie to czego szuka.
@@ -85,7 +86,7 @@ technologies: '/img/icons/stores-technologies.svg'
 link: 'https://www.webo.agency/uslugi/sklepy-internetowe'
 ---
 #title
-##### Sklepy internetowe
+#### Sklepy internetowe
 
 #description
 E-commerce z płynnym procesem zakupowym, dostosowany do potrzeb Twojej firmy. Tworzymy sklepy przygotowane do dalszego rozwoju i ekspansji.
@@ -102,7 +103,7 @@ link: ''
 delay: 2
 ---
 #title
-##### Aplikacje internetowe
+#### Aplikacje internetowe
 
 #description
 Dedykowane do specjalnych zastosowań w Twojej firmie. Przyjazne dla użytkowników i proste w zarządzaniu.
@@ -119,7 +120,7 @@ link: 'https://www.webo.agency/uslugi/wsparcie-i-rozwoj'
 delay: 4
 ---
 #title
-##### Wsparcie i rozwój
+#### Wsparcie i rozwój
 
 #description
 Dzięki któremu zabezpieczysz zasoby, zmaksymalizujesz wydajność i zredukujesz koszta utrzymania strony internetowej.
@@ -136,13 +137,14 @@ link: 'https://www.webo.agency/uslugi/projektowanie-ux-ui'
 delay: 5
 ---
 #title
-##### Projektowanie UX/UI
+#### Projektowanie UX/UI
 
 #description
 Dzięki której zwiększysz zaangażowanie klientów, wyróżnisz się na rynku i uprościsz korzystanie ze swojej strony / sklepu internetowego.
 
 #readMoreText
 Dowiedz się więcej
+
 ::::
 :::
 ::
@@ -178,6 +180,7 @@ Umów się na bezpłatną konsultację, porozmawiajmy!
 :::
 ::
 
+
 ::page-section-md
 ---
 class: w-full mb-[100px] tablet:mb-[200px] bg-gray-light
@@ -188,10 +191,10 @@ image.url: '/img/content-images/1solutions.png'
 imageMobile.url: '/img/content-images/1solutions_mobile.png'
 ---
 #subtitle
-*2/* Skalowalne rozwiązania
+### *2/* Skalowalne rozwiązania
 
 #title
-### Wybierzemy najlepsze rozwiązanie dla *Twojego biznesu*
+## Wybierzemy najlepsze rozwiązanie dla *Twojego biznesu*
 
 #description
 Do każdego projektu podchodzimy indywidualnie, analizując jego potrzeby. Korzystamy z najnowszych technologii, wspierając także popularne rozwiązania. Sprawdź sam!
@@ -272,10 +275,10 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-*3/* Case study
+### *3/* Case study
 
 #title
-### Jasteśmy dumni <br> z *wykonanych projektów*
+## Jasteśmy dumni <br> z *wykonanych projektów*
 
 ::::
 :::
@@ -441,6 +444,7 @@ shrinkMobile: true
 class: mt-6 tablet:mt-0
 ---
 ::::
+
 ::::widget-rating-google
 ---
 border: true
@@ -456,13 +460,15 @@ text: See all our reviews
 :::::block-header-md
 
 #subtitle
-*5/* Opinie
+### *5/*  Opinie
 
 #title
-### Jesteśmy rekomendowani przez *małe i średnie przedsiębiorstwa*
+## Jesteśmy rekomendowani przez *małe i średnie przedsiębiorstwa*
 :::::
 ::::
 :::
+
+
 
 #full
 :::effect-appear-md
@@ -480,6 +486,8 @@ Bartłomiej Świstak Piotrowski
 
 #title
 Konsultant strategii w biznesie - **Krakowski świstak**
+
+
 
 :::::
 :::::opinion-md
@@ -559,10 +567,10 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-*6/* Nasi klienci
+### *6/* Nasi klienci
 
 #title
-### Poznaj firmy które *nam zaufały*
+## Poznaj firmy które *nam zaufały*
 
 ::::
 :::
