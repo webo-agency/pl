@@ -23,7 +23,7 @@ isSecondSvg: true
 *-/* Solidne Strony internetowe 
 
 #title
-## Strony internetowe
+# Strony internetowe
 
 #description
 Tworzymy szyte na miarę strony internetowe, projektując dla Ciebie indywidualny wygląd i kodując od podstaw.
@@ -37,9 +37,10 @@ svgUrl_tr: '/img/svg-square.svg'
 :::
 ::
 
+
 ::page-section-md
 ---
-classes: mb-5 tablet:mb-32 static-content
+classes: mb-5 tablet:mb-32
 ---
 
 :::block-columns-1-1-md
@@ -54,12 +55,10 @@ class: mb-20
 ---
 
 #subtitle
-::::::prose-p-3
-*1/* Tworzymy wydajne strony www
-::::::
+### *1/* Tworzymy wydajne strony www
 
 #title
-### Jesteśmy doświadczonym zespołem *do zadań specjalnych*
+## Jesteśmy doświadczonym zespołem *do zadań specjalnych*
 :::::
 
 :::::prose-p-3
@@ -115,10 +114,10 @@ class: mb-20
 ---
 
 #subtitle
-*2/* Dedykowane rozwiązania dla stron www
+### *2/* Dedykowane rozwiązania dla stron www
 
 #title
-### Strony www realizujemy *na platformach*
+## Strony www realizujemy *na platformach*
 ::::
 :::
 
@@ -130,7 +129,7 @@ icon: '/img/icons/wordpress.svg'
 link: 'https://www.webo.agency/uslugi/strony-wordpress'
 ---
 #title
-##### Wordpress
+#### Wordpress
 
 #description
 Najpopularniejszy i najłatwiejszy w obsłudze system zarządzania treścią, który idealnie sprawdzi się w przypadku stron firmowych, małych portali i landing page.
@@ -139,6 +138,8 @@ Najpopularniejszy i najłatwiejszy w obsłudze system zarządzania treścią, kt
 Dowiedz się więcej
 ::::
 
+
+
 ::::offer-tile-md
 --- 
 icon: '/img/icons/drupal.svg'
@@ -146,7 +147,7 @@ link: 'https://www.webo.agency/kontakt'
 delay: 1
 ---
 #title
-##### Drupal
+#### Drupal
 
 #description
 Elastyczny i niesamowicie skalowalny system zarządzania treścią, na którym z powodzeniem zrealizujemy rozbudowane strony korporacyjne, zaawansowane serwisy i strony instytucji.
@@ -162,7 +163,7 @@ link: 'https://www.webo.agency/kontakt'
 delay: 2
 ---
 #title
-##### Wordpress + Headless
+#### Wordpress + Headless
 
 #description
 Tradycyjny Wordpress w połączeniu z nową technologią = ultraszybkie ładowanie strony, najwyższe bezpieczeństwo, wielokanałowość i nielimitowane skalowanie.
@@ -172,7 +173,6 @@ Dowiedz się więcej
 ::::
 :::
 ::
-
 
 ::page-section-md
 ---
@@ -234,10 +234,10 @@ class: mb-20
 ---
 
 #subtitle
-*3/* Najwyższe standardy stron internetowych?
+### *3/* Najwyższe standardy stron internetowych?
 
 #title
-### W realizacjach stron internetowych stawiamy na
+## W realizacjach stron internetowych stawiamy na
 
 ::::
 :::
@@ -350,10 +350,14 @@ Przeprowadzamy szczegółową kontrolę jakości i funkcjonowania strony. Testy 
 ::
 
 
+
+
+
 ::page-section-md
 ---
 classes: bg-gray-darkest pt-10 tablet:pt-[100px] mb-[100px] tablet:mb-[200px]
 ---
+
 
 :::effect-appear-md
 ---
@@ -369,7 +373,7 @@ center: true
 ---
 
 #title
-### Dlaczego wysoka jakość strony internetowej *się opłaca?*
+## Dlaczego wysoka jakość strony internetowej *się opłaca?*
 
 ::::
 :::::block-list-ul-md
@@ -419,6 +423,7 @@ iconDecorated: true
 Jakościowe wdrożenie to pewność działania strony m.in. bez wtop wydajnościowych czy błędów blokujących otwarcie oraz maksymalizacja bezpieczeństwa danych.
 
 ::::::
+
 :::::
 :::
 
@@ -429,7 +434,6 @@ Jakościowe wdrożenie to pewność działania strony m.in. bez wtop wydajności
 src: '/img/content-images/strony-internetowe/section4.png'
 rounded: false
 ---
-
 ::::
 :::
 ::
@@ -447,10 +451,10 @@ class: mb-20
 ---
 
 #subtitle
-*5/* Etapy realizacji strony internetowej
+### *5/* Etapy realizacji strony internetowej
 
 #title
-### Do realizacji stron www <br> *podchodzimy etapowo*
+## Do realizacji stron www <br> *podchodzimy etapowo*
 
 #description
 Do stworzenia nowoczesnej strony internetowej potrzeba szerokiej wiedzy z zakresu technologii i projektowania nastawionego na użytkownika oraz wypracowanego procesu, który zapewnia realizację założeń bez obsuw czasowych i w ustalonym budżecie.
@@ -618,10 +622,10 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-*6/* Nasze realizacje stron www
+### *6/* Nasze realizacje stron www
 
 #title
-### Jesteśmy dumni <br>z *wykonanych projektów*
+## Jesteśmy dumni <br>z *wykonanych projektów*
 
 ::::
 :::
@@ -636,7 +640,6 @@ moreBtn.linktitle: Zobacz wszystkie projekty
 :::
 ::
 
-
 ::page-section-md
 ---
 class: mb-20 tablet:mb-[130px]
@@ -649,10 +652,10 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-*7/* Nasi klienci
+### *7/* Nasi klienci
 
 #title
-### Poznaj firmy które *nam zaufały*
+## Poznaj firmy które *nam zaufały*
 
 ::::
 :::
