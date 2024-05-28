@@ -2,8 +2,8 @@
 name: Projektowanie UX/UI
 description: Projektowanie stron i sklepów skoncentrowane na użytkowniku.
 meta:
-    title: Projektowanie UX/UI stron i sklepów internetowych
-    description: Projektujemy aby korzystanie ze stron było proste, szybkie i intuicyjne. Tworzymy nieszablonowy design, pasujący do wizerunku firmy, w oparciu o najlepsze praktyki UX/UI.
+  title: Projektowanie UX/UI stron i sklepów internetowych
+  description: Projektujemy aby korzystanie ze stron było proste, szybkie i intuicyjne. Tworzymy nieszablonowy design, pasujący do wizerunku firmy, w oparciu o najlepsze praktyki UX/UI.
 showInNav: true
 hreflangs:
     EN: '/services/ux-ui-design'
@@ -11,6 +11,8 @@ hreflangs:
 draft: false
 public: true
 ---
+
+
 
 ::block-banner-md
 ---
@@ -24,7 +26,7 @@ isSecondSvg: true
 *-/* User Experience Design
 
 #title
-## Projektowanie UX/UI
+# Projektowanie UX/UI
 
 #description
 Projektujemy strony i sklepy internetowe 
@@ -39,8 +41,6 @@ svgUrl_tr: '/img/svg-arc.svg'
 ---
 :::
 ::
-
-
 
 ::page-section-md
 ---
@@ -62,10 +62,10 @@ maxWidth: 690
 ---
 
 #subtitle
-*1/* Czym jest projektowanie UX/UI?
+### *1/* Czym jest projektowanie UX/UI?
 
 #title
-### Projektujemy aby korzystanie ze stron było *proste, szybkie i przyjemne*
+## Projektujemy aby korzystanie ze stron było *proste, szybkie i przyjemne*
 
 #description
 :::::prose-p-4
@@ -106,10 +106,10 @@ maxWidth: 640
 ---
 
 #subtitle
-*2/* Projektowanie stron i sklepów internetowych
+### *2/* Projektowanie stron i sklepów internetowych
 
 #title
-### Co możemy dla <br> Ciebie *zaprojektować?*
+## Co możemy dla <br> Ciebie *zaprojektować?*
 
 #description
 Uwielbiamy wyzwania i rozwiązywanie problemów,specjalizujemy się w projektowaniu interfejsów na cele internetu skupiając się nie tylko na wyglądzie ale także praktycznym wykorzystaniu i funkcjonalności. Z chęcią zaprojektujemy:
@@ -124,7 +124,7 @@ icon: '/img/icons/services-site.svg'
 link: 'https://www.webo.agency/uslugi/strony-internetowe'
 ---
 #title
-##### Strony internetowe i landing page
+#### Strony internetowe i landing page
 
 ::::
 
@@ -135,7 +135,7 @@ link: 'https://www.webo.agency/uslugi/sklepy-internetowe'
 delay: 1
 ---
 #title
-##### Sklepy e-commerce i portale internetowe
+#### Sklepy e-commerce i portale internetowe
 
 ::::
 
@@ -146,7 +146,7 @@ link: ''
 delay: 2
 ---
 #title
-##### Aplikacje webowe i konfiguratory 
+#### Aplikacje webowe i konfiguratory 
  
 ::::
 :::
@@ -218,10 +218,10 @@ center: true
 ---
 
 #subtitle
-*3/* Dlaczego UX jest ważny?
+### *3/* Dlaczego UX jest ważny?
 
 #title
-### Jakie są korzyści z *projektowania UX/UI?*
+## Jakie są korzyści z *projektowania UX/UI?*
 
 #description
 Wygląd i działanie Twojej strony internetowej ma ogromne znaczenie - już w pierwszej sekundzie przebywania na stronie, użytkownicy decydują czy na niej zostaną. Dzięki UX/UI wpłyniesz na
@@ -317,7 +317,6 @@ rounded: false
 ::
 
 
-
 ::page-section-md
 ---
 class: mb-[50px] tablet:mb-[100px]
@@ -330,10 +329,10 @@ class: mb-10 tablet:mb-[60px]
 ---
 
 #subtitle
-*4/* Proces projektowania UX/UI
+### *4/* Proces projektowania UX/UI
 
 #title
-### Jak wygląda proces <br> *projektowania UX/UI?*
+## Jak wygląda proces <br> *projektowania UX/UI?*
 
 #description
 :::::prose-p3
@@ -446,7 +445,6 @@ Po przejściu procesu projektowego nadszedł czas na wdrożenie i rozwój produk
 ::
 
 
-
 ::page-section-md
 ---
 classes: mb-10 tablet:mb-20
@@ -460,10 +458,10 @@ class: mb-20
 ---
 
 #subtitle
-*5/* Kompleksowy projekt UX/UI
+### *5/* Kompleksowy projekt UX/UI
 
 #title
-### Co dostarczamy w ramach *projektu UX/UI?*
+## Co dostarczamy w ramach *projektu UX/UI?*
 
 ::::
 :::
@@ -602,10 +600,10 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-*6/* Nasze ostatnie realizacje
+### *6/* Nasze ostatnie realizacje
 
 #title
-### Jesteśmy dumni <br> z *wykonanych projektów*
+## Jesteśmy dumni <br> z *wykonanych projektów*
 
 ::::
 :::
@@ -625,6 +623,7 @@ moreBtn.linktitle: Zobacz wszystkie projekty
 :::
 ::
 
+
 ::page-section-md
 ---
 class: mb-20 tablet:mb-[130px]
@@ -637,10 +636,10 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-*7/* Nasi klienci
+### *7/* Nasi klienci
 
 #title
-### Poznaj firmy które *nam zaufały*
+## Poznaj firmy które *nam zaufały*
 
 ::::
 :::
