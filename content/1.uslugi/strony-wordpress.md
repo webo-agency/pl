@@ -55,7 +55,7 @@ class: items-center
 ### *1/*  Projektowanie i programowanie w Wordpress
 
 #title
-## W dostarczaniu stron *stawiamy&nbsp;na&nbsp;jakość*
+## W dostarczaniu stron *stawiamy&nbsp;na jakość*
 
 #description
 ::::::prose-p-4
