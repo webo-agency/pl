@@ -22,7 +22,7 @@ isSecondSvg: true
 #subtitle
 
 #title
-# Stworzymy *solidną stronę www Wordpress* dla Twojej firmy
+# Stworzymy *solidną stronę www* Wordpress dla Twojej firmy
 
 #description
 Szukasz doświadczonego zespołu od Wordpressa, który zaprojektuje i zakoduje Twoją stronę od podstaw? Dobrze trafiłeś!
@@ -55,7 +55,7 @@ class: items-center
 ### *1/*  Projektowanie i programowanie w Wordpress
 
 #title
-## W dostarczaniu stron *stawiamy&nbsp;na jakość*
+## W dostarczaniu stron *stawiamy na jakość*
 
 #description
 ::::::prose-p-4
