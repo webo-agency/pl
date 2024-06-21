@@ -22,7 +22,7 @@ isSecondSvg: true
 #subtitle
 
 #title
-# Stworzymy *solidną stronę internetową Wordpress* dla Twojej firmy
+# Stworzymy *solidną stronę www Wordpress* dla Twojej firmy
 
 #description
 Szukasz doświadczonego zespołu od Wordpressa, który zaprojektuje i zakoduje Twoją stronę od podstaw? Dobrze trafiłeś!
