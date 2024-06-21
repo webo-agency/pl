@@ -22,7 +22,7 @@ isSecondSvg: true
 #subtitle
 
 #title
-# Stworzymy stronę internetową Wordpress dla Twojej firmy
+# Stworzymy *solidną stronę internetową Wordpress* dla Twojej firmy
 
 #description
 Szukasz doświadczonego zespołu od Wordpressa, który zaprojektuje i zakoduje Twoją stronę od podstaw? Dobrze trafiłeś!
@@ -55,7 +55,7 @@ class: items-center
 ### *1/*  Projektowanie i programowanie w Wordpress
 
 #title
-## Tworzymy solidne strony oparte na Wordpressie
+## W dostarczaniu stron *stawiamy na jakość*
 
 #description
 ::::::prose-p-4
@@ -351,7 +351,7 @@ class: ml-0 !pl-0 !mb-5 !w-20
 :::::::
 
 #title
-#### Zaprojektowany indywidualnie dla Twojej firmy i jej potrzeb
+#### Zaprojektowane indywidualnie dla Twojej firmy i jej potrzeb
 
 #description
 :::::::prose-p-3
