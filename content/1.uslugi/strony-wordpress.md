@@ -55,7 +55,7 @@ class: items-center
 ### *1/*  Projektowanie i programowanie w Wordpress
 
 #title
-## W dostarczaniu stron *stawiamy na jakość*
+## W dostarczaniu stron&nbsp;*stawiamy na jakość*
 
 #description
 ::::::prose-p-4
@@ -115,7 +115,7 @@ center: true
 icon: '/img/icons/wordpress-icon1.svg'
 ---
 #title
-#### Stworzenie nowej strony Wordpress
+#### Stworzenie nowej strony&nbsp;Wordpress
 
 #description
 
@@ -139,7 +139,7 @@ icon: '/img/icons/wordpress-icon3.svg'
 delay: 2
 ---
 #title
-#### Programowanie wtyczek i pluginów Wordpress
+#### Programowanie wtyczek i&nbsp;pluginów Wordpress
 
 #description
 
@@ -151,7 +151,7 @@ icon: '/img/icons/wordpress-icon4.svg'
 delay: 3
 ---
 #title
-#### Konfiguratory Wordpress i dedykowane rozwiązania
+#### Konfiguratory Wordpress i&nbsp;dedykowane rozwiązania
 
 #description
 
@@ -163,7 +163,7 @@ icon: '/img/icons/wordpress-icon5.svg'
 delay: 4
 ---
 #title
-#### Optymalizacja wydajności i naprawa błędów
+#### Optymalizacja wydajności i&nbsp;naprawa błędów
 
 #description
 
@@ -351,7 +351,7 @@ class: ml-0 !pl-0 !mb-5 !w-20
 :::::::
 
 #title
-#### Zaprojektowane indywidualnie dla Twojej&nbsp;firmy&nbsp;i&nbsp;jej&nbsp;potrzeb
+#### Zaprojektowane indywidualnie dla&nbsp;Twojej&nbsp;firmy&nbsp;i&nbsp;jej&nbsp;potrzeb
 
 #description
 :::::::prose-p-3
@@ -457,7 +457,7 @@ class: desktop:min-h-[270px] w-1/3
 ---
 
 #title
-#### Wielokrotne testy przed publikacją
+#### Wielokrotne testy przed&nbsp;publikacją
 
 #description
 
@@ -471,7 +471,7 @@ class:  desktop:min-h-[270px] w-1/3
 ---
 
 #title
-#### Łatwość obsługi i zarządzania treścią
+#### Łatwość obsługi i&nbsp;zarządzania&nbsp;treścią
 
 #description
 
@@ -694,7 +694,7 @@ class: mb-10
 ### *5/* Zalety Wordpress CMS
 
 #title
-## Dlaczego warto wybrać Wordpress?
+## Dlaczego warto wybrać&nbsp;Wordpress?
 
 #description
 ::::::prose-p-4
@@ -741,7 +741,7 @@ class: tablet:mb-36 [&_.description]:desktop:!text-lg
 ---
 
 #title
-#### Potrzebujesz ekspertów od Wordpress którzy *zakodują Twoją stronę?*
+#### Potrzebujesz ekspertów od Wordpress którzy&nbsp;*zakodują&nbsp;Twoją stronę?*
 
 #description
 Jeśli posiadasz już projekt strony www ale szukasz specjalistów którzy ją zakodują (bez półśrodków) umów się na bezpłatną konsultację!
