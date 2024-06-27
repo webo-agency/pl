@@ -281,7 +281,7 @@ class: ml-0 !mb-5 !w-20 tablet:!w-[160px] desktop:!w-[200px]
 :::::::
 
 #title
-#### Programowane od podstaw - bez użycia słabych wydajnościowo szablonów
+#### Programowane od podstaw - bez użycia słabych&nbsp;wydajnościowo szablonów
 
 #description
 :::::::prose-p-3
@@ -351,7 +351,7 @@ class: ml-0 !pl-0 !mb-5 !w-20
 :::::::
 
 #title
-#### Zaprojektowane indywidualnie dla Twojej firmy i jej potrzeb
+#### Zaprojektowane indywidualnie dla Twojej&nbsp;firmy&nbsp;i&nbsp;jej&nbsp;potrzeb
 
 #description
 :::::::prose-p-3
@@ -393,7 +393,7 @@ class: ml-0 !mb-5 !w-20 tablet:!w-[160px] desktop:!w-[200px]
 :::::::
 
 #title
-#### Stabilnie działające przez lata i przygotowanie do rozwoju
+#### Stabilnie działające przez lata i&nbsp;przygotowanie&nbsp;do&nbsp;rozwoju
 
 #description
 :::::::prose-p-3
