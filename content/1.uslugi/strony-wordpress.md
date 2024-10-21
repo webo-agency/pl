@@ -251,7 +251,7 @@ center: true
 ### *3/* Dlaczego warto nam zaufać?
 
 #title
-## Jakie są nasze *strony Wordpress?*
+## Nam zależy na jakości *a Tobie?*
 
 ::::
 
@@ -281,7 +281,7 @@ class: ml-0 !mb-5 !w-20 tablet:!w-[160px] desktop:!w-[200px]
 :::::::
 
 #title
-#### Programowane od podstaw - bez użycia słabych&nbsp;wydajnościowo szablonów
+#### Programujemy od podstaw - bez użycia słabych&nbsp;wydajnościowo szablonów
 
 #description
 :::::::prose-p-3
@@ -351,7 +351,7 @@ class: ml-0 !pl-0 !mb-5 !w-20
 :::::::
 
 #title
-#### Zaprojektowane indywidualnie dla&nbsp;Twojej&nbsp;firmy&nbsp;i&nbsp;jej&nbsp;potrzeb
+#### Projektujemy indywidualnie dla&nbsp;Twojej&nbsp;firmy&nbsp;i&nbsp;jej&nbsp;potrzeb
 
 #description
 :::::::prose-p-3
@@ -393,7 +393,7 @@ class: ml-0 !mb-5 !w-20 tablet:!w-[160px] desktop:!w-[200px]
 :::::::
 
 #title
-#### Stabilnie działające przez lata i&nbsp;przygotowanie&nbsp;do&nbsp;rozwoju
+#### Tworzymy strony stabilnie działające przez lata&nbsp;i&nbsp;przygotowanie do rozwoju
 
 #description
 :::::::prose-p-3
@@ -502,7 +502,7 @@ class: mb-7
 ### *4/* Etapy realizacji strony Wordpress
 
 #title
-## Jak krok po kroku przebiega realizacja strony Wordpress?
+## Jak krok po kroku przebiega *realizacja strony internetowej?*
 
 :::::
 ::::
