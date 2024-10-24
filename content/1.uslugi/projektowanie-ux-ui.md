@@ -20,6 +20,7 @@ bgImg: false
 headerWidth: 600
 descriptionWidth: 600
 isSecondSvg: true
+class: phone:!mb-0
 ---
 
 #subtitle
@@ -200,7 +201,7 @@ Skontaktuj się z nami i skorzystaj z bezpłatnej konsultacji podczas której om
 
 ::page-section-md
 ---
-classes: bg-gray-darkest pt-10 tablet:pt-[100px] mb-[100px] tablet:mb-[200px]
+classes: bg-gray-darkest pt-10 tablet:pt-[100px] mb-[100px] tablet:mb-[100px]
 ---
 
 
@@ -319,7 +320,7 @@ rounded: false
 
 ::page-section-md
 ---
-class: mb-[50px] tablet:mb-[100px]
+class: mb-[50px] tablet:mb-[150px]
 ---
 :::effect-appear-md
 ::::block-header-md
@@ -447,7 +448,7 @@ Po przejściu procesu projektowego nadszedł czas na wdrożenie i rozwój produk
 
 ::page-section-md
 ---
-classes: mb-10 tablet:mb-20
+classes: 
 ---
 :::effect-appear-md
 ::::block-header-md
