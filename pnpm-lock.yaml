@@ -7,7 +7,7 @@ settings:
 dependencies:
   '@webo-agency/theme':
     specifier: github:webo-agency/www#main
-    version: github.com/webo-agency/www/4f0280b44402817414cd11fddce01a1673749d6d(@nuxt/devtools@1.0.8)(@vue/compiler-core@3.5.12)(h3@1.13.0)(markdown-it@14.1.0)(postcss@8.4.47)(vite@5.4.10)(vue@3.5.12)(webpack@5.95.0)
+    version: github.com/webo-agency/www/254d96629960220411b54db71ddd78c0d69d82b5(@nuxt/devtools@1.0.8)(@vue/compiler-core@3.5.12)(h3@1.13.0)(markdown-it@14.1.0)(postcss@8.4.47)(vite@5.4.10)(vue@3.5.12)(webpack@5.95.0)
   nuxt:
     specifier: ^3.9.0
     version: 3.9.0(vite@5.4.10)
@@ -11505,11 +11505,11 @@ packages:
   /zwitch@2.0.4:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
 
-  github.com/webo-agency/www/4f0280b44402817414cd11fddce01a1673749d6d(@nuxt/devtools@1.0.8)(@vue/compiler-core@3.5.12)(h3@1.13.0)(markdown-it@14.1.0)(postcss@8.4.47)(vite@5.4.10)(vue@3.5.12)(webpack@5.95.0):
-    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/4f0280b44402817414cd11fddce01a1673749d6d}
-    id: github.com/webo-agency/www/4f0280b44402817414cd11fddce01a1673749d6d
+  github.com/webo-agency/www/254d96629960220411b54db71ddd78c0d69d82b5(@nuxt/devtools@1.0.8)(@vue/compiler-core@3.5.12)(h3@1.13.0)(markdown-it@14.1.0)(postcss@8.4.47)(vite@5.4.10)(vue@3.5.12)(webpack@5.95.0):
+    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/254d96629960220411b54db71ddd78c0d69d82b5}
+    id: github.com/webo-agency/www/254d96629960220411b54db71ddd78c0d69d82b5
     name: '@webo-agency/theme'
-    version: 3.7.45
+    version: 3.7.47
     requiresBuild: true
     dependencies:
       '@cloudflare/pages-plugin-static-forms': 1.0.3
