@@ -216,7 +216,7 @@ Umów się na bezpłatną konsultację!
 
 ::page-section-md
 ---
-classes:
+classes: mb-0
 ---
 
 :::block-bg-map-md
