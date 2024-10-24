@@ -216,7 +216,7 @@ Umów się na bezpłatną konsultację!
 
 ::page-section-md
 ---
-classes: mb-10 tablet:mb-20
+classes:
 ---
 
 :::block-bg-map-md
@@ -447,7 +447,7 @@ classes: mb-10 tablet:mb-20
 ::::block-header-md
 ---
 maxWidth: 845
-class: mb-20
+class: mb-[100px]
 ---
 
 #subtitle
