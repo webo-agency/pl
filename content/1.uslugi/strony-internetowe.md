@@ -40,7 +40,7 @@ svgUrl_tr: '/img/svg-square.svg'
 
 ::page-section-md
 ---
-classes: mb-5 tablet:mb-32
+classes: mb-5 tablet:mb-[150px]
 ---
 
 :::block-columns-1-1-md
@@ -244,7 +244,7 @@ class: mb-20
 
 :::block-columns-1-1-md
 ---
-class: mb-10 tablet:mb-20 pb-20 tablet:pb-[100px]
+class: 
 ---
 
 #left
@@ -355,7 +355,7 @@ Przeprowadzamy szczegółową kontrolę jakości i funkcjonowania strony. Testy 
 
 ::page-section-md
 ---
-classes: bg-gray-darkest pt-10 tablet:pt-[100px] mb-[100px] tablet:mb-[200px]
+classes: bg-gray-darkest pt-10 tablet:pt-[100px] mb-[100px]
 ---
 
 
@@ -613,7 +613,7 @@ Często publikacja strony to dopiero początek, a podczas użytkowania strony po
 ::page-section-md
 ---
 id: realizacje
-class: mb-[80px] tablet:mb-[130px]
+class: mb-[80px] tablet:mb-[100px]
 ---
 :::effect-appear-md
 ::::block-header-md
@@ -642,7 +642,7 @@ moreBtn.linktitle: Zobacz wszystkie projekty
 
 ::page-section-md
 ---
-class: mb-20 tablet:mb-[130px]
+class: mb-20 tablet:mb-[100px]
 ---
 :::effect-appear-md
 ::::block-header-md
@@ -664,7 +664,7 @@ class: mb-[50px] tablet:mb-[100px]
 ::
 ::page-section-md
 ---
-class: mb-20 tablet:mb-[130px]
+class: mb-20 tablet:mb-[100px]
 ---
 :::effect-appear-md
 ::::block-form-before-footer-md
