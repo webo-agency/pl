@@ -541,7 +541,7 @@ animated: false
 
 ::page-section-md
 ---
-classes: mb-10 tablet:mb-20
+classes: mb-10 tablet:mb-[150px]
 ---
 :::block-columns-5-7-md
 ---
