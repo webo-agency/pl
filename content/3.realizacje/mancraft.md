@@ -11,8 +11,7 @@ technologies:
 image.url: '/img/case-studies/Mancraft.png'
 tile_hidden: false
 tile_order: 8
-public: false
-draft: true
+public: true
 ---
 
 ::page-section-md
