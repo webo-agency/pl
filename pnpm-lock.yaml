@@ -10,7 +10,7 @@ dependencies:
     version: 1.0.3
   '@webo-agency/theme':
     specifier: github:webo-agency/www#main
-    version: github.com/webo-agency/www/1b7e5d4f41782aa0f6f056e476189af2c3b5b82d(@nuxt/devtools@1.6.1)(@vue/compiler-core@3.5.13)(browserslist@4.24.2)(h3@1.13.0)(markdown-it@14.1.0)(postcss@8.4.49)(typescript@5.6.3)(vite@5.4.10)(vue@3.5.13)(webpack@5.96.1)
+    version: github.com/webo-agency/www/374d17d7e94e45f13254165f280ab691a2bb1c6d(@nuxt/devtools@1.6.1)(@vue/compiler-core@3.5.13)(browserslist@4.24.2)(h3@1.13.0)(markdown-it@14.1.0)(postcss@8.4.49)(typescript@5.6.3)(vite@5.4.10)(vue@3.5.13)(webpack@5.96.1)
   nuxt:
     specifier: ^3.13.2
     version: 3.14.159(typescript@5.6.3)(vite@5.4.10)
@@ -1318,9 +1318,9 @@ packages:
       '@unocss/preset-icons': 0.62.4
       '@unocss/preset-mini': 0.62.4
       '@unocss/reset': 0.62.4
-      '@vueuse/core': 11.2.0(vue@3.5.13)
-      '@vueuse/integrations': 11.2.0(focus-trap@7.6.2)(vue@3.5.13)
-      '@vueuse/nuxt': 11.2.0(nuxt@3.14.159)(vue@3.5.13)
+      '@vueuse/core': 11.3.0(vue@3.5.13)
+      '@vueuse/integrations': 11.3.0(focus-trap@7.6.2)(vue@3.5.13)
+      '@vueuse/nuxt': 11.3.0(nuxt@3.14.159)(vue@3.5.13)
       defu: 6.1.4
       focus-trap: 7.6.2
       splitpanes: 3.1.5
@@ -1451,7 +1451,7 @@ packages:
       '@vue/devtools-kit': 7.6.4
       birpc: 0.2.19
       consola: 3.2.3
-      cronstrue: 2.51.0
+      cronstrue: 2.52.0
       destr: 2.0.3
       error-stack-parser-es: 0.1.5
       execa: 7.2.0
@@ -1477,7 +1477,7 @@ packages:
       tinyglobby: 0.2.10
       unimport: 3.13.2
       vite: 5.4.10
-      vite-plugin-inspect: 0.8.7(@nuxt/kit@3.14.1592)(vite@5.4.10)
+      vite-plugin-inspect: 0.8.8(@nuxt/kit@3.14.1592)(vite@5.4.10)
       vite-plugin-vue-inspector: 5.1.3(vite@5.4.10)
       which: 3.0.1
       ws: 8.18.0
@@ -3131,12 +3131,12 @@ packages:
       - vue
     dev: false
 
-  /@vueuse/core@11.2.0(vue@3.5.13):
-    resolution: {integrity: sha512-JIUwRcOqOWzcdu1dGlfW04kaJhW3EXnnjJJfLTtddJanymTL7lF1C0+dVVZ/siLfc73mWn+cGP1PE1PKPruRSA==}
+  /@vueuse/core@11.3.0(vue@3.5.13):
+    resolution: {integrity: sha512-7OC4Rl1f9G8IT6rUfi9JrKiXy4bfmHhZ5x2Ceojy0jnd3mHNEvV4JaRygH362ror6/NZ+Nl+n13LPzGiPN8cKA==}
     dependencies:
       '@types/web-bluetooth': 0.0.20
-      '@vueuse/metadata': 11.2.0
-      '@vueuse/shared': 11.2.0(vue@3.5.13)
+      '@vueuse/metadata': 11.3.0
+      '@vueuse/shared': 11.3.0(vue@3.5.13)
       vue-demi: 0.14.10(vue@3.5.13)
     transitivePeerDependencies:
       - '@vue/composition-api'
@@ -3167,8 +3167,8 @@ packages:
       vue: 3.5.13(typescript@5.6.3)
     dev: false
 
-  /@vueuse/integrations@11.2.0(focus-trap@7.6.2)(vue@3.5.13):
-    resolution: {integrity: sha512-zGXz3dsxNHKwiD9jPMvR3DAxQEOV6VWIEYTGVSB9PNpk4pTWR+pXrHz9gvXWcP2sTk3W2oqqS6KwWDdntUvNVA==}
+  /@vueuse/integrations@11.3.0(focus-trap@7.6.2)(vue@3.5.13):
+    resolution: {integrity: sha512-5fzRl0apQWrDezmobchoiGTkGw238VWESxZHazfhP3RM7pDSiyXy18QbfYkILoYNTd23HPAfQTJpkUc5QbkwTw==}
     peerDependencies:
       async-validator: ^4
       axios: ^1
@@ -3208,8 +3208,8 @@ packages:
       universal-cookie:
         optional: true
     dependencies:
-      '@vueuse/core': 11.2.0(vue@3.5.13)
-      '@vueuse/shared': 11.2.0(vue@3.5.13)
+      '@vueuse/core': 11.3.0(vue@3.5.13)
+      '@vueuse/shared': 11.3.0(vue@3.5.13)
       focus-trap: 7.6.2
       vue-demi: 0.14.10(vue@3.5.13)
     transitivePeerDependencies:
@@ -3221,8 +3221,8 @@ packages:
     resolution: {integrity: sha512-IGa5FXd003Ug1qAZmyE8wF3sJ81xGLSqTqtQ6jaVfkeZ4i5kS2mwQF61yhVqojRnenVew5PldLyRgvdl4YYuSw==}
     dev: false
 
-  /@vueuse/metadata@11.2.0:
-    resolution: {integrity: sha512-L0ZmtRmNx+ZW95DmrgD6vn484gSpVeRbgpWevFKXwqqQxW9hnSi2Ppuh2BzMjnbv4aJRiIw8tQatXT9uOB23dQ==}
+  /@vueuse/metadata@11.3.0:
+    resolution: {integrity: sha512-pwDnDspTqtTo2HwfLw4Rp6yywuuBdYnPYDq+mO38ZYKGebCUQC/nVj/PXSiK9HX5otxLz8Fn7ECPbjiRz2CC3g==}
     dev: false
 
   /@vueuse/metadata@9.13.0:
@@ -3249,14 +3249,14 @@ packages:
       - webpack-sources
     dev: false
 
-  /@vueuse/nuxt@11.2.0(nuxt@3.14.159)(vue@3.5.13):
-    resolution: {integrity: sha512-4Mp1SXpXy8KRKY7lJqN4AuiMkun9IUVGt02t2SBk1hf/RVe4U6AIR2ukmHws0uYvjIGIhlGNv4o6ayTK/7ELWQ==}
+  /@vueuse/nuxt@11.3.0(nuxt@3.14.159)(vue@3.5.13):
+    resolution: {integrity: sha512-FxtRTgFmsoASamR3lOftv/r11o1BojF9zir8obbTnKamVZdlQ5rgJ0hHgVbrgA6dlMuEx/PzwqAmiKNFdU4oCQ==}
     peerDependencies:
       nuxt: ^3.0.0
     dependencies:
       '@nuxt/kit': 3.14.1592(magicast@0.3.5)
-      '@vueuse/core': 11.2.0(vue@3.5.13)
-      '@vueuse/metadata': 11.2.0
+      '@vueuse/core': 11.3.0(vue@3.5.13)
+      '@vueuse/metadata': 11.3.0
       local-pkg: 0.5.1
       nuxt: 3.14.159(typescript@5.6.3)(vite@5.4.10)
       vue-demi: 0.14.10(vue@3.5.13)
@@ -3298,8 +3298,8 @@ packages:
       - vue
     dev: false
 
-  /@vueuse/shared@11.2.0(vue@3.5.13):
-    resolution: {integrity: sha512-VxFjie0EanOudYSgMErxXfq6fo8vhr5ICI+BuE3I9FnX7ePllEsVrRQ7O6Q1TLgApeLuPKcHQxAXpP+KnlrJsg==}
+  /@vueuse/shared@11.3.0(vue@3.5.13):
+    resolution: {integrity: sha512-P8gSSWQeucH5821ek2mn/ciCk+MS/zoRKqdQIM3bHq6p7GXDAJLmnRRKmF5F65sAVJIfzQlwR3aDzwCn10s8hA==}
     dependencies:
       vue-demi: 0.14.10(vue@3.5.13)
     transitivePeerDependencies:
@@ -3700,7 +3700,7 @@ packages:
     dependencies:
       bare-events: 2.5.0
       bare-path: 2.1.3
-      bare-stream: 2.3.2
+      bare-stream: 2.4.0
     dev: false
     optional: true
 
@@ -3716,8 +3716,8 @@ packages:
     dev: false
     optional: true
 
-  /bare-stream@2.3.2:
-    resolution: {integrity: sha512-EFZHSIBkDgSHIwj2l2QZfP4U5OcD4xFAOwhSb/vlr9PIqyGJGvB/nfClJbcnh3EY4jtPE4zsb5ztae96bVF79A==}
+  /bare-stream@2.4.0:
+    resolution: {integrity: sha512-sd96/aZ8LjF1uJbEHzIo1LrERPKRFPEy1nZ1eOILftBxrVsFDAQkimHIIq87xrHcubzjNeETsD9PwN0wp+vLiQ==}
     dependencies:
       streamx: 2.20.2
     dev: false
@@ -4256,6 +4256,11 @@ packages:
 
   /cronstrue@2.51.0:
     resolution: {integrity: sha512-7EG9VaZZ5SRbZ7m25dmP6xaS0qe9ay6wywMskFOU/lMDKa+3gZr2oeT5OUfXwRP/Bcj8wxdYJ65AHU70CI3tsw==}
+    hasBin: true
+    dev: false
+
+  /cronstrue@2.52.0:
+    resolution: {integrity: sha512-NKgHbWkSZXJUcaBHSsyzC8eegD6bBd4O0oCI6XMIJ+y4Bq3v4w7sY3wfWoKPuVlq9pQHRB6od0lmKpIqi8TlKA==}
     hasBin: true
     dev: false
 
@@ -10147,8 +10152,8 @@ packages:
       - supports-color
     dev: false
 
-  /vite-plugin-inspect@0.8.7(@nuxt/kit@3.14.1592)(vite@5.4.10):
-    resolution: {integrity: sha512-/XXou3MVc13A5O9/2Nd6xczjrUwt7ZyI9h8pTnUMkr5SshLcb0PJUOVq2V+XVkdeU4njsqAtmK87THZuO2coGA==}
+  /vite-plugin-inspect@0.8.8(@nuxt/kit@3.14.1592)(vite@5.4.10):
+    resolution: {integrity: sha512-aZlBuXsWUPJFmMK92GIv6lH7LrwG2POu4KJ+aEdcqnu92OAf+rhBnfMDQvxIJPEB7hE2t5EyY/PMgf5aDLT8EA==}
     engines: {node: '>=14'}
     peerDependencies:
       '@nuxt/kit': '*'
@@ -10166,7 +10171,7 @@ packages:
       open: 10.1.0
       perfect-debounce: 1.0.0
       picocolors: 1.1.1
-      sirv: 2.0.4
+      sirv: 3.0.0
       vite: 5.4.10
     transitivePeerDependencies:
       - rollup
@@ -10586,11 +10591,11 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: false
 
-  github.com/webo-agency/www/1b7e5d4f41782aa0f6f056e476189af2c3b5b82d(@nuxt/devtools@1.6.1)(@vue/compiler-core@3.5.13)(browserslist@4.24.2)(h3@1.13.0)(markdown-it@14.1.0)(postcss@8.4.49)(typescript@5.6.3)(vite@5.4.10)(vue@3.5.13)(webpack@5.96.1):
-    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/1b7e5d4f41782aa0f6f056e476189af2c3b5b82d}
-    id: github.com/webo-agency/www/1b7e5d4f41782aa0f6f056e476189af2c3b5b82d
+  github.com/webo-agency/www/374d17d7e94e45f13254165f280ab691a2bb1c6d(@nuxt/devtools@1.6.1)(@vue/compiler-core@3.5.13)(browserslist@4.24.2)(h3@1.13.0)(markdown-it@14.1.0)(postcss@8.4.49)(typescript@5.6.3)(vite@5.4.10)(vue@3.5.13)(webpack@5.96.1):
+    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/374d17d7e94e45f13254165f280ab691a2bb1c6d}
+    id: github.com/webo-agency/www/374d17d7e94e45f13254165f280ab691a2bb1c6d
     name: '@webo-agency/theme'
-    version: 3.7.50
+    version: 3.7.52
     requiresBuild: true
     dependencies:
       '@cloudflare/pages-plugin-static-forms': 1.0.3
