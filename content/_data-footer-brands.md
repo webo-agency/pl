@@ -20,7 +20,7 @@ logos:
     - link: 'https://eurostal-garage.it/'
       imgUrl: '/img/logos/Eurostal.svg'
     - link: 'https://sollux-lighting.com/'
-      imgUrl: '/img/logos/Sollux.svg'      
+      imgUrl: '/img/logos/sollux.svg'      
     - link: 'https://www.swistak-krakow.pl/'
       imgUrl: '/img/logos/Swistak.svg'
     - link: 'https://agencjaecho.pl/'
