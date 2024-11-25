@@ -26,7 +26,7 @@ logos:
     - link: 'https://agencjaecho.pl/'
       imgUrl: '/img/logos/echo.svg'
     - link: 'https://www.forol.pl/'
-      imgUrl: '/img/logos/Forol.svg'
+      imgUrl: '/img/logos/forol.svg'
     - link: 'https://www.deltahr.pl/'
       imgUrl: '/img/logos/DeltaHR.png'    
     - link: 'https://www.silbruk.pl/'
