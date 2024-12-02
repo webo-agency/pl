@@ -53,10 +53,10 @@ maxWidth: 640
 ### *1/* Usługi
 
 #title
-## Dostarczamy rozwiązania *internetowe dla firm*
+## Co możemy <br> *dla Ciebie zrobić?*
 
 #description
-Dostarczamy optymalne produkty cyfrowe. Jesteśmy ciekawi Twoich potrzeb - to one są podstawą oferowanych przez nas rozwiązań
+Znamy się na dwóch rzeczach: **technologii i projektowaniu**. Dzięki temu realizujemy **szyte na miarę strony www**, dbając o **najwyższą jakość wykonania**. Z nami zrealizujesz:
 
 ::::
 :::
@@ -73,7 +73,7 @@ delay: 1
 #### Strony internetowe
 
 #description
-Kreujemy szybkie nowoczesne i funkcjonalne strony internetowe, na których Twój klient szybko znajdzie to czego szuka.
+Solidnie kodowane strony www, projektowane z myślą o potrzebach Twojego biznesu i osiąganiu konkretnych celów.
 
 #readMoreText
 Dowiedz się więcej
@@ -89,7 +89,7 @@ link: 'https://www.webo.agency/uslugi/sklepy-internetowe'
 #### Sklepy internetowe
 
 #description
-E-commerce z płynnym procesem zakupowym, dostosowany do potrzeb Twojej firmy. Tworzymy sklepy przygotowane do dalszego rozwoju i ekspansji.
+E-commerce z płynnym procesem zakupowym, dostosowany do indywidualnych potrzeb Twojej firmy. Dostarczamy sklepy przygotowane do dalszego rozwoju i ekspansji.
 
 #readMoreText
 Dowiedz się więcej
