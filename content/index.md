@@ -607,13 +607,28 @@ rating: 5
 ---
 
 #author
-Wojciech Szamocki
+Radosław Cyganek
 
 #title
-Marketing Department - **Thoro / SOLLUX**
+Executive - **Proton Multimedia**
 
 #message
-Polecam współpracę z firmą Webo. **Rzetelnie wykonują założone taski** i **szukają najlepszych rozwiązań**.
+Dzięki pracy Webo mój klient osiągnął wyższe pozycje w wyszukiwarkach, **poprawił satysfakcję użytkowników i zwiększył ich zaangażowanie**. Firma proaktywnie **zarządzała ryzykiem** i zapewniała alternatywne rozwiązanie, aby osiągnąć cele klienta. Ich **szybkość reakcji i kreatywność** były godne pochwały.
+
+:::::
+:::::opinion-md
+---
+rating: 5
+---
+
+#author
+Adam Przebinda
+
+#title
+Członek zarządu - **DeltaHR**
+
+#message
+Bardzo profesjonalna firma, indywidualne podejście do klienta, **dobry i ciągły kontakt** co pozwala na bieżąco kontrolować pracę nad projektem. **Każdy szczegół dopracowany** dokładnie tak jak tego oczekiwałem, śmiało i z czystym sumieniem mogę polecić. **Wiedza, podejście do klienta, czas realizacji** - wszystko 10/10.
 
 :::::
 :::::opinion-md
@@ -629,6 +644,21 @@ CEO & CO-OWNER - **Agencja Grow**
 
 #message
 Współpraca z ekipą jest niesamowita. **Gwarancja jakości**, **responsywności i kreatywności**. Polecam baaaardzo!
+
+:::::
+:::::opinion-md
+---
+rating: 5
+---
+
+#author
+Wojciech Szamocki
+
+#title
+Marketing Department - **Thoro / SOLLUX**
+
+#message
+Polecam współpracę z firmą Webo. **Rzetelnie wykonują założone taski** i **szukają najlepszych rozwiązań**.
 
 :::::
 :::::opinion-md
@@ -676,36 +706,6 @@ Właściciel - **Caffe wasyl**
 
 #message
 **Dzięki Webo uratowałem swój biznes**, uruchomili mój sklep internetowy w **ciągu miesiąca**. Oby jak najwięcej takich ludzi!
-
-:::::
-:::::opinion-md
----
-rating: 5
----
-
-#author
-Adam Przebinda
-
-#title
-Członek zarządu - **DeltaHR**
-
-#message
-Bardzo profesjonalna firma, indywidualne podejście do klienta, **dobry i ciągły kontakt** co pozwala na bieżąco kontrolować pracę nad projektem. **Każdy szczegół dopracowany** dokładnie tak jak tego oczekiwałem, śmiało i z czystym sumieniem mogę polecić. **Wiedza, podejście do klienta, czas realizacji** - wszystko 10/10.
-
-:::::
-:::::opinion-md
----
-rating: 5
----
-
-#author
-Radosław Cyganek
-
-#title
-Executive - **Proton Multimedia**
-
-#message
-Dzięki pracy Webo mój klient osiągnął wyższe pozycje w wyszukiwarkach, **poprawił satysfakcję użytkowników i zwiększył ich zaangażowanie**. Firma proaktywnie **zarządzała ryzykiem** i zapewniała alternatywne rozwiązanie, aby osiągnąć cele klienta. Ich **szybkość reakcji i kreatywność** były godne pochwały.
 
 :::::
 ::::
