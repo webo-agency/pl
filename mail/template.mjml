@@ -1,0 +1,39 @@
+<mjml>
+    <mj-head>
+     <mj-font name="Montserrat"
+       href="https://fonts.googleapis.com/css?family=Montserrat" />
+   </mj-head>
+  <mj-body background-color="#fff">
+    <mj-section>
+      <mj-column>
+        <mj-text font-weight="bold" align="center" color="#000" font-family="Montserrat" padding-bottom="10px">
+            <h1>Dziękujemy za kontakt!</h1>
+        </mj-text>
+        <mj-text align="center" font-size="16px" color="#000" font-family="Montserrat" padding-bottom="0px">
+            Odpowiemy na wiadomość najszybciej, jak to możliwe.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-weight="bold" color="#000" font-family="Montserrat" padding-bottom="0px">
+            <h2>Dane z formularza:</h2>
+        </mj-text>
+        <mj-text font-size="14px" color="#000" font-family="Montserrat" padding-bottom="60px">
+            <b>Imię i nazwisko:</b> {{name}}<br><br>
+            <b>Firma:</b> {{company}}<br><br>
+            <b>Telefon:</b> {{phone}}<br><br>
+            <b>Treść wiadomości:</b> {{description}}<br><br>
+            <b>Usługa:</b> {{service}}<br><br>
+            <b>Treść zgody:</b> ({{acceptance}}) Wyrażam zgodę na otrzymywanie informacji handlowej, dostarczonej drogą elektroniczną przez firmę Webo oraz na przetwarzanie moich danych osobowych zgodnie z <a href="https://webo.pl/polityka-prywatnosci" style="color: #06ceaf;">polityką prywatności</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#010302" background-url="https://www.webo.agency/img/mail/mail-footer-bg.png" background-size="150px" background-repeat="no-repeat" background-position="bottom right">
+      <mj-column>
+        <mj-image padding-bottom="40px" width="100px" src="https://www.webo.agency/img/mail/mail-footer-logo.png"></mj-image>
+        <mj-text align="center" font-size="13px" color="#fff" font-family="Montserrat"><a href="https://www.webo.pl" style="color: #fff;text-decoration:none;">Webo agency<a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
