@@ -23,7 +23,7 @@
             <b>Imię i nazwisko:</b> {{name}}<br><br>
             <b>Firma:</b> {{company}}<br><br>
             <b>Telefon:</b> {{phone}}<br><br>
-            <b>Treść wiadomości:</b> {{description}}<br><br>
+            <b>Treść wiadomości:</b> {{message}}<br><br>
             <b>Usługa:</b> {{service}}<br><br>
             <b>Treść zgody:</b> ({{acceptance}}) Wyrażam zgodę na otrzymywanie informacji handlowej, dostarczonej drogą elektroniczną przez firmę Webo oraz na przetwarzanie moich danych osobowych zgodnie z <a href="https://webo.pl/polityka-prywatnosci" style="color: #06ceaf;">polityką prywatności</a>
         </mj-text>
