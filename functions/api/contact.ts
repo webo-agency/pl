@@ -47,14 +47,14 @@ export const onRequest = (context) => {
           acceptance: (formData.get("acceptance") || 0).toString(),
           service: (formData.get("service") || 0).toString(),
           email: (formData.get("mail") || "").toString(),
-          subject: `Thank you for contact ${formData.get("name") || ""}`
+          subject: `Dziękujemy za kontakt, ${formData.get("name") || ""}`
         };
 
         let dataObject = {
           smtp_account: '1.webo.smtp',
           subject: "{{subject}}",
           from: context.env.EMAIL_FROM,
-          template_id: '641c8100',
+          template_id: '7214766d',
           reply_to: context.env.EMAIL_REPLY_TO,
           from_name: "Webo.Agency"
         };
