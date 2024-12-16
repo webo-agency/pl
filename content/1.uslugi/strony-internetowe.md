@@ -15,7 +15,7 @@ hreflangs:
 ---
 bgImg: false
 headerWidth: 460
-descriptionWidth: 460
+descriptionWidth: 475
 isSecondSvg: true
 ---
 
@@ -26,13 +26,13 @@ isSecondSvg: true
 # Strony internetowe
 
 #description
-Tworzymy szyte na miarę strony internetowe, projektując dla Ciebie indywidualny wygląd i kodując od podstaw.
+Tworzymy szyte na miarę strony internetowe, projektując dla Ciebie indywidualny wygląd i&nbsp;kodując od podstaw.
 
 #right
 :::block-banner-decoration-md
 ---
-svgUrl_bl: '/img/svg-arc.svg'
-svgUrl_tr: '/img/svg-square.svg'
+svgUrl_tl: '/img/svg-arc.svg'
+svgUrl_br: '/img/svg-square.svg'
 ---
 :::
 ::
@@ -40,7 +40,7 @@ svgUrl_tr: '/img/svg-square.svg'
 
 ::page-section-md
 ---
-classes: mb-5 tablet:mb-[400px]
+classes: mb-10 desktop:mb-[200px]
 ---
 
 :::block-columns-1-1-md
@@ -58,19 +58,19 @@ class: mb-[60px]
 ### *1/* Dla nas liczy się jakość
 
 #title
-## Dostarczamy solidne strony <br> www *dla ambitnych firm*
+## Tworzymy solidne strony <br> www *dla ambitnych firm*
 :::::
 
 :::::prose-p-3
 ---
-class: max-w-[650px] [&_p]:desktop:!mb-5 [&_p]:!leading-8
+class: max-w-[650px] mb-5 [&_p]:!leading-8
 --- 
 Nie korzystamy z szablonów czy gotowców. **Strony internetowe programujemy od podstaw**, korzystając tylko ze **sprawdzonych i nowoczesnych technologii** oraz jasnych procesów i standaryzacji. Dzięki temu zapewniamy najwyższą jakość, wydajność oraz bezpieczeństwo, **gwarantując stabilne działanie strony**, na lata.
 :::::
 
 :::::prose-p-4
 ---
-class: static-content max-w-[650px]
+class: static-content max-w-[650px] mb-5 [&_p]:!leading-[28px]
 --- 
 Od warsztatów projektowych w trakcie których wybierzemy optymalną technologię, przez **strategię UX i projekt interfejsu strony**, wdrożenie programistyczne, po **rozwój i wsparcie techniczne** - z nami kompleksowo zrealizujesz stronę www, która będzie solidnym narzędziem w Twojej firmie.
 :::::
@@ -86,14 +86,14 @@ class: h-full relative
 ---
 parallaxScale: 0.1
 startBottom: true
-class: overflow-visible
+class: overflow-hidden desktop:overflow-visible
 ---
 
 ::::::img-decorated-md
 ---
 imgUrl: '/img/content-images/strony-internetowe/section1-right-img.png'
 decoration: false
-class: tablet:w-auto !w-full mt-[-160px] desktop:mt-[-230px] scale-[1.1] tablet:!pl-20 desktop-wide:!pl-20
+class: tablet:w-auto !w-full desktop:mt-[-230px] desktop:-mr-10 tablet:!pl-20 desktop-wide:!pl-20
 ---
 ::::::
 :::::
@@ -108,7 +108,8 @@ classes: mb-5 tablet:mb-32
 
 :::block-columns-1-1-md
 ---
-class: w-auto [&_div.left]:!basis-[45%] [&_div.right]:!basis-[55%]
+class: w-auto [&_div.left]:!basis-[40%] [&_div.right]:!basis-[60%]
+reverseMobile: true
 ---
 
 
@@ -122,13 +123,13 @@ class: h-full relative
 ---
 parallaxScale: 0.09
 startBottom: true
-class: overflow-visible
+class: overflow-hidden desktop:overflow-visible
 ---
 ::::::img-decorated-md
 ---
 imgUrl: '/img/content-images/strony-internetowe/section2-left-img.png'
 decoration: false
-class: mt-[-180px] !pr-16 !w-full scale-[1]
+class: desktop:!pr-16 !w-full
 ---
 ::::::
 :::::
@@ -140,7 +141,7 @@ class: mt-[-180px] !pr-16 !w-full scale-[1]
 ---
 center: false
 maxWidth: 700
-class: mb-[60px]
+class: mb-[60px] desktop:mt-[100px]
 ---
 
 #subtitle
@@ -152,18 +153,25 @@ class: mb-[60px]
 
 :::::prose-p-3
 ---
-class: max-w-full [&_p]:desktop:!mb-5 [&_p]:!leading-8
+class: max-w-full mb-10 [&_p]:!leading-8 desktop:[&_p]:text-lg
 --- 
 Niezależnie od tego czy potrzebujesz **landing page sprzedażowy**, dedykowane rozwiązanie webowe, czy **rozbudowany serwis internetowy** dla swojej firmy - nasz zespół to programiści z krwi i kości mający doświadczenie w **najbardziej skomplikowanych projektach**. Z przyjemnością  zrealizujemy dla Ciebie:
 :::::
 
 :::::prose-p-3
 ---
-class: max-w-full bg-green-gray p-10 [&_p]:desktop:!mb-0 [&_p]:!leading-8 desktop:text-[20px] !font-semibold [&_p]:!leading-[40px]
+class: max-w-full bg-green-gray p-5 tablet:p-10 mb-10 [&_p]:!leading-8 desktop:text-[20px] !font-semibold [&_p]:!leading-[40px]
 --- 
-*/* Landing page&nbsp;&nbsp;&nbsp; */* Strony dla firm i instytucji&nbsp;&nbsp;&nbsp;  */*&nbsp;Platformy edukacyjne */*&nbsp;Serwisy&nbsp;internetowe&nbsp;&nbsp;&nbsp; */*&nbsp;Platforme&nbsp;informacyjne&nbsp;&nbsp;&nbsp; */*&nbsp;Strony&nbsp;z&nbsp;WCAG&nbsp;2.1 */*&nbsp;Dedykowane rozwiązania
+*/*&nbsp;Landing page&nbsp;&nbsp;&nbsp; */*&nbsp;Strony dla firm i&nbsp;instytucji&nbsp;&nbsp;&nbsp;  */*&nbsp;Platformy edukacyjne&nbsp;&nbsp;&nbsp; */*&nbsp;Serwisy internetowe&nbsp;&nbsp;&nbsp; */*&nbsp;Platforme informacyjne&nbsp;&nbsp;&nbsp; */*&nbsp;Strony z&nbsp;WCAG&nbsp;2.1&nbsp;&nbsp;&nbsp; */*&nbsp;Dedykowane rozwiązania
 :::::
 ::::
+:::
+
+:::svg-bg-dots
+---
+decoration: true
+class: tablet:top-0 right-0
+---
 :::
 ::
 
@@ -173,14 +181,6 @@ classes: mb-5 tablet:mb-[100px]
 ---
 
 :::effect-appear-md
-
-:::svg-bg-dots
----
-decoration: true
-class: tablet:-top-64 right-0
----
-:::
-
 ::::block-header-md
 ---
 center: true
@@ -262,13 +262,6 @@ class: top-20 right-[15%] fullHd:right-[20%] scale-x-[-1.6] scale-y-[1.6]
 ---
 :::
 
-::::svg-bg-dots
----
-decoration: true
-class: block desktop:hidden top-0 right-0
----
-::::
-
 ::::block-cta-md
 ---
 maxWidth: 800
@@ -294,12 +287,6 @@ Umów się na bezpłatną konsultację!
 classes: mb-10 tablet:mb-20
 ---
 
-:::block-bg-map-md
----
-class: -z-10
----
-:::
-
 :::effect-appear-md
 ::::block-header-md
 ---
@@ -319,7 +306,7 @@ class: mb-20
 
 :::block-columns-1-1-md
 ---
-class: mb-10 tablet:mb-20 pb-20 tablet:pb-[100px]
+class: mb-10 tablet:mb-20
 ---
 
 #left
@@ -333,6 +320,7 @@ decoration: false
 ---
 iconUrl: '/img/icons/doc_bg_gray.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -347,6 +335,7 @@ Zawsze **opieramy się o dokumentację techniczną** rozwiązań z jakich korzys
 ---
 iconUrl: '/img/icons/uxui_bg_gray.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -362,6 +351,7 @@ W projektowaniu interfejsu kluczowe są dla nas Twoje wymagania oraz **potrzeby 
 ---
 iconUrl: '/img/icons/scaling_bg_gray.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -382,6 +372,7 @@ Celem prowadzenia biznesu jest jego rozwój. Stawiamy na długofalowe rozwiązan
 ---
 iconUrl: '/img/icons/code_bg_gray.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -396,6 +387,7 @@ Webo to **zespół programistów** z krwi i kości, nie korzystamy ze słabych j
 ---
 iconUrl: '/img/icons/weight_bg_gray.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -410,6 +402,7 @@ Naszym zadaniem jest dostarczenie **stabilnie działającej strony** internetowe
 ---
 iconUrl: '/img/icons/tests_bg_gray.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -423,7 +416,6 @@ Przeprowadzamy szczegółową **kontrolę jakości i funkcjonowania strony**. Te
 ::::
 :::
 ::
-
 
 
 
@@ -506,7 +498,7 @@ Jakościowe wdrożenie to pewność działania strony m.in. bez wtop wydajności
 :::effect-appear-md
 ::::effect-parallax-md
 ---
-parallaxScale: 0.09
+parallaxScale: 0.08
 startBottom: true
 class: overflow-hidden
 ---
@@ -785,8 +777,6 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 class: mb-20 tablet:mb-[130px]
 ---
-:::effect-appear-md
-::::block-form-before-footer-md
-::::
+:::block-form-before-footer-md
 :::
 ::
