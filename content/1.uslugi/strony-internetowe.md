@@ -422,9 +422,8 @@ Przeprowadzamy szczegółową **kontrolę jakości i funkcjonowania strony**. Te
 
 ::page-section-md
 ---
-classes: bg-gray-darkest pt-10 tablet:pt-[100px] mb-[100px] tablet:mb-[200px]
+classes: bg-gray-darkest pt-10 tablet:pt-[100px] mb-[100px]
 ---
-
 
 :::effect-appear-md
 ---
@@ -509,29 +508,6 @@ rounded: false
 ---
 :::::
 ::::
-
-
-<!-- ::::effect-appear-md
----
-class: w-full
----
-:::::effect-parallax-md
----
-parallaxScale: 0.15
-startBottom: true
-class: overflow-hidden tablet:overflow-visible
----
-::::::img-decorated-md
----
-imgUrl: '/img/content-images/strony-internetowe/section4.png'
-decoration: false
-gradient: true
-class: mt-0 !mb-0 !pl-0 tablet:!pl-8 tablet-wide:!pl-32 !w-full
----
-::::::
-:::::
-:::: -->
-
 :::
 ::
 
@@ -547,6 +523,7 @@ classes: mb-10 tablet:mb-20
 ---
 class: mb-10 tablet:mb-20 [&_.description]:!text-base
 maxWidth: 640
+decoration: false
 ---
 
 #subtitle
@@ -746,6 +723,9 @@ class: mb-10 tablet:mb-20 max-w-[480px]
 contentFolder: realizacje
 moreBtn.url: 'https://www.webo.agency/realizacje'
 moreBtn.linktitle: Zobacz wszystkie projekty
+selectedSlugs:
+    - 5gmadetogether
+    - isw
 ---
 
 :::
