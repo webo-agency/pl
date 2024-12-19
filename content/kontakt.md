@@ -9,6 +9,7 @@ hreflangs:
 ::block-banner-md
 ---
 bgUrl: './img/contact_bg.png'
+headerWidth: 525
 ---
 
 #subtitle
@@ -96,6 +97,7 @@ Wypełnij formularz
 ---
 name: name
 type: text
+required: true
 ---
 
 #placeholder
@@ -106,6 +108,7 @@ Twoje imię i nazwisko
 ---
 name: company
 type: text
+required: true
 ---
 
 #placeholder
@@ -115,6 +118,7 @@ Nazwa firmy
 ::::form-field-md
 ---
 type: email
+required: true
 ---
 
 #placeholder
@@ -126,6 +130,7 @@ Twój adres e-mail
 ---
 name: phone
 type: tel
+required: true
 ---
 
 #placeholder
@@ -137,6 +142,7 @@ Nr. telefonu
 ---
 name: description
 type: textarea
+required: true
 ---
 
 #placeholder
@@ -173,7 +179,7 @@ iconUrl: '/img/icons/24h.png'
 ---
 
 #text
-Skontaktujemy się z Tobą w ciągu 24 godzin
+Skontaktujemy się z Tobą w&nbsp;ciągu 24 godzin
 
 :::::
 :::::icon-contact-tile-md

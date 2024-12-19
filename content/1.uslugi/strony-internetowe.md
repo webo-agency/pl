@@ -70,7 +70,7 @@ Nie korzystamy z szablonów czy gotowców. **Strony internetowe programujemy od 
 
 ::::::prose-p-4
 ---
-class: text-base max-w-[650px] mb-5 [&_p]:!leading-[28px]
+class: text-base max-w-[650px] mb-5 [&_p]:!leading-7
 --- 
 Od warsztatów projektowych w trakcie których wybierzemy optymalną technologię, przez **strategię UX i projekt interfejsu strony**, wdrożenie programistyczne, po **rozwój i wsparcie techniczne** - z nami kompleksowo zrealizujesz stronę www, która będzie solidnym narzędziem w Twojej firmie.
 ::::::
@@ -522,7 +522,7 @@ classes: mb-10 tablet:mb-20
 :::effect-appear-md
 ::::block-header-two-cols-md
 ---
-class: mb-10 tablet:mb-20 [&_.description]:!text-base
+class: mb-10 [&_.description]:!text-base
 maxWidth: 640
 decoration: false
 ---
@@ -683,7 +683,7 @@ Często publikacja strony to dopiero początek, a podczas użytkowania strony po
 
 ::::block-cta-md
 ---
-maxWidth: 640
+maxWidth: 700
 button.link: https://www.webo.agency/kontakt
 button.title: 'Skontaktuj się z nami'
 button.isWide: true
@@ -707,7 +707,8 @@ class: mb-[80px] tablet:mb-[130px]
 :::effect-appear-md
 ::::block-header-md
 ---
-class: mb-10 tablet:mb-20 max-w-[480px]
+class: mb-10 tablet:mb-20
+maxWidth: 550
 ---
 
 #subtitle

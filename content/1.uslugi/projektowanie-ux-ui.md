@@ -59,7 +59,7 @@ class: relative z-20
 ---
 :::::block-header-md
 ---
-maxWidth: 690
+maxWidth: 580
 ---
 
 #subtitle
@@ -222,7 +222,7 @@ center: true
 ### *3/* Dlaczego UX jest ważny?
 
 #title
-## Jakie są korzyści z *projektowania UX/UI?*
+## Jakie są korzyści z&nbsp;*projektowania UX/UI?*
 
 #description
 Wygląd i działanie Twojej strony internetowej ma ogromne znaczenie - już w pierwszej sekundzie przebywania na stronie, użytkownicy decydują czy na niej zostaną. Dzięki UX/UI wpłyniesz na
@@ -323,7 +323,7 @@ rounded: false
 class: mb-[50px] tablet:mb-[150px]
 ---
 :::effect-appear-md
-::::block-header-md
+::::block-header-two-cols-md
 ---
 maxWidth: 840
 class: mb-10 tablet:mb-[60px]
@@ -483,6 +483,7 @@ decoration: false
 ---
 iconUrl: '/img/icons/journey_bg.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -497,6 +498,7 @@ Określa emocje towarzyszące użytkownikom podczas korzystania z interfejsu. Dz
 ---
 iconUrl: '/img/icons/path_bg.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -512,6 +514,7 @@ To schemat określający ścieżkę jaką musi pokonać użytkownik na stronie i
 ---
 iconUrl: '/img/icons/design-system_bg.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -533,6 +536,7 @@ Jest to zbiór wytycznych i elementów standardowych (np. różnych wersji przyc
 ---
 iconUrl: '/img/icons/architecture_bg.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -547,6 +551,7 @@ Architektura informacji odpowiada za organizację i podział treści na stronie 
 ---
 iconUrl: '/img/icons/ui-design_bg.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -561,6 +566,7 @@ To graficzna prezentacja układu elementów na stronie, pozwalająca na określe
 ---
 iconUrl: '/img/icons/project_bg.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -651,8 +657,6 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 class: mb-20 tablet:mb-[130px]
 ---
-:::effect-appear-md
-::::block-form-before-footer-md
-::::
+:::block-form-before-footer-md
 :::
 ::

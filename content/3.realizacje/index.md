@@ -45,6 +45,9 @@ link: 'https://www.is-wireless.com/'
 
 #description
 :::::prose-p3
+---
+class: leading-8
+---
 **is-wireless.com** to nowoczesna strona www działająca w oparciu o **CMS Wordpress**. Całość wykonana została w trybie **headless**, w celu maksymalnego przyśpieszenia.
 :::::
 
