@@ -371,7 +371,8 @@ Dzięki pracy Webo mój klient osiągnął wyższe pozycje w wyszukiwarkach, **p
 
 #authorTitle
 :::::prose-p6
-Executive - **Proton Multimedia**
+Executive - **Proton Multimedia**<br>
+Administrator IT - **Mancraft**
 :::::
 ::::
 :::
