@@ -91,7 +91,7 @@ export const onRequest = (context) => {
           },
           vars: {
             ...vars,
-            subject: 'Thank you for contact, ' + vars.name,
+            subject: 'Dziękujemy za skontaktowanie się, ' + vars.name,
           }
         };
 
