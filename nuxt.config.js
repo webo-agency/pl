@@ -2,6 +2,6 @@
 export default defineNuxtConfig({
   extends: ["github:webo-agency/www#main"],
   site:{
-    url: 'https://www.webo.pl',
+    url: 'https://webo.pl',
   },
 });

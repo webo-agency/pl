@@ -6,8 +6,8 @@ category:
     - Technologia
 image.url: '/img/blog-images/webo_blog_headless_wp.jpg'
 hreflangs:
-    EN: '/blog'
-    PL: '/blog/cms-wordpress-i-headless-czyli-silniki-rakietowe-dla-twojej-strony-www'
+    EN: '/blog/'
+    PL: '/blog/cms-wordpress-i-headless-czyli-silniki-rakietowe-dla-twojej-strony-www/'
 public: true
 draft: false
 ---
@@ -108,7 +108,7 @@ class: mb-20 tablet:mb-[100px]
 :::effect-appear-md
 ::::block-header-link-md
 ---
-url: 'https://www.webo.agency/blog'
+url: 'https://webo.agency/blog/'
 linktitle: Zobacz wszystkie wpisy
 ---
 
@@ -134,7 +134,7 @@ class: mb-[50px] tablet:mb-[100px]
 :::effect-appear-md
 ::::block-cta-md
 ---
-button.link: https://www.webo.agency/kontakt
+button.link: https://webo.agency/kontakt/
 button.title: 'Skontaktuj się z nami'
 button.isWide: true
 maxWidth: 560

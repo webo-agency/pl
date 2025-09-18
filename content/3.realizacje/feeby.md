@@ -1,7 +1,6 @@
 ---
 introduction.title: 'Sklep internetowy polskiego producenta dekoracji w oparciu o Prestashop i Tailwind CSS'
-introduction.description: 'Feeby to polski producent dekoracji działający na rynku od ponad 25 lat. Nasza współpraca polega na wdrożeniu, utrzymaniu sklepu, a także na rozwoju o nowe funkcjonalności.
-'
+introduction.description: 'Feeby to polski producent dekoracji działający na rynku od ponad 25 lat. Nasza współpraca polega na wdrożeniu, utrzymaniu sklepu, a także na rozwoju o nowe funkcjonalności.'
 type:
     - UX/UI
     - E-commerce
@@ -458,7 +457,7 @@ class: mb-[50px] tablet:mb-[100px]
 :::effect-appear-md
 ::::block-cta-md
 ---
-button.link: https://www.webo.agency/kontakt
+button.link: https://webo.agency/kontakt/
 button.title: 'Skontaktuj się'
 ---
 

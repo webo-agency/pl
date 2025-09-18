@@ -29,9 +29,9 @@
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#010302" background-url="https://www.webo.agency/img/mail/mail-footer-bg.png" background-size="150px" background-repeat="no-repeat" background-position="bottom right">
+    <mj-section background-color="#010302" background-url="https://webo.agency/img/mail/mail-footer-bg.png" background-size="150px" background-repeat="no-repeat" background-position="bottom right">
       <mj-column>
-        <mj-image padding-bottom="40px" width="100px" src="https://www.webo.agency/img/mail/mail-footer-logo.png"></mj-image>
+        <mj-image padding-bottom="40px" width="100px" src="https://webo.agency/img/mail/mail-footer-logo.png"></mj-image>
         <mj-text align="center" font-size="13px" color="#fff" font-family="Roboto"><a href="https://www.webo.pl" style="color: #fff;text-decoration:none;">Webo agency<a></mj-text>
       </mj-column>
     </mj-section>

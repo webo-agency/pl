@@ -1,7 +1,7 @@
 ---
 hreflangs:
-    EN: '/privacy-policy'
-    PL: '/polityka-prywatnosci'
+    EN: '/privacy-policy/'
+    PL: '/polityka-prywatnosci/'
 ---
 
 ::page-section-md

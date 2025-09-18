@@ -6,8 +6,8 @@ category:
     - Technologia
 image.url: '/img/blog-images/webo_blog_conversion.jpg'
 hreflangs:
-    EN: '/blog'
-    PL: '/blog/czym-jest-konwersja-w-sklepie-internetowym-i-co-na-nia-wplywa'
+    EN: '/blog/'
+    PL: '/blog/czym-jest-konwersja-w-sklepie-internetowym-i-co-na-nia-wplywa/'
 public: true
 draft: false
 ---
@@ -121,7 +121,7 @@ class: mb-20 tablet:mb-[100px]
 :::effect-appear-md
 ::::block-header-link-md
 ---
-url: 'https://www.webo.agency/blog'
+url: 'https://webo.agency/blog/'
 linktitle: Zobacz wszystkie wpisy
 ---
 
@@ -147,7 +147,7 @@ class: mb-[50px] tablet:mb-[100px]
 :::effect-appear-md
 ::::block-cta-md
 ---
-button.link: https://www.webo.agency/kontakt
+button.link: https://webo.agency/kontakt/
 button.title: 'Skontaktuj się z nami'
 button.isWide: true
 maxWidth: 560
