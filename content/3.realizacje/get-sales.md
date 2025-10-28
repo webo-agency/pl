@@ -56,6 +56,118 @@ class: mb-[50px] tablet:mb-[100px]
 ::
 
 
+::page-section-md
+---
+class: _static-content mb-[50px] tablet:mb-[100px]
+---
+
+:::effect-appear-md
+---
+class: _mx-default
+---
+::::block-columns-1-1-md
+---
+reverseMobile: true
+class: items-center [&_div.right]:self-start
+---
+
+#left
+::::card-icon-md
+---
+class: tablet:pr-2.5 [&_div_div.group]:p-10 [&_div_div]:bg-primary [&_div_div]:!text-gray-darker [&_h4]:!mb-4 [&_h4]:tablet:text-[35px]
+icon: '/img/icons/info.svg'
+---
+#title
+#### Projekt w pigułce
+
+#content
+:::::block-list-ul-md
+---
+decoration: false
+---
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/list-1.svg'
+iconBig: false
+animated: false
+class: icon [&_div_div]:!pb-1 [&_div_div_div]:!min-h-fit [&_div_div.flex]:lg:flex-row [&_div_div.flex]:gap-7 [&_div_div_picture]:!w-[60px] [&_div.title_p]:!text-xl [&_div.title]:!mb-2 [&_div_div_div_div_p]:!tracking-normal
+
+---
+
+#title
+Analiza i warsztaty UX
+
+#description
+Na podstawie otrzymanych wymagań przeprowadziliśmy **audyt struktury informacji** oraz układu i stylistyki obecnej strony, wyznaczając kierunek projektowy zgodny z **dobrymi praktykami UX** i celami biznesowymi klienta.
+
+::::::
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/list-2.svg'
+iconBig: false
+animated: false
+class: icon [&_div_div]:!pb-1 [&_div_div_div]:!min-h-fit [&_div_div.flex]:lg:flex-row [&_div_div.flex]:gap-7 [&_div_div_picture]:!w-[60px] [&_div.title_p]:!text-xl [&_div.title]:!mb-2 [&_div_div_div_div_p]:!tracking-normal
+---
+
+#title
+Projekt strony internetowej
+
+#description
+Zaprojektowaliśmy stronę główną, podstrony usług i wydarzenia, opierając się na **przemyślanej architekturze informacji**, kładąc szczególny nacisk na użyteczność strony, przejrzystość oferty i spójność wizualną.
+
+::::::
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/list-3.svg'
+iconBig: false
+animated: false
+class: icon [&_div_div]:!pb-1 [&_div_div_div]:!min-h-fit [&_div_div.flex]:lg:flex-row [&_div_div.flex]:gap-7 [&_div_div_picture]:!w-[60px] [&_div.title_p]:!text-xl [&_div.title]:!mb-1 [&_div_div_div_div_p]:!tracking-normal
+---
+
+#title
+Kodowanie Wordpress
+
+#description
+Wdrożyliśmy nowy system komponentów w środowisku WordPress, **integrując go z istniejącą stroną klienta**. Zadbaliśmy o responsywność, optymalizację wydajności oraz spójność wizualną z projektem.
+
+::::::
+:::::
+::::
+
+#right
+
+::::card-icon-md
+---
+class: tablet:pr-2.5 [&_div_div.group]:p-10 [&_div_div]:bg-white [&_div_div]:!text-gray-darker [&_h4]:!mb-4 [&_h4]:tablet:text-[35px]
+icon: '/img/icons/double_check.svg'
+---
+#title
+#### Rezultat pracy
+
+#content
+:::::block-list-ul-md
+---
+decoration: false
+---
+::::::list-item-ul-active-md
+---
+
+iconBig: false
+animated: false
+class: icon [&_div_div_div]:!min-h-fit 
+---
+
+#description
+Efektem naszej pracy jest odświeżona wizualnie i **funkcjonalnie strona internetowa**, zgodna z identyfikacją wizualną klienta i **współczesnymi zasadami projektowania UX/UI**. Nowe widoki podstron zostały zintegrowane z istniejącą stroną, co pozwoliło uniknąć budowy serwisu od podstaw. <br><br>
+Zaprogramowane strony zostały dostosowane do wyświetlania na urządzeniach mobilnych i zoptymalizowane pod kątem szybkości działania. Wdrożony **system komponentów Wordpress** łączy atrakcyjny wizualnie design z łatwością edycji, zapewniając solidne podstawy do dalszego rozwoju serwisu.
+
+::::::
+:::::
+
+
+::::
+:::
+::
 
 
 
@@ -131,7 +243,7 @@ class: mb-5
 
 ::page-section-md
 ---
-class: mb-5 tablet:mb-[100px]
+class: mb-5
 ---
 :::effect-appear-md
 ::::prose-figure{src="/img/content-images/case-getsales-img9.png"}
