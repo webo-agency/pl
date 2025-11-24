@@ -374,7 +374,7 @@ decoration: false
 ## Wybierzemy najlepsze rozwiązanie *dla Twojego projektu*
 
 #description
-Do każdego projektu podchodzimy **indywidualnie**, analizując jego potrzeby i&nbsp;**dobierając optymalne rozwiązania**. Korzystamy tylko ze sprawdzonych systemów takich jak Wordpres / Drupal / Prestashop, **łącząc je z najnowszymi technologiami**.
+Do każdego projektu podchodzimy **indywidualnie**, analizując jego potrzeby i&nbsp;**dobierając optymalne rozwiązania**. Korzystamy tylko ze sprawdzonych systemów takich jak Wordpress / Drupal / Prestashop, **łącząc je z najnowszymi technologiami**.
 :::
 
 :::block-columns-2-5-md
