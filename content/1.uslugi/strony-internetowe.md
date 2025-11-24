@@ -2,8 +2,8 @@
 name: Strony www
 description: Szybkie, wydajne i funkcjonalne strony internetowe.
 meta:
-    title: Solidne strony internetowe
-    description: Dostarczamy szyte na miarę i wydajne strony internetowe, projektując dla Ciebie indywidualny wygląd i programując od podstaw, tak aby działała stabilnie przez lata.
+    title: Tworzenie stron internetowych - profesjonalne strony WWW -  Webo.pl  
+    description: Nowoczesne strony www dla firm, zgodne z SEO i UX. Zdobądź nowych klientów - zamów wycenę już dziś!
 showInNav: true
 draft: false
 public: true
