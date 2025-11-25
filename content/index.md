@@ -4,6 +4,9 @@ hreflangs:
     PL: '/'
 sitemap:
   priority: 1
+meta:
+    title: Specjaliści od solidnych stron internetowych i e-commerce - Webo.pl  
+    description: 'Znamy się na dwóch rzeczach: technologii i projektowaniu UX/UI. Dzięki temu realizujemy szyte na miarę strony www, dbając o najwyższą jakość wykonania.'
 ---
 ::block-hero-md
 ---
