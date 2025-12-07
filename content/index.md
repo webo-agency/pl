@@ -211,10 +211,10 @@ contentFolder: realizacje
 moreBtn.url: 'https://webo.agency/realizacje/'
 moreBtn.linktitle: Zobacz wszystkie projekty
 selectedSlugs:
-    - 5gmadetogether
+    - velair
     - isw
     - wallsociety
-    - mutiny-group
+    - thoro
 ---
 
 :::
