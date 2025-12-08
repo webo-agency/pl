@@ -311,8 +311,8 @@ contentFolder: realizacje
 moreBtn.url: 'https://webo.agency/realizacje'
 moreBtn.linktitle: Zobacz wszystkie projekty
 selectedSlugs:
-    - isw
-    - mutiny-group
+    - velair
+    - get-sales
 ---
 
 :::
