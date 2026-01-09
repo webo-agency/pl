@@ -1,10 +1,7 @@
 ---
-name: Strony Wordpress
-description: Strony Wordpress
 meta:
   title: Tworzenie stron WordPresss - strony WWW dla firm -  Webo.pl
   description: Projektujemy i wdrażamy strony WordPress dopasowane do Twoich potrzeb. Zacznij budować swoją markę online!
-showInNav: false
 draft: false
 public: true
 hreflangs:

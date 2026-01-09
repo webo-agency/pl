@@ -1,10 +1,7 @@
 ---
-name: Projektowanie UX/UI
-description: Projektowanie stron i sklepów skoncentrowane na użytkowniku.
 meta:
   title: Projektowanie UX/UI stron WWW - Webo.pl
   description: Projektujemy intuicyjne interfejsy zwiększające konwersję. Zadbaj o UX swojej strony - zamów audyt lub projekt!
-showInNav: true
 hreflangs:
     EN: '/services/ux-ui-design/'
     PL: '/uslugi/projektowanie-ux-ui/'

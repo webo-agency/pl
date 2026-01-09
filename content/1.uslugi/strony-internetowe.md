@@ -1,10 +1,7 @@
 ---
-name: Strony www
-description: Szybkie, wydajne i funkcjonalne strony internetowe.
 meta:
     title: Tworzenie stron internetowych - profesjonalne strony WWW -  Webo.pl  
     description: Nowoczesne strony www dla firm, zgodne z SEO i UX. Zdobądź nowych klientów - zamów wycenę już dziś!
-showInNav: true
 draft: false
 public: true
 hreflangs:

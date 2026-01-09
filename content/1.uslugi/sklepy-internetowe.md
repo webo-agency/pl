@@ -1,10 +1,7 @@
 ---
-name: Sklepy internetowe
-description: Łatwe w obsłudze sklepy internetowe z płynnym procesem sprzedaży.
 meta:
-  title: Tworzenie sklepów internetowych - profesjonalne rozwiązania e-commerce -  Webo.pl
+  title: Tworzenie sklepów internetowych - profesjonalne rozwiązania e-commerce - Webo.pl
   description: Tworzymy profesjonalne sklepy internetowe - responsywne, szybkie i bezpieczne. Rozpocznij sprzedaż online!
-showInNav: true
 draft: false
 public: true
 hreflangs:

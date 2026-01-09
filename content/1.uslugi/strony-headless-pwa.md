@@ -1,7 +1,7 @@
 ---
-name: Strony HeadlessPWA
-description: Nowa technologia -  maksimum wydajności i bezpieczeństwa.
-showInNav: true
+meta:
+    title: Headless CMS WordPress -  Webo.pl
+    description: Headless CMS - maksymalna wydajność i elastyczność. Postaw na nowoczesne rozwiązania - sprawdź naszą ofertę!
 draft: false
 public: true
 hreflangs:
