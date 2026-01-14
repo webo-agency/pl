@@ -37,7 +37,7 @@ svgUrl_br: '/img/svg-square.svg'
 
 ::page-section-md
 ---
-classes: mb-10 desktop:mb-[200px]
+classes: mb-10 desktop:mb-[80px]
 ---
 
 :::block-columns-1-1-md
@@ -292,7 +292,7 @@ Umów się na bezpłatną konsultację!
 
 ::page-section-md
 ---
-classes: mb-10 tablet:mb-20
+classes: mb-10 tablet:mb-[80px]
 ---
 
 :::effect-appear-md
@@ -524,7 +524,7 @@ rounded: false
 
 ::page-section-md
 ---
-classes: mb-10 tablet:mb-20
+classes: mb-10 tablet:mb-[100px]
 ---
 :::effect-appear-md
 ::::block-header-two-cols-md
@@ -690,7 +690,7 @@ Często publikacja strony to dopiero początek, a podczas użytkowania strony po
 
 ::page-section-md
 ---
-classes: mb-20 tablet:mb-[100px]
+classes: mb-20 tablet:mb-[80px] [&_.right]:flex [&_.right]:flex-col [&_.right]:justify-center
 ---
 
 :::block-columns-1-1-md
