@@ -1,10 +1,10 @@
 ---
 introduction.title: 'UX w e-commerce – jak realnie poprawić doświadczenie użytkownika w sklepie online'
 introduction.titleFormatted: 'UX w e-commerce – jak realnie poprawić doświadczenie użytkownika w sklepie online'
-introduction.description: 'UX w e-commerce – jak realnie poprawić doświadczenie użytkownika w sklepie online'
+introduction.description: 'W e-commerce UX nie jest dodatkiem do designu, lecz jednym z kluczowych czynników wpływających na sprzedaż.'
 category:
     - Technologia
-image.url: '/img/blog-images/webo_blog_headless_wp.jpg'
+image.url: '/img/blog-images/blog_webo_ux_w_e_commerce.webp'
 hreflangs:
     EN: '/blog/'
     PL: '/blog/cms-wordpress-i-headless-czyli-silniki-rakietowe-dla-twojej-strony-www/'
