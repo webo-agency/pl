@@ -21,7 +21,7 @@ class: mb-20 tablet:mb-[100px]
 ::::block-header-post-md
 ---
 bgUrl: /img/blog-images/webo_blog_conversion.jpg
-class: mx-auto [&_img]:max-h-[200px] lg:[&_img]:max-h-[600px]
+class: mt-5 tablet:mt-[100px] [&_img]:max-h-[200px] lg:[&_img]:max-h-[600px]
 ---
 
 #title
