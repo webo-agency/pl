@@ -141,7 +141,7 @@ Dowiedz się więcej
 ::::offer-tile-md
 --- 
 icon: '/img/icons/presta.svg'
-link: 'https://webo.agency/kontakt/'
+link: 'https://webo.pl/uslugi/sklepy-prestashop/'
 delay: 1
 ---
 #title
