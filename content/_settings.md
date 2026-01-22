@@ -22,7 +22,7 @@ nav:
         - title: Sklep WooCommerce
           link: 'https://webo.agency/uslugi/sklepy-woocommerce/'       
         - title: Sklep Prestashop
-          link: ''       
+          link: 'https://webo.agency/uslugi/sklepy-prestashop/'       
         - title: Konfiguratory produktów
           link: ''       
         - title: Wsparcie i rozwój sklepów
