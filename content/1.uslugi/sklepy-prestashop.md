@@ -38,7 +38,7 @@ svgUrl_br: '/img/svg-square.svg'
 
 ::page-section-md
 ---
-classes: mb-[100px] tablet:mb-[200px] overflow-x-clip overflow-y-visible
+classes: mb-[50px] tablet:mb-[200px] overflow-x-clip overflow-y-visible
 ---
 :::block-columns-1-1-md
 ---
@@ -98,10 +98,13 @@ class: tablet:w-auto !w-full desktop:mt-[-230px] tablet:!pl-10
 
 ::page-section-md
 ---
-class: mb-20 tablet:mb-[150px]
+class: mb-[50px] tablet:mb-[150px]
 ---
 
 :::block-columns-1-1-md
+---
+reverseMobile: true
+---
 
 #left
 ::::effect-appear-md
@@ -481,6 +484,7 @@ classes: mb-20 tablet:mb-[130px]
 
 :::block-columns-1-1-md
 ---
+reverseMobile: true
 class: mb-0 [&_.right]:flex [&_.right]:items-center
 ---
 
@@ -878,8 +882,8 @@ contentFolder: realizacje
 moreBtn.url: 'https://webo.agency/realizacje'
 moreBtn.linktitle: Zobacz wszystkie projekty
 selectedSlugs:
-    - get-sales
-    - isw
+    - mancraft
+    - thoro
 ---
 
 :::
