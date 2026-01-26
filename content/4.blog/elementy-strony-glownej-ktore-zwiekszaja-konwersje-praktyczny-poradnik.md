@@ -5,6 +5,7 @@ introduction.description: 'Stworzenie efektywnej strony głównej to kluczowy kr
 category:
     - Technologia
 image.url: '/img/blog-images/blog_webo_elementy_strony_glownej.webp'
+date: 2026-01-26
 hreflangs:
     EN: '/blog/'
     PL: '/blog/ux-w-e-commerce-jak-realnie-poprawic-doswiadczenie-uzytkownika-w-sklepie-online/'
@@ -330,7 +331,7 @@ class: ml-0 [&_p]:!mb-8 [&_li]:before:!bg-black [&_li]:!mb-1 [&_ul]:!mb-8
 
 **Z punktu widzenia UX/UI kluczowe znaczenie mają:**
 
-- **czytelna struktura informacji** i logiczny układ sekcji, który prowadzi użytkownika przez stronę,
+- **czytelna struktura informacji i logiczny układ sekcji**, który prowadzi użytkownika przez stronę,
 - **hierarchia wizualna**, pozwalająca od razu zidentyfikować najważniejsze elementy, takie jak nagłówki czy CTA,
 - **spójność interfejsu**, obejmująca kolory, typografię i styl komponentów,
 - **responsywność i dostępność**, zapewniające wygodne korzystanie ze strony na różnych urządzeniach,
