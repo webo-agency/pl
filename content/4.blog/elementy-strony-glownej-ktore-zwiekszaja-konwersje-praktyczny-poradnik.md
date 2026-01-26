@@ -5,6 +5,7 @@ introduction.description: 'Stworzenie efektywnej strony głównej to kluczowy kr
 category:
     - Technologia
 image.url: '/img/blog-images/blog_webo_elementy_strony_glownej.webp'
+date: 2026-01-26
 hreflangs:
     EN: '/blog/'
     PL: '/blog/ux-w-e-commerce-jak-realnie-poprawic-doswiadczenie-uzytkownika-w-sklepie-online/'
