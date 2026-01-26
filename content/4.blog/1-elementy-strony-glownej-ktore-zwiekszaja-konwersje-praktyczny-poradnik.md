@@ -1,7 +1,7 @@
 ---
 introduction.title: 'Elementy strony głównej, które zwiększają konwersję - praktyczny poradnik'
 introduction.titleFormatted: 'Elementy strony głównej, które zwiększają konwersję - praktyczny poradnik'
-introduction.description: 'Elementy strony głównej, które zwiększają konwersję - praktyczny poradnik.'
+introduction.description: 'Stworzenie efektywnej strony głównej to kluczowy krok w procesie zwiększania konwersji na Twojej stronie internetowej.'
 category:
     - Technologia
 image.url: '/img/blog-images/blog_webo_elementy_strony_glownej.webp'
