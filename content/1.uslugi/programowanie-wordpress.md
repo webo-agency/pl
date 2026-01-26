@@ -557,7 +557,7 @@ class: mb-[50px] text-center relative
 ##### Czym różni się kodowanie WordPress od instalacji gotowego motywu?
 
 #description
-Cena zależy od zakresu funkcjonalności, liczby produktów, projektów graficznych i integracji. Proste **woocommerce sklepy internetowe** zaczynają się od kilku tysięcy złotych, a rozbudowane systemy są wyceniane indywidualnie po analizie potrzeb.
+Kodowanie WordPress to proces tworzenia funkcji, motywów i struktur od podstaw, zgodnie z wymaganiami projektu. Gotowe motywy są uniwersalne i często przeładowane niepotrzebnymi elementami. Dedykowane rozwiązania są lżejsze, bezpieczniejsze i znacznie łatwiejsze do rozwijania w przyszłości.
 
 :::::
 
@@ -567,7 +567,7 @@ Cena zależy od zakresu funkcjonalności, liczby produktów, projektów graficzn
 ##### Ile kosztuje programowanie funkcji w WordPress?
 
 #description
-Standardowy czas realizacji to 6-12 tygodni. Projektowanie, kodowanie, integracje i testy wymagają czasu, by finalny produkt był dopracowany, szybki i niezawodny.
+Koszt zależy od zakresu funkcjonalności - proste rozwiązania mogą kosztować od kilkuset złotych, bardziej zaawansowane funkcje (np. konfiguratory, integracje z API) wyceniane są indywidualnie. Zawsze przygotowujemy szczegółową wycenę na podstawie analizy projektu.
 
 :::::
 
@@ -577,7 +577,7 @@ Standardowy czas realizacji to 6-12 tygodni. Projektowanie, kodowanie, integracj
 ##### Czy możecie stworzyć własny motyw WordPress od zera?
 
 #description
-Tak. **Tworzenie sklepu WooCommerce** zakłada prostą edycję produktów, cen, opisów i zamówień z poziomu intuicyjnego panelu WordPress. Oferujemy też szkolenie i dokumentację.
+Tak. W Webo projektujemy i kodujemy motywy od podstaw - bez predefiniowanych szablonów. To zapewnia pełną kontrolę nad wyglądem, strukturą i działaniem strony.
 
 :::::
 
@@ -587,7 +587,7 @@ Tak. **Tworzenie sklepu WooCommerce** zakłada prostą edycję produktów, cen, 
 ##### Czy mogę zlecić Wam zaprogramowanie istniejącego projektu strony?
 
 #description
-Tak. Integrujemy sklepy z bramkami płatności (np. PayU, Przelewy24, Stripe), kurierami, systemami fakturowania i magazynowymi - dopasowujemy integracje do Twojego modelu biznesowego.
+Oczywiście. Często pracujemy nad rozbudową istniejących stron WordPress - dopisujemy funkcje, optymalizujemy kod, naprawiamy błędy lub poprawiamy wydajność. Przed rozpoczęciem współpracy analizujemy jakość obecnego wdrożenia i przedstawiamy rekomendacje.
 :::::
 
 :::::block-expand-item-md
@@ -596,7 +596,7 @@ Tak. Integrujemy sklepy z bramkami płatności (np. PayU, Przelewy24, Stripe), k
 ##### Jak długo trwa programowanie dedykowanych funkcji?
 
 #description
-Tak, po zakończeniu **tworzenia sklepu WordPress** oferujemy wsparcie techniczne, aktualizacje, monitoring oraz możliwość dalszej rozbudowy sklepu, gdy tylko zajdzie taka potrzeba.
+W zależności od skomplikowania funkcji - od kilku dni roboczych (proste rozszerzenia) do kilku tygodni (np. rozbudowane systemy rezerwacji, panele użytkownika czy zaawansowane integracje). Przed rozpoczęciem prac ustalamy harmonogram z jasnymi etapami.
 
 :::::
 ::::
