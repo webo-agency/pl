@@ -9,7 +9,7 @@ nav:
         - title: Strony WordPress
           link: 'https://webo.agency/uslugi/strony-wordpress/'       
         - title: Programowanie WordPress
-          link: ''       
+          link: 'https://webo.agency/uslugi/programowanie-wordpress/'       
         - title: Strony HeadlessPWA
           link: 'https://webo.agency/uslugi/strony-headless-pwa/'       
         - title: Tworzenie landing page
