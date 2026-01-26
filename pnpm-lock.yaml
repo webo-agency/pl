@@ -10,7 +10,7 @@ dependencies:
     version: 1.0.3
   '@webo-agency/theme':
     specifier: github:webo-agency/www#main
-    version: github.com/webo-agency/www/8bda34a925569d37b2b774fa6e4980d480214951(@nuxt/devtools@1.7.0)(@vue/compiler-core@3.5.27)(@vue/compiler-sfc@3.5.27)(browserslist@4.28.1)(h3@1.15.5)(markdown-it@14.1.0)(postcss@8.5.6)(rollup@2.79.2)(vite@6.4.1)(vue@3.5.27)(webpack@5.104.1)(workbox-build@7.4.0)(workbox-window@7.4.0)
+    version: github.com/webo-agency/www/3cdd7218c294e811746efb50261f7534d4ee70af(@nuxt/devtools@1.7.0)(@vue/compiler-core@3.5.27)(@vue/compiler-sfc@3.5.27)(browserslist@4.28.1)(h3@1.15.5)(markdown-it@14.1.0)(postcss@8.5.6)(rollup@2.79.2)(vite@6.4.1)(vue@3.5.27)(webpack@5.104.1)(workbox-build@7.4.0)(workbox-window@7.4.0)
   mjml:
     specifier: ^4.15.3
     version: 4.17.2
@@ -15294,11 +15294,11 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: false
 
-  github.com/webo-agency/www/8bda34a925569d37b2b774fa6e4980d480214951(@nuxt/devtools@1.7.0)(@vue/compiler-core@3.5.27)(@vue/compiler-sfc@3.5.27)(browserslist@4.28.1)(h3@1.15.5)(markdown-it@14.1.0)(postcss@8.5.6)(rollup@2.79.2)(vite@6.4.1)(vue@3.5.27)(webpack@5.104.1)(workbox-build@7.4.0)(workbox-window@7.4.0):
-    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/8bda34a925569d37b2b774fa6e4980d480214951}
-    id: github.com/webo-agency/www/8bda34a925569d37b2b774fa6e4980d480214951
+  github.com/webo-agency/www/3cdd7218c294e811746efb50261f7534d4ee70af(@nuxt/devtools@1.7.0)(@vue/compiler-core@3.5.27)(@vue/compiler-sfc@3.5.27)(browserslist@4.28.1)(h3@1.15.5)(markdown-it@14.1.0)(postcss@8.5.6)(rollup@2.79.2)(vite@6.4.1)(vue@3.5.27)(webpack@5.104.1)(workbox-build@7.4.0)(workbox-window@7.4.0):
+    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/3cdd7218c294e811746efb50261f7534d4ee70af}
+    id: github.com/webo-agency/www/3cdd7218c294e811746efb50261f7534d4ee70af
     name: '@webo-agency/theme'
-    version: 3.7.97
+    version: 3.7.98
     requiresBuild: true
     dependencies:
       '@cloudflare/pages-plugin-static-forms': 1.0.3
