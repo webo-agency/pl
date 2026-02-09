@@ -58,7 +58,7 @@ nav:
           - icon: '/img/icons/cloudflare-black.svg'
             name: Cloudflare
   - title: Dla agencji
-    link: '/uslugi/dla-agencji/'           
+    link: https://webo.agency/uslugi/outsourcing-stron-i-sklepow-www/       
   - title: O nas
     link: https://webo.agency/o-nas
   - title: Realizacje
