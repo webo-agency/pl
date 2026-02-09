@@ -621,7 +621,7 @@ class: mb-20
 ---
 
 #subtitle
-### *6/* Outsourcing stron www
+### *6/* Outsourcing stron i sklepów www
 
 #title
 ## Elastyczne modele współpracy B2B
