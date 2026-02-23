@@ -231,7 +231,7 @@ class: mx-blog
 :::::block-post-share
 ---
 isSidebar: true
-author: Kamil
+author: Kamil M.
 authorAvatar: /img/content-images/avatar-img.png
 postDate: 23.02.2026
 shareText: 'Share the article:'
