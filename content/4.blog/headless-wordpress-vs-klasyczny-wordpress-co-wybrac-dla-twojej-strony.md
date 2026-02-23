@@ -78,7 +78,7 @@ class: mx-blog mb-10
 ---
 :::::prose-figure
 ---
-src: /img/blog-images/Strona_internetowa_Wordpress_+_Headless.webp
+src: /img/blog-images/Strona_internetowa_Wordpress_Headless.webp
 alt: "Strona internetowa Wordpress + Headless"
 rounded: true
 ---
