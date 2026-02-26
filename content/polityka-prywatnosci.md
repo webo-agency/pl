@@ -2,6 +2,10 @@
 hreflangs:
     EN: '/privacy-policy/'
     PL: '/polityka-prywatnosci/'
+
+meta:
+    title: Polityka Prywatności
+    description: 'Sprawdź, jak dbamy o Twoje dane oraz bezpieczeństwo podczas korzystania z naszej strony internetowej. Poznaj zasady przetwarzania informacji. Przeczytaj szczegóły!'     
 ---
 
 ::page-section-md

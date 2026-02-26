@@ -2,6 +2,10 @@
 hreflangs:
     EN: '/case-studies/'
     PL: '/realizacje/'
+
+meta:
+    title: Realizacje
+    description: 'Zobacz nasze realizacje stron i sklepów internetowych dla firm z różnych branż. Sprawdź, jak pomagamy rozwijać biznes w sieci. Zobacz nasze portfolio!'     
 ---
 ::page-section-md
 ---

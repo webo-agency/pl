@@ -2,6 +2,10 @@
 hreflangs:
     EN: '/contact/'
     PL: '/kontakt/'
+
+meta:
+    title: Kontakt
+    description: 'Skontaktuj się z nami. Masz pytania o stronę www lub sklep internetowy? Chętnie pomożemy i dobierzemy najlepsze rozwiązania dla Twojej firmy. Napisz do nas!'       
 ---
 ::block-banner-md
 ---

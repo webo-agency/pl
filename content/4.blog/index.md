@@ -4,6 +4,9 @@ hreflangs:
     PL: '/blog/'
 sitemap:
     changefreq: daily
+meta:
+    title: Blog
+    description: 'Blog o stronach www, technologiach i UX. Sprawdź porady, trendy oraz praktyczne wskazówki, które pomogą rozwinąć Twój biznes online. Czytaj więcej!'    
 ---
 
 ::page-section-md
