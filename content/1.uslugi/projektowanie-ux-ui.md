@@ -11,84 +11,110 @@ public: true
 
 
 
+
 ::block-banner-md
 ---
 bgImg: false
-headerWidth: 600
-descriptionWidth: 600
+headerWidth: 720
+descriptionWidth: 475
 isSecondSvg: true
-class: phone:!mb-0
+showClientsLogos: true
+class: desktop:mb-[120px] desktop:pt-[100px] h-auto desktop:h-[640px]
 ---
 
 #subtitle
 *-/* User Experience Design
 
 #title
-# Projektowanie UX/UI
+# Projektowanie stron UX/UI
 
 #description
-Projektujemy strony i sklepy internetowe 
+Projektujemy intuicyjne interfejsy stron,  sklepów i aplikacji internetowych, zwiększając konwersję oraz zaangazowanie użytkowników.
+
+#clientsLogos
+:::effect-appear-md
+---
+class: -mt-4
+---
+::::prose-p-3
+---
+class: mb-4 font-semibold text-lg
+---
+Projektowaliśmy m.in. dla:
+::::
+
+::::block-brands-md
+---
+class: mb-10 desktop:mb-0 !justify-start desktop:flex-nowrap !gap-x-7 [&_picture]:opacity-90
+logos:
+    - link: 'https://sollux-lighting.com/pl/'
+      imgUrl: '/img/logos/sollux2.svg'
+    - link: 'https://sellineo.de/'
+      imgUrl: '/img/logos/franko.svg'      
+    - link: 'https://www.is-wireless.com/'
+      imgUrl: '/img/logos/isw.svg'    
+    - link: ''
+      imgUrl: '/img/logos/aldi.svg'     
+    - link: 'https://getsales.pl/'
+      imgUrl: '/img/logos/getsales-logo.png'                     
+---
+::::
+:::
 
 #right
 :::block-banner-decoration-md
 ---
 rotate_bl: 90
 rotate_tr: 90
-svgUrl_bl: '/img/svg-square.svg'
 svgUrl_tr: '/img/svg-arc.svg'
 ---
 :::
 ::
 
+
 ::page-section-md
 ---
-classes: pt-20 mb-5 tablet:mb-20 overflow-hidden
+classes: mb-[100px] tablet:mb-[200px] overflow-x-clip overflow-y-visible
 ---
-:::block-columns-1-1-md
+:::effect-appear-md
+::::block-columns-1-1-md
 ---
+reverseMobile: true
 class: items-center
 ---
 
 #left
-::::effect-appear-md
----
-class: relative z-20
----
+
 :::::block-header-md
----
-maxWidth: 580
----
 
 #subtitle
 ### *1/* Czym jest projektowanie UX/UI?
 
 #title
-## Projektujemy aby korzystanie ze stron było *proste, szybkie i przyjemne*
+## Projektowanie stron pod doświadczenie użytkownika
 
 #description
-:::::prose-p-4
+::::::prose-p-4
 ---
-class: mb-10
+class: mb-5 leading-8
 ---
 Projektowanie UX/UI to sposób projektowania m.in. stron internetowych, który wymaga bliskiej współpracy między zespołem projektowym, programistami, użytkownikami i biznesem. Obejmuje wiele działań w obszarze doświadczeń użytkownika (UX) i interfejsu użytkownika (UI), w drodze do stworzenia stron, które nie tylko świetnie wyglądają ale także są łatwe w obsłudze, angażujące użytkowników i skuteczne w osiąganiu celów biznesowych.
+::::::
+
 :::::
-::::
 
 #right
-::::effect-appear-md
----
-class: relative z-10
----
 :::::img-decorated-md
 ---
-imgUrl: '/img/content-images/projektowanie-uxui/section1-right-img.png'
+class: hidden desktop:block [&_.block]:scale-[1.1] [&_.block]:ml-[-20px] [&_.block_picture]:absolute desktop-wide:[&_.block_picture]:bottom-[-220px] desktop:[&_.block_picture]:bottom-[-100px] fullHd:[&_.block_picture]:bottom-[-240px] 
 decoration: false
-class: tablet:!pl-0 !mb-0 !-mx-10 tablet:!ml-0 desktop:!-ml-10 tablet:!-mr-40 desktop:!-mr-56 tablet:!-mt-40 !w-auto
+imgUrl: '/img/content-images/projektowanie-uxui/section1-right-img.webp'
 ---
 :::::
 ::::
 :::
 ::
+
 
 
 ::page-section-md
@@ -124,6 +150,9 @@ link: 'https://webo.agency/uslugi/strony-internetowe/'
 #title
 #### Strony internetowe i landing page
 
+#description
+Kreujemy szybkie nowoczesne i funkcjonalne strony internetowe, na których Twój klient szybko znajdzie to czego szuka
+
 ::::
 
 ::::offer-tile-md
@@ -135,6 +164,9 @@ delay: 1
 #title
 #### Sklepy e-commerce i portale internetowe
 
+#description
+Kreujemy szybkie nowoczesne i funkcjonalne strony internetowe, na których Twój klient szybko znajdzie to czego szuka
+
 ::::
 
 ::::offer-tile-md
@@ -145,6 +177,9 @@ delay: 2
 ---
 #title
 #### Aplikacje webowe i konfiguratory 
+
+#description
+Kreujemy szybkie nowoczesne i funkcjonalne strony internetowe, na których Twój klient szybko znajdzie to czego szuka
  
 ::::
 :::
@@ -307,7 +342,7 @@ budowa atrakcyjnego wyglądu na bazie istniejącej identyfikacji wizualnej spraw
 :::effect-appear-md
 ::::prose-figure
 ---
-src: '/img/content-images/projektowanie-uxui/section3.png'
+src: '/img/content-images/projektowanie-uxui/section3.webp'
 rounded: false
 ---
 ::::
@@ -466,7 +501,7 @@ class: mb-20
 
 :::block-columns-1-1-md
 ---
-class: mb-10 tablet:mb-0
+class: mb-10 tablet:mb-20
 ---
 
 #left
@@ -478,7 +513,7 @@ decoration: false
 ---
 ::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/journey_bg.svg'
+iconUrl: '/img/icons/journey_bg_2.svg'
 iconBig: true
 iconLeft: true
 animated: false
@@ -493,7 +528,7 @@ Określa emocje towarzyszące użytkownikom podczas korzystania z interfejsu. Dz
 ::::::
 ::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/path_bg.svg'
+iconUrl: '/img/icons/path_bg_2.svg'
 iconBig: true
 iconLeft: true
 animated: false
@@ -509,7 +544,7 @@ To schemat określający ścieżkę jaką musi pokonać użytkownik na stronie i
 ::::::
 ::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/design-system_bg.svg'
+iconUrl: '/img/icons/design_system_bg_2.svg'
 iconBig: true
 iconLeft: true
 animated: false
@@ -531,7 +566,7 @@ Jest to zbiór wytycznych i elementów standardowych (np. różnych wersji przyc
 :::::block-list-ul-md
 ::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/architecture_bg.svg'
+iconUrl: '/img/icons/architecture_bg_2.svg'
 iconBig: true
 iconLeft: true
 animated: false
@@ -546,7 +581,7 @@ Architektura informacji odpowiada za organizację i podział treści na stronie 
 ::::::
 ::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/ui-design_bg.svg'
+iconUrl: '/img/icons/ui_design_bg_2.svg'
 iconBig: true
 iconLeft: true
 animated: false
@@ -561,7 +596,7 @@ To graficzna prezentacja układu elementów na stronie, pozwalająca na określe
 ::::::
 ::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/project_bg.svg'
+iconUrl: '/img/icons/project_bg_2.svg'
 iconBig: true
 iconLeft: true
 animated: false
@@ -579,15 +614,189 @@ Jest to wizualna prezentacja docelowego wyglądu strony, projektowana z naciskie
 :::
 ::
 
+
 ::page-section-md
 ---
-classes: mb-20 tablet:mb-[150px]
+classes: mb-[60px]
+---
+
+:::block-columns-1-1-md
+
+#left
+
+::::effect-appear-md
+---
+class: relative overflow-hidden tablet:overflow-visible -mx-5 tablet:mx-0
+---
+
+:::::img-decorated-md
+---
+imgUrl: '/img/content-images/strony-wordpress/decor_quarter_circle.svg'
+decoration: false
+class: hidden desktop:block mx-auto !mb-0 !p-0 !w-[122px] !absolute bottom-[100px] left-[-61px]
+---
+:::::
+:::::img-decorated-md
+---
+imgUrl: '/img/content-images/projektowanie-uxui/mockup_tablet_2.webp'
+decoration: false
+class: tablet:mb-20 !mb-10 z-0
+---
+
+:::::
+::::
+
+#right
+
+::::effect-appear-md
+---
+class: relative z-20
+---
+:::::block-header-md
+---
+maxWidth: 700
+class: mb-10
+---
+
+#subtitle
+### *6/* Efekty dobrego UX
+
+#title
+## Dlaczego warto inwestować w profesjonalne projektowanie?
+
+#description
+::::::prose-p-4
+---
+class: mb-10
+---
+W projektowaniu UX/UI patrzymy szeroko - analizujemy dane, przyzwyczajenia i zachowania użytkowników, uwzględniamy standardy projektowe oraz kluczowe założenia biznesowe. Dbamy o to, aby odpowiednio wyeksponować przewagi konkurencyjne, mocne strony oferty oraz elementy, które mają realny wpływ na decyzje zakupowe.
+::::::
+::::::prose-p-4
+---
+class: mb-10 text-base
+---
+Strona internetowa to nie tylko punkt kontaktu, ale pełnoprawne narzędzie wspierające rozwój firmy, budowanie wizerunku i osiąganie celów biznesowych.
+::::::
+
+::::::prose-p-4
+---
+class: text-base
+---
+**Dobrze zaprojektowany UX/UI to więcej niż tylko wygoda użytkownika. To także:**
+::::::
+
+::::::prose-p-4
+---
+class: text-base max-w-[650px] mb-5 [&_p]:!leading-7 ml-3
+--- 
+
+&#x2022; krótszy czas realizacji celu (np. zakupu, kontaktu),<br>
+&bull; wyższa konwersja i niższy współczynnik odrzuceń,<br>
+&#8226; większa lojalność użytkowników,<br>
+&#8226; lepsze wyniki w Google dzięki technicznej jakości strony.<br>
+::::::
+:::::
+::::
+::
+
+::page-section-md
+---
+classes: mb-5
 ---
 :::effect-appear-md
 ::::prose-figure
 ---
-src: /img/content-images/ui-components.png
+src: /img/content-images/projektowanie-uxui/section_img.webp
 ---
+::::
+:::
+::
+
+::page-section-md
+---
+classes: mb-[100px]
+---
+:::effect-appear-md
+::::prose-figure
+---
+src: /img/content-images/projektowanie-uxui/section_img_2.webp
+---
+::::
+:::
+::
+
+
+::page-section-md
+---
+class: mb-20 tablet:mb-[100px]
+---
+
+:::effect-appear-md
+---
+class: bg-green-gray relative
+---
+
+::::img-decorated-md
+---
+imgUrl: '/img/svg-arc.svg'
+decoration: false
+class: tablet:!pl-0 !mb-0 !w-[80px] tablet:!w-[122px] !absolute top-[20px] tablet:!top-[50px] left-[20px] tablet:!left-[50px] z-0
+---
+::::
+
+::::img-decorated-md
+---
+imgUrl: '/img/svg-square.svg'
+decoration: false
+class: tablet:!pl-0 !mb-0 !w-[60px] tablet:!w-[100px] !absolute bottom-[20px] tablet:!bottom-[50px] right-[20px] tablet:!right-[50px] z-0
+---
+::::
+
+::::block-faq-md
+
+#header
+:::::block-header-md
+---
+maxWidth: 900
+class: mb-[50px] text-center relative
+---
+
+#subtitle
+### *7/* Wszystko, co warto wiedzieć o projektowaniu UX/UI
+
+#title
+## Najczęściej zadawane pytania (FAQ)
+
+:::::
+
+:::::block-expand-item-md
+
+#title
+##### Na czym polega różnica między UX a UI?
+
+#description
+UX (User Experience) koncentruje się na odczuciach i doświadczeniu użytkownika - jego wygodzie, intuicyjności interfejsu i skuteczności poruszania się po stronie. UI (User Interface) to część wizualna - kolory, typografia, układ elementów. Razem tworzą spójny i skuteczny projekt strony.
+
+:::::
+
+:::::block-expand-item-md
+
+#title
+##### Czy potrzebuję projektowania UX/UI, jeśli mam już stronę?
+
+#description
+Tak,  jeśli chcesz poprawić efektywność witryny, zwiększyć konwersję, uprościć proces zakupowy lub odświeżyć wygląd zgodnie z oczekiwaniami użytkowników. Projekt UX/UI jest również świetnym rozwiązaniem, gdy przechodzisz rebranding i potrzebujesz dostosować stronę do nowej identyfikacji wizualnej. To także dobry punkt wyjścia do pełnego redesignu strony.
+:::::
+
+:::::block-expand-item-md
+
+#title
+##### Ile trwa proces projektowania UX/UI?
+
+#description
+Czas realizacji zależy od wielkości projektu - dla małej strony może to być 2-3 tygodnie, dla rozbudowanego sklepu internetowego nawet 1-2 miesiące. Kluczowe jest przejście przez analizę, prototypowanie, testy i projekt finalny.
+
+:::::
 ::::
 :::
 ::
@@ -604,7 +813,7 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-### *6/* Nasze ostatnie realizacje
+### *8/* Nasze ostatnie realizacje
 
 #title
 ## Jesteśmy dumni <br> z *wykonanych projektów*
