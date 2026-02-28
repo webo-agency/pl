@@ -825,10 +825,8 @@ class: mb-10 tablet:mb-20
 ---
 contentFolder: realizacje
 selectedSlugs:
-    - feeby
-    - 5gmadetogether
-    - oravio
-    - proton
+    - mutiny-group
+    - isw
 moreBtn.url: 'https://webo.agency/realizacje/'
 moreBtn.linktitle: Zobacz wszystkie projekty
 ---
