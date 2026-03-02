@@ -47,15 +47,15 @@ Projektowaliśmy m.in. dla:
 class: mb-10 desktop:mb-0 !justify-start desktop:flex-nowrap !gap-x-7 [&_picture]:opacity-90
 logos:
     - link: ''
-      imgUrl: '/img/logos/thoro.svg'
+      imgUrl: '/img/logos/thoro_2.svg'
     - link: ''
       imgUrl: '/img/logos/franko.svg'      
     - link: ''
-      imgUrl: '/img/logos/mancraft.svg'    
+      imgUrl: '/img/logos/mancraft_2.svg'    
     - link: ''
-      imgUrl: '/img/logos/velair.png'     
+      imgUrl: '/img/logos/velair_2.svg'     
     - link: ''
-      imgUrl: '/img/logos/feeby.png'                     
+      imgUrl: '/img/logos/feeby_2.svg'                     
 ---
 ::::
 :::
