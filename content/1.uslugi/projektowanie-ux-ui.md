@@ -48,15 +48,15 @@ Projektowaliśmy m.in. dla:
 class: mb-10 desktop:mb-0 !justify-start desktop:flex-nowrap !gap-x-7 [&_picture]:opacity-90
 logos:
     - link: ''
-      imgUrl: '/img/logos/sollux2.svg'
+      imgUrl: '/img/logos/sollux_2.svg'
     - link: ''
       imgUrl: '/img/logos/franko.svg'      
     - link: ''
-      imgUrl: '/img/logos/isw.svg'    
+      imgUrl: '/img/logos/isw_2.svg'    
     - link: ''
-      imgUrl: '/img/logos/aldi.svg'     
+      imgUrl: '/img/logos/aldi_2.svg'     
     - link: ''
-      imgUrl: '/img/logos/getsales-logo.png'                     
+      imgUrl: '/img/logos/getsales_2.svg'                     
 ---
 ::::
 :::
