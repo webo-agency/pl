@@ -18,7 +18,7 @@ headerWidth: 720
 descriptionWidth: 475
 isSecondSvg: true
 showClientsLogos: true
-class: desktop:mb-[50px] desktop:pt-[100px] h-auto desktop:h-[610px]
+class: desktop:mb-20 desktop:pt-[100px] h-auto desktop:h-[610px]
 ---
 
 #subtitle
@@ -46,15 +46,15 @@ Projektowaliśmy m.in. dla:
 ---
 class: mb-10 desktop:mb-0 !justify-start desktop:flex-nowrap !gap-x-7 [&_picture]:opacity-90
 logos:
-    - link: 'https://thoro.pl/'
+    - link: ''
       imgUrl: '/img/logos/thoro.svg'
-    - link: 'https://sellineo.de/'
+    - link: ''
       imgUrl: '/img/logos/franko.svg'      
-    - link: 'https://shop-mancraft.com/pl/'
+    - link: ''
       imgUrl: '/img/logos/mancraft.svg'    
-    - link: 'https://velair.pl/'
+    - link: ''
       imgUrl: '/img/logos/velair.png'     
-    - link: 'https://feeby.pl/'
+    - link: ''
       imgUrl: '/img/logos/feeby.png'                     
 ---
 ::::
@@ -63,7 +63,7 @@ logos:
 #right
 :::block-banner-decoration-md
 ---
-class: mx-auto [&_div.absolute:nth-of-type(2)]:!bottom-[23%] [&_div.absolute:nth-of-type(2)]:!left-[25%]
+class: mx-auto [&_div.absolute:nth-of-type(2)]:!bottom-[20%] [&_div.absolute:nth-of-type(2)]:!left-[25%]
 rotate_bl: 0
 rotate_tr: 0
 
@@ -966,7 +966,7 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-### *8/* Nasi klienci
+### *10/* Nasi klienci
 
 #title
 ## Poznaj firmy które *nam zaufały*
