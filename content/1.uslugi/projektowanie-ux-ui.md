@@ -47,15 +47,15 @@ Projektowaliśmy m.in. dla:
 ---
 class: mb-10 desktop:mb-0 !justify-start desktop:flex-nowrap !gap-x-7 [&_picture]:opacity-90
 logos:
-    - link: 'https://sollux-lighting.com/pl/'
+    - link: ''
       imgUrl: '/img/logos/sollux2.svg'
-    - link: 'https://sellineo.de/'
+    - link: ''
       imgUrl: '/img/logos/franko.svg'      
-    - link: 'https://www.is-wireless.com/'
+    - link: ''
       imgUrl: '/img/logos/isw.svg'    
     - link: ''
       imgUrl: '/img/logos/aldi.svg'     
-    - link: 'https://getsales.pl/'
+    - link: ''
       imgUrl: '/img/logos/getsales-logo.png'                     
 ---
 ::::
