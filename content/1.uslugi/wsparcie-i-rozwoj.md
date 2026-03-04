@@ -8,12 +8,17 @@ hreflangs:
     EN: '/services/support-and-development/'
     PL: '/uslugi/wsparcie-i-rozwoj/'
 ---
+
+
+
 ::block-banner-md
 ---
 bgImg: false
 headerWidth: 520
 descriptionWidth: 600
 isSecondSvg: true
+showClientsLogos: true
+class: desktop:mb-[75px] desktop:pt-[100px] h-auto desktop:h-[640px]
 ---
 
 #subtitle
@@ -25,71 +30,99 @@ isSecondSvg: true
 #description
 Jeśli potrzebujesz stałego nadzoru nad swoją stroną lub sklepem, a na dodatek planujesz rozbudowę lub prace optymalizacyjne, ta oferta jest dla Ciebie.
 
+#clientsLogos
+:::effect-appear-md
+---
+class: -mt-4
+---
+::::prose-p-3
+---
+class: mb-4 font-semibold text-lg
+---
+Wspieraliśmy m.in.:
+::::
+
+::::block-brands-md
+---
+class: mb-10 desktop:mb-0 !justify-start desktop:flex-nowrap !gap-x-7 [&_picture]:opacity-90
+logos:
+    - link: ''
+      imgUrl: '/img/logos/thoro_2.svg'
+    - link: ''
+      imgUrl: '/img/logos/franko.svg'    
+    - link: ''
+      imgUrl: '/img/logos/mancraft_2.svg'          
+    - link: ''
+      imgUrl: '/img/logos/isw_2.svg'       
+    - link: ''
+      imgUrl: '/img/logos/sollux_2.svg'                     
+---
+::::
+:::
+
 #right
 :::block-banner-decoration-md
 ---
+class: mx-auto [&_div.absolute:nth-of-type(1)]:!left-[25%]
+
+rotate_tl: 0
+rotate_br: 90
+
 svgUrl_tl: '/img/svg-arc.svg'
 svgUrl_br: '/img/svg-square.svg'
 ---
+
 :::
 ::
 
+
 ::page-section-md
 ---
-classes: pt-20 mb-5 tablet:mb-20 overflow-hidden
+classes: mb-[100px] tablet:mb-[200px] overflow-x-clip overflow-y-visible
 ---
-:::block-columns-1-1-md
+:::effect-appear-md
+::::block-columns-1-1-md
 ---
+reverseMobile: true
 class: items-center
 ---
 
 #left
-::::effect-appear-md
----
-class: relative z-20
----
+
 :::::block-header-md
----
-maxWidth: 610
----
 
 #subtitle
 ### *1/* Gwarantowana dostępność specjalistów
 
 #title
-## Skup się na biznesie, stronę www *zostaw specjalistom*
+## Profesjonalne wsparcie techniczne dla Twojej strony
 
 #description
-:::::prose-p-3
+::::::prose-p-4
 ---
-class: mb-5 [&_p]:!leading-8 [&_p]:!mb-0
---- 
+class: mb-5 leading-8
+---
 Administracja stroną to czasochłonne zajęcie - m.in aktualizacje, reagowanie na awarie czy dłubanie przy rozbudowie. A co gdybyś miał od tego doświadczony zespół, który przejmie Twoje obowiązki, na dodatek doradzi w kwestii UX oraz IT i szybciej zrealizuje pracę? 
-:::::
-
-:::::prose-p-4
+::::::
+::::::prose-p-4
 ---
-class: mb-0 [&_p]:!leading-7 text-base [&_p]:!mb-0
+class: mb-5 leading-8 text-base
 ---
-Wsparcie techniczne to przede wszystkim oszczędność czasu jaki poświęcasz na prowadzenie strony internetowej ale także bezpieczeństwo i swoboda w planowaniu rozwoju. W momencie awarii nie musisz tracić cennego czasu szukając pomocy, a jeśli tylko pojawi się potrzeba rozwoju masz pod ręką doświadczony zespół projektantów i programistów którzy chętnie zrealizują Twoje plany.
+Wsparcie techniczne to przede wszystkim oszczędność czasu jaki poświęcasz na prowadzenie strony internetowej ale także bezpieczeństwo i swoboda w planowaniu rozwoju. W momencie awarii nie musisz tracić cennego czasu szukając pomocy, a jeśli tylko pojawi się potrzeba rozwoju **masz pod ręką doświadczony zespół projektantów i programistów** którzy chętnie zrealizują Twoje plany.
 :::::
-::::
 
 #right
-::::effect-appear-md
----
-class: relative z-10
----
 :::::img-decorated-md
 ---
-imgUrl: '/img/content-images/wsparcie-i-rozwoj/section1-right-img.png'
+class: hidden desktop:block [&_.block]:scale-[1.1] [&_.block]:ml-[-20px] [&_.block_picture]:absolute desktop-wide:[&_.block_picture]:bottom-[-220px] desktop:[&_.block_picture]:bottom-[-100px] fullHd:[&_.block_picture]:bottom-[-240px] 
 decoration: false
-class: tablet:!pl-0 !mb-0 
+imgUrl: '/img/content-images/wsparcie-i-rozwoj/support_img_1.webp'
 ---
 :::::
 ::::
 :::
 ::
+
 
 
 ::page-section-md
@@ -101,14 +134,14 @@ classes: mb-10 tablet:mb-20
 ::::block-header-two-cols-md
 ---
 class: mb-10 tablet:mb-20 
-maxWidth: 480
+maxWidth: 520
 ---
 
 #subtitle
 ### *2/* Kompleksowe wsparcie techniczne strony i sklepu
 
 #title
-## Co robimy w ramach *usługi wsparcia?*
+## Co robimy w ramach *usługi wsparcia stron www?*
 
 ::::
 :::
@@ -352,7 +385,7 @@ Jeśli potrzebujesz porady, możesz do nas uderzać. Odpowiemy na każde pytanie
 :::effect-appear-md
 ::::prose-figure
 ---
-src: '/img/content-images/wsparcie-i-rozwoj/section3.png'
+src: '/img/content-images/wsparcie-i-rozwoj/img_separator.webp'
 rounded: false
 ---
 ::::
@@ -395,7 +428,7 @@ decoration: false
 ---
 ::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/ide_bg.svg'
+iconUrl: '/img/icons/dev.svg'
 iconBig: true
 iconLeft: true
 animated: false
@@ -408,25 +441,26 @@ animated: false
 Przed publikacją zmian, wszystkie prace przygotowujemy w specjalnym środowisku developerskim - dzięki temu zabezpieczamy ciągłość działania strony produkcyjnej (opublikowanej w internecie).
 
 ::::::
+
 ::::::list-item-ul-active-md
 ---
-class: tablet:mb-8 desktop:mb-6
-iconUrl: '/img/icons/phone_bg.svg'
+iconUrl: '/img/icons/monitoring.svg'
 iconBig: true
 iconLeft: true
 animated: false
 ---
 
 #title
-#### Masz bezpośredni kontakt z opiekunem
+#### Stale monitorujemy działanie strony
 
 #description
-Przypisujemy indywidualnego opiekuna Twojej strony, do którego możesz zadzwonić lub napisać. 
+Na bieżąco kontrolujemy poprawność wyświetlania wszystkich elementów strony, jej szybkość oraz płynność działania kluczowych funkcji. Regularnie testujemy formularze, moduły i integracje oraz bezpieczeństwo, aby mieć pewność, że wszystko działa bez zakłóceń.
 
 ::::::
+
 ::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/timer_bg.svg'
+iconUrl: '/img/icons/time.svg'
 iconBig: true
 iconLeft: true
 animated: false
@@ -436,7 +470,7 @@ animated: false
 #### Estymujemy czas potrzebny na realizację zadań
 
 #description
-Dajemy Ci pełną kontrolę - zaczynamy realizację gdy dasz nam zielone światło. 
+Przed rozpoczęciem realizacji każdego zadania określamy przewidywany czas na jego wykonanie. Dzięki temu masz pełną kontrolę nad budżetem i możesz na bieżąco decydować o zakresie prac.
 
 ::::::
 :::::
@@ -448,7 +482,7 @@ Dajemy Ci pełną kontrolę - zaczynamy realizację gdy dasz nam zielone świat�
 :::::block-list-ul-md
 ::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/headset_bg.svg'
+iconUrl: '/img/icons/helpdesk.svg'
 iconBig: true
 iconLeft: true
 animated: false
@@ -461,24 +495,10 @@ animated: false
 Dzięki któremu masz możliwość dodawania zadań, ustalania priorytetu, podgląd stanu prac i komunikacji z zespołem IT - wszystko pod ręką w jednym miejscu.
 
 ::::::
+
 ::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/support_bg.svg'
-iconBig: true
-iconLeft: true
-animated: false
----
-
-#title
-#### Stale monitorujemy działanie strony
-
-#description
-Po zakończeniu każdego miesiąca, przesyłamy raport z podsumowaniem prac zawierający listę wykonywanych zadań w trakcie miesiąca, poziom realizacji oraz podsumowanie przepracowanych godzin/zadanie.
-
-::::::
-::::::list-item-ul-active-md
----
-iconUrl: '/img/icons/file_bg.svg'
+iconUrl: '/img/icons/raport.svg'
 iconBig: true
 iconLeft: true
 animated: false
@@ -491,16 +511,35 @@ animated: false
 Po zakończeniu każdego miesiąca, przesyłamy raport z podsumowaniem prac zawierający listę wykonywanych zadań w trakcie miesiąca, poziom realizacji oraz podsumowanie przepracowanych godzin/zadanie.
 
 ::::::
+
+::::::list-item-ul-active-md
+---
+class: tablet:mb-8 desktop:mb-6
+iconUrl: '/img/icons/contact.svg'
+iconBig: true
+iconLeft: true
+animated: false
+---
+
+#title
+#### Masz bezpośredni kontakt z opiekunem
+
+#description
+Zapewniamy Ci stały i wygodny kontakt z opiekunem, który zna Twoją stronę i specyfikę projektu. Możesz w prosty sposób zgłaszać nowe zadania, konsultować pomysły oraz ustalać priorytety.
+
+::::::
 :::::
 ::::
 :::
 ::
 
 
+
 ::page-section-md
 ---
-classes: mb-20 tablet:mb-[100px]
+classes: mb-10 tablet:mb-20
 ---
+
 :::effect-appear-md
 ::::block-header-md
 ---
@@ -516,60 +555,190 @@ class: mb-20
 ## Proponujemy wygodne *metody współpracy*
 
 ::::
-:::
 
-:::block-columns-1-1-md
+::::block-columns-1-1-md
 
 #left
 ::::card-icon-md
 ---
-class: tablet:pr-2.5
-icon: '/img/icons/services-calendar.svg'
+class: tablet:pr-2.5 [&_div_div]:bg-black [&_div_div]:!text-white
+icon: '/img/icons/icon_abonament.svg'
 ---
 #title
-#### Model abonamentowy
+#### Abonament miesięczny
+
+:::::prose-p-4
+---
+class: mt-10 text-lg [&_p]:font-normal
+---
+W modelu abonamentowym ustalamy pakiet godzin, który masz do wykorzystania każdego miesiąca. Ilość godzin dobierana jest indywidualnie na podstawie zapotrzebowania i planów rozwoju strony.
+:::::
 
 #content
-:::::prose-p3
+:::::block-list-ul-md
 ---
-class: mb-5 leading-8 text-lg
---- 
-W modelu abonamentowym ustalamy pakiet godzin, który masz do wykorzystania każdego miesiąca na pracę specjalistów (projektantów i programistów). Ilość godzin w pakiecie dobierana jest indywidualnie na podstawie zgłoszonego przez Ciebie zapotrzebowania i planów rozwoju strony.
-:::::
-:::::prose-p4
+decoration: false
 ---
-class: mb-0 leading-7
---- 
-Nie musisz się martwić o naszą dostępność, możesz swobodnie planować prace na stronie. Niezależnie od naszego obłożenia pracą, pakiet godzin jest gwarantowany każdego miesiąca.
-:::::
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/iconoir_arrow-up-right-circle.svg'
+iconBig: false
+animated: false
+class: icon [&_div_div_picture]:pt-2.5 [&_div_div_div]:!min-h-fit [&_div_div]:flex-row [&_div_div]:gap-4
+---
+
+#description
+**<u>Stała miesięczna opłata za realizację wyznaczonych zadań serwisowych oraz dostępność specjalistów w ramach ustalonego pakietu godzin</u>**
+
+::::::
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/iconoir_arrow-up-right-circle.svg'
+iconBig: false
+animated: false
+class: icon [&_div_div_picture]:pt-2.5 [&_div_div_div]:!min-h-fit [&_div_div]:flex-row [&_div_div]:gap-4
+---
+
+#description
+**<u>Regularne aktualizacje systemu, monitorowanie wydajności, bezpieczeństwa oraz backupy w niezależnej lokalizacji</u>**
+
+::::::
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/iconoir_arrow-up-right-circle.svg'
+iconBig: false
+animated: false
+class: icon [&_div_div_picture]:pt-2.5 [&_div_div_div]:!min-h-fit [&_div_div]:flex-row [&_div_div]:gap-4
+---
+
+#description
+**<u>Gwarancja SLA 24/7 na czas odpowiedzi oraz reakcji na zgłoszone awarie</u>** 
+
+::::::
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/iconoir_arrow-up-right-circle.svg'
+iconBig: false
+animated: false
+class: icon [&_div_div_picture]:pt-2.5 [&_div_div_div]:!min-h-fit [&_div_div]:flex-row [&_div_div]:gap-4
+---
+
+#description
+**<u>Możliwość przenoszenia niewykorzystanych godzin z pakietu na kolejny miesiąc</u>**
+
+::::::
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/iconoir_arrow-up-right-circle.svg'
+iconBig: false
+animated: false
+class: icon _[&_div_div_picture]:pt-2.5 [&_div_div_div]:!min-h-fit [&_div_div]:flex-row [&_div_div]:gap-4 [&_div_div]:items-center [&_div_div_div_div]:!mb-0
+---
+
+#description
+**<u>Stały opiekun klienta oraz dostęp do systemu HelpDesk</u>**
+
+::::::
 ::::
 
 #right
 ::::card-icon-md
 ---
 class:  tablet:mt-[50px] tablet:pl-2.5
-icon: '/img/icons/services-worktime.svg'
+icon: '/img/icons/icon_86.svg'
 ---
 #title
-#### Model elastyczny
+#### Rozliczenie wg roboczogodzin
 
-#content
-:::::prose-p3
+:::::prose-p-4
 ---
-class: mb-5 leading-8 text-lg
---- 
+class: mt-10 text-lg [&_p]:font-normal
+---
 Jeśli masz mniejsze potrzeby i nie planujesz stałych comiesięcznych prac nad stroną, rozumiemy to. W modelu elastycznym prace realizujemy zleceniowo, każdorazowo ustalając termin wykonania.
 :::::
-:::::prose-p4
----
-class: tablet:mb-16 desktop:mb-20 leading-7
----
-Płacisz tylko i wyłącznie gdy potrzebujesz naszego wsparcia, możesz liczyć na nasze doradztwo i wsparcie w przypadku awarii, jednocześnie unikasz stałych kosztów.
-:::::
-::::
 
+#content
+:::::block-list-ul-md
+---
+decoration: false
+---
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/iconoir_arrow-up-right-circle.svg'
+iconBig: false
+animated: false
+class: icon [&_div_div_picture]:pt-2.5 [&_div_div_div]:!min-h-fit [&_div_div]:flex-row [&_div_div]:gap-4
+---
+
+#description
+**<u>Płatność tylko za przepracowane godziny w ramach zgłoszonych zadań</u>**
+
+::::::
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/iconoir_arrow-up-right-circle.svg'
+iconBig: false
+animated: false
+class: icon [&_div_div_picture]:pt-2.5 [&_div_div_div]:!min-h-fit [&_div_div]:flex-row [&_div_div]:gap-4
+---
+
+#description
+**<u>Elastyczna współpraca - działamy gdy rzeczywiscie potrzebujesz naszego wsparcia</u>**
+
+::::::
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/iconoir_arrow-up-right-circle.svg'
+iconBig: false
+animated: false
+class: icon [&_div_div_picture]:pt-2.5 [&_div_div_div]:!min-h-fit [&_div_div]:flex-row [&_div_div]:gap-4
+---
+
+#description
+**<u>Każdorazowo ustalony termin realizacji zgłoszonych zadań w zalezności od nakładu pracy</u>**
+
+::::::
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/iconoir_arrow-up-right-circle.svg'
+iconBig: false
+animated: false
+class: icon [&_div_div_div]:!min-h-fit [&_div_div]:flex-row [&_div_div]:gap-4
+---
+
+#description
+**<u>Brak stałych kosztów abonamentowych</u>**
+
+::::::
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/iconoir_arrow-up-right-circle.svg'
+iconBig: false
+animated: false
+class: icon [&_div_div_div]:!min-h-fit [&_div_div]:flex-row [&_div_div]:gap-4
+---
+
+#description
+**<u>Aktualizacje systemu, monitorowanie działania strony oraz backupy w ramach cyklicznych zadań</u>**
+
+::::::
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/iconoir_arrow-up-right-circle.svg'
+iconBig: false
+animated: false
+class: icon [&_div_div_div]:!min-h-fit [&_div_div]:flex-row [&_div_div]:gap-4
+---
+
+#description
+**<u>Stały opiekun klienta oraz dostęp do systemu HelpDesk</u>**
+
+::::::
+::::
+::::
 :::
 ::
+
 
 
 ::page-section-md
@@ -628,6 +797,155 @@ Dzięki HelpDesk masz możliwość dodawania zadań, ustalania priorytetów,  po
 ::
 
 
+::page-section-md
+---
+classes: mb-[60px]
+---
+
+:::block-columns-1-1-md
+
+#right
+
+::::effect-appear-md
+---
+class: relative overflow-hidden tablet:overflow-visible -mx-5 tablet:mx-0
+---
+
+:::::img-decorated-md
+---
+imgUrl: '/img/content-images/strony-wordpress/decor_quarter_circle.svg'
+decoration: false
+class: hidden mx-auto !mb-0 !p-0 !w-[122px] !absolute bottom-[100px] left-[-61px]
+---
+:::::
+:::::img-decorated-md
+---
+imgUrl: '/img/content-images/wsparcie-i-rozwoj/section_img_3.webp'
+decoration: false
+class: tablet:mb-20 !mb-10 z-0
+---
+
+:::::
+::::
+
+#left
+
+::::effect-appear-md
+---
+class: desktop:mt-[70px] relative z-20
+---
+:::::block-header-md
+---
+maxWidth: 680
+class: mb-10
+---
+
+#subtitle
+### *7/* Wsparcie techniczne sklepu internetowego
+
+#title
+## Techniczne wsparcie e-commerce i rozwój sprzedaży online
+
+#description
+::::::prose-p-4
+---
+class: mb-5
+---
+Jeśli prowadzisz sklep internetowy, dobrze wiesz, że sukces w sprzedaży online to nie tylko dobry produkt i kampania marketingowa. To również stabilna technologia, szybkie działanie, bezpieczne środowisko oraz możliwość rozwoju i sprawnego wdrażania zmian. Dlatego oferujemy kompleksowe wsparcie e-commerce, obejmujące wszystkie kluczowe kwestie techniczne związane ze stabilnym działaniem sklepu.
+::::::
+::::::prose-p-4
+---
+class: mb-5 text-base
+---
+Wdrażamy funkcje zwiększające konwersję, optymalizujemy UX,  a także dbamy o zgodność technologiczną ze standardami Google i platform reklamowych. Dzięki temu Twoja platforma sprzedażowa działa szybko, sprawnie i skutecznie wspiera użytkownika w zakupie.
+::::::
+::::::prose-p-4
+---
+class: mb-5 text-base
+---
+Skupiamy się na rozwoju funkcjonalności sprzedażowych, takich jak konfiguratory produktów, zaawansowane moduły cross- i upsellingowe czy kompleksowe narzędzia raportowe, które ułatwiają zarządzanie sklepem. Wszystko po to, aby Twój sklep rósł razem z Twoimi celami biznesowymi i był gotowy na nowe wyzwania.
+::::::
+:::::
+::::
+::
+
+
+::page-section-md
+---
+class: mb-20 tablet:mb-[100px]
+---
+
+:::effect-appear-md
+---
+class: bg-green-gray relative
+---
+
+::::img-decorated-md
+---
+imgUrl: '/img/svg-arc.svg'
+decoration: false
+class: tablet:!pl-0 !mb-0 !w-[80px] tablet:!w-[122px] !absolute top-[20px] tablet:!top-[50px] left-[20px] tablet:!left-[50px] z-0
+---
+::::
+
+::::img-decorated-md
+---
+imgUrl: '/img/svg-square.svg'
+decoration: false
+class: tablet:!pl-0 !mb-0 !w-[60px] tablet:!w-[100px] !absolute bottom-[20px] tablet:!bottom-[50px] right-[20px] tablet:!right-[50px] z-0
+---
+::::
+
+::::block-faq-md
+
+#header
+:::::block-header-md
+---
+maxWidth: 900
+class: mb-[50px] text-center relative
+---
+
+#subtitle
+### *8/* Wszystko, co warto wiedzieć o wsparciu stron i sklepów internetowych
+
+#title
+## Najczęściej zadawane pytania (FAQ)
+
+:::::
+
+:::::block-expand-item-md
+
+#title
+##### Czy mogę liczyć na szybkie wsparcie w przypadku awarii strony lub sklepu?
+
+#description
+Tak, zapewniamy błyskawiczną reakcję na awarie - w ramach stałej współpracy monitorujemy działanie serwisu i reagujemy natychmiast. W wielu przypadkach problem jest usuwany zanim zdążysz go zauważyć.
+
+:::::
+
+:::::block-expand-item-md
+
+#title
+##### Co obejmuje usługa wsparcia technicznego?
+
+#description
+W ramach usługi zajmujemy się m.in. aktualizacjami systemu i modułów, optymalizacją wydajności, naprawą błędów, rozbudową serwisu, projektowaniem i wdrażaniem nowych podstron i funkcji, integracjami z zewnętrznymi systemami oraz stałym monitoringiem działania i bezpieczeństwa.
+:::::
+
+:::::block-expand-item-md
+
+#title
+##### Czy współpraca może być rozliczana elastycznie?
+
+#description
+Oferujemy dwa modele współpracy: abonamentowy (z gwarantowanym pakietem godzin do wykorzystania w miesiącu) oraz elastyczny (rozliczenie za zlecenie). Wybór zależy od Twoich potrzeb - możesz korzystać z pomocy wtedy, kiedy jej naprawdę potrzebujesz.
+
+:::::
+::::
+:::
+::
+
+
 
 
 ::page-section-md
@@ -642,7 +960,7 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-### *7/* Nasze ostatnie realizacje
+### *9/* Nasze ostatnie realizacje
 
 #title
 ## Jesteśmy dumni <br>z *wykonanych projektów*
@@ -653,6 +971,9 @@ class: mb-10 tablet:mb-20
 :::block-cases-md
 ---
 contentFolder: realizacje
+selectedSlugs:
+    - thoro
+    - mancraft
 moreBtn.url: 'https://webo.agency/realizacje/'
 moreBtn.linktitle: Zobacz wszystkie projekty
 ---
@@ -672,16 +993,20 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-### *8/* Nasi klienci
+### *10/* Nasi klienci
 
 #title
 ## Poznaj firmy które *nam zaufały*
 
 ::::
 :::
+
 :::block-brands-before-footer-md
 :::
 ::
+
+
+
 ::page-section-md
 ---
 class: mb-20 tablet:mb-[130px]
