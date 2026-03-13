@@ -13,9 +13,9 @@ nav:
         - title: Strony HeadlessPWA
           link: 'https://webo.agency/uslugi/strony-headless-pwa/'       
         - title: Tworzenie landing page
-          link: ''       
+          link: 'https://webo.agency/uslugi/strony-landing-page/'       
         - title: Wsparcie WordPress
-          link: 'https://webo.agency/uslugi/wsparcie-wordpress/'               
+          link: 'https://webo.agency/uslugi/wsparcie-wordpress/'                              
     - title: Sklepy internetowe
       link: https://webo.agency/uslugi/sklepy-internetowe/
       items:

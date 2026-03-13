@@ -10,7 +10,7 @@ dependencies:
     version: 1.0.3
   '@webo-agency/theme':
     specifier: github:webo-agency/www#main
-    version: github.com/webo-agency/www/3f47bbb1530a481821f3c0ffe33e4514ce1020a4(@nuxt/devtools@1.7.0)(@vue/compiler-core@3.5.30)(@vue/compiler-sfc@3.5.30)(browserslist@4.28.1)(h3@1.15.6)(markdown-it@14.1.1)(postcss@8.5.8)(rollup@2.80.0)(vite@6.4.1)(vue@3.5.30)(webpack@5.105.4)(workbox-build@7.4.0)(workbox-window@7.4.0)
+    version: github.com/webo-agency/www/819e4bba470cbec6d0412c1f4e4a0f696fda58dc(@nuxt/devtools@1.7.0)(@vue/compiler-core@3.5.30)(@vue/compiler-sfc@3.5.30)(browserslist@4.28.1)(h3@1.15.6)(markdown-it@14.1.1)(postcss@8.5.8)(rollup@2.80.0)(vite@6.4.1)(vue@3.5.30)(webpack@5.105.4)(workbox-build@7.4.0)(workbox-window@7.4.0)
   mjml:
     specifier: ^4.15.3
     version: 4.17.2
@@ -1489,25 +1489,25 @@ packages:
     resolution: {integrity: sha512-/B8YJGPzaYq1NbsQmwgP8EZqg40NpTw4ZB3suuI0TplbxKHeK94jeaawLmVhCv+YwUnOpiWEz9U6SeThku/8JQ==}
     dev: false
 
-  /@emnapi/core@1.8.1:
-    resolution: {integrity: sha512-AvT9QFpxK0Zd8J0jopedNm+w/2fIzvtPKPjqyw9jwvBaReTTqPBk9Hixaz7KbjimP+QNz605/XnjFcDAL2pqBg==}
+  /@emnapi/core@1.9.0:
+    resolution: {integrity: sha512-0DQ98G9ZQZOxfUcQn1waV2yS8aWdZ6kJMbYCJB3oUBecjWYO1fqJ+a1DRfPF3O5JEkwqwP1A9QEN/9mYm2Yd0w==}
     requiresBuild: true
     dependencies:
-      '@emnapi/wasi-threads': 1.1.0
+      '@emnapi/wasi-threads': 1.2.0
       tslib: 2.8.1
     dev: false
     optional: true
 
-  /@emnapi/runtime@1.8.1:
-    resolution: {integrity: sha512-mehfKSMWjjNol8659Z8KxEMrdSJDDot5SXMq00dM8BN4o+CLNXQ0xH2V7EchNHV4RmbZLmmPdEaXZc5H2FXmDg==}
+  /@emnapi/runtime@1.9.0:
+    resolution: {integrity: sha512-QN75eB0IH2ywSpRpNddCRfQIhmJYBCJ1x5Lb3IscKAL8bMnVAKnRg8dCoXbHzVLLH7P38N2Z3mtulB7W0J0FKw==}
     requiresBuild: true
     dependencies:
       tslib: 2.8.1
     dev: false
     optional: true
 
-  /@emnapi/wasi-threads@1.1.0:
-    resolution: {integrity: sha512-WI0DdZ8xFSbgMjR1sFsKABJ/C5OnRrjT06JXbZKexJGrDuPTzZdDYfFlsgcCXCyf+suG5QU2e/y1Wo2V/OapLQ==}
+  /@emnapi/wasi-threads@1.2.0:
+    resolution: {integrity: sha512-N10dEJNSsUx41Z6pZsXU8FjPjpBEplgH24sfkmITrBED1/U2Esum9F3lfLrMjKHHjmi557zQn7kR9R+XWXu5Rg==}
     requiresBuild: true
     dependencies:
       tslib: 2.8.1
@@ -2241,7 +2241,7 @@ packages:
     cpu: [wasm32]
     requiresBuild: true
     dependencies:
-      '@emnapi/runtime': 1.8.1
+      '@emnapi/runtime': 1.9.0
     dev: false
     optional: true
 
@@ -2384,8 +2384,8 @@ packages:
     resolution: {integrity: sha512-p64ah1M1ld8xjWv3qbvFwHiFVWrq1yFvV4f7w+mzaqiR4IlSgkqhcRdHwsGgomwzBH51sRY4NEowLxnaBjcW/A==}
     requiresBuild: true
     dependencies:
-      '@emnapi/core': 1.8.1
-      '@emnapi/runtime': 1.8.1
+      '@emnapi/core': 1.9.0
+      '@emnapi/runtime': 1.9.0
       '@tybys/wasm-util': 0.10.1
     dev: false
     optional: true
@@ -2628,7 +2628,7 @@ packages:
       '@antfu/utils': 0.7.10
       '@nuxt/devtools-kit': 1.7.0(magicast@0.3.5)(vite@6.4.1)
       '@nuxt/devtools-wizard': 1.7.0
-      '@nuxt/kit': 3.21.1(magicast@0.3.5)
+      '@nuxt/kit': 3.21.2(magicast@0.3.5)
       '@vue/devtools-core': 7.6.8(vite@6.4.1)(vue@3.5.30)
       '@vue/devtools-kit': 7.6.8
       birpc: 0.2.19
@@ -2659,8 +2659,8 @@ packages:
       tinyglobby: 0.2.15
       unimport: 3.14.6(rollup@2.80.0)
       vite: 6.4.1
-      vite-plugin-inspect: 0.8.9(@nuxt/kit@3.21.1)(rollup@2.80.0)(vite@6.4.1)
-      vite-plugin-vue-inspector: 5.3.2(vite@6.4.1)
+      vite-plugin-inspect: 0.8.9(@nuxt/kit@3.21.2)(rollup@2.80.0)(vite@6.4.1)
+      vite-plugin-vue-inspector: 5.4.0(vite@6.4.1)
       which: 3.0.1
       ws: 8.19.0
     transitivePeerDependencies:
@@ -2860,8 +2860,8 @@ packages:
       - magicast
     dev: false
 
-  /@nuxt/kit@3.21.1(magicast@0.3.5):
-    resolution: {integrity: sha512-QORZRjcuTKgo++XP1Pc2c2gqwRydkaExrIRfRI9vFsPA3AzuHVn5Gfmbv1ic8y34e78mr5DMBvJlelUaeOuajg==}
+  /@nuxt/kit@3.21.2(magicast@0.3.5):
+    resolution: {integrity: sha512-Bd6m6mrDrqpBEbX+g0rc66/ALd1sxlgdx5nfK9MAYO0yKLTOSK7McSYz1KcOYn3LQFCXOWfvXwaqih/b+REI1g==}
     engines: {node: '>=18.12.0'}
     dependencies:
       c12: 3.3.3(magicast@0.3.5)
@@ -4546,8 +4546,8 @@ packages:
     resolution: {integrity: sha512-w+tIMs3rq2afQdsPJlODhoUEKzFP1ayaoyl1CcnwtIlsVe7K7bA1NGm4s3PraqTLlXnbIN84zuBlxBWo1u9BLw==}
     dev: false
 
-  /@types/node@25.4.0:
-    resolution: {integrity: sha512-9wLpoeWuBlcbBpOY3XmzSTG3oscB6xjBEEtn+pYXTfhyXhIxC5FsBer2KTopBlvKEiW9l13po9fq+SJY/5lkhw==}
+  /@types/node@25.5.0:
+    resolution: {integrity: sha512-jp2P3tQMSxWugkCUKLRPVUpGaL5MVFwF8RDuSRztfwgN1wmqJeMSbKlnEtQqU8UrhTmzEmZdu2I6v2dpp7XIxw==}
     dependencies:
       undici-types: 7.18.2
     dev: false
@@ -9112,7 +9112,7 @@ packages:
     resolution: {integrity: sha512-7vuh85V5cdDofPyxn58nrPjBktZo0u9x1g8WtjQol+jZDaE+fhN+cIvTj11GndBnMnyfrUOG1sZQxCdjKh+DKg==}
     engines: {node: '>= 10.13.0'}
     dependencies:
-      '@types/node': 25.4.0
+      '@types/node': 25.5.0
       merge-stream: 2.0.0
       supports-color: 8.1.1
     dev: false
@@ -14570,7 +14570,7 @@ packages:
       vscode-uri: 3.1.0
     dev: false
 
-  /vite-plugin-inspect@0.8.9(@nuxt/kit@3.21.1)(rollup@2.80.0)(vite@6.4.1):
+  /vite-plugin-inspect@0.8.9(@nuxt/kit@3.21.2)(rollup@2.80.0)(vite@6.4.1):
     resolution: {integrity: sha512-22/8qn+LYonzibb1VeFZmISdVao5kC22jmEKm24vfFE8siEn47EpVcCLYMv6iKOYMJfjSvSJfueOwcFCkUnV3A==}
     engines: {node: '>=14'}
     peerDependencies:
@@ -14581,7 +14581,7 @@ packages:
         optional: true
     dependencies:
       '@antfu/utils': 0.7.10
-      '@nuxt/kit': 3.21.1(magicast@0.3.5)
+      '@nuxt/kit': 3.21.2(magicast@0.3.5)
       '@rollup/pluginutils': 5.3.0(rollup@2.80.0)
       debug: 4.4.3
       error-stack-parser-es: 0.1.5
@@ -14643,10 +14643,10 @@ packages:
       - supports-color
     dev: false
 
-  /vite-plugin-vue-inspector@5.3.2(vite@6.4.1):
-    resolution: {integrity: sha512-YvEKooQcSiBTAs0DoYLfefNja9bLgkFM7NI2b07bE2SruuvX0MEa9cMaxjKVMkeCp5Nz9FRIdcN1rOdFVBeL6Q==}
+  /vite-plugin-vue-inspector@5.4.0(vite@6.4.1):
+    resolution: {integrity: sha512-Iq/024CydcE46FZqWPU4t4lw4uYOdLnFSO1RNxJVt2qY9zxIjmnkBqhHnYaReWM82kmNnaXs7OkfgRrV2GEjyw==}
     peerDependencies:
-      vite: ^3.0.0-0 || ^4.0.0-0 || ^5.0.0-0 || ^6.0.0-0 || ^7.0.0-0
+      vite: ^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0
     dependencies:
       '@babel/core': 7.29.0
       '@babel/plugin-proposal-decorators': 7.29.0(@babel/core@7.29.0)
@@ -15370,11 +15370,11 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: false
 
-  github.com/webo-agency/www/3f47bbb1530a481821f3c0ffe33e4514ce1020a4(@nuxt/devtools@1.7.0)(@vue/compiler-core@3.5.30)(@vue/compiler-sfc@3.5.30)(browserslist@4.28.1)(h3@1.15.6)(markdown-it@14.1.1)(postcss@8.5.8)(rollup@2.80.0)(vite@6.4.1)(vue@3.5.30)(webpack@5.105.4)(workbox-build@7.4.0)(workbox-window@7.4.0):
-    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/3f47bbb1530a481821f3c0ffe33e4514ce1020a4}
-    id: github.com/webo-agency/www/3f47bbb1530a481821f3c0ffe33e4514ce1020a4
+  github.com/webo-agency/www/819e4bba470cbec6d0412c1f4e4a0f696fda58dc(@nuxt/devtools@1.7.0)(@vue/compiler-core@3.5.30)(@vue/compiler-sfc@3.5.30)(browserslist@4.28.1)(h3@1.15.6)(markdown-it@14.1.1)(postcss@8.5.8)(rollup@2.80.0)(vite@6.4.1)(vue@3.5.30)(webpack@5.105.4)(workbox-build@7.4.0)(workbox-window@7.4.0):
+    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/819e4bba470cbec6d0412c1f4e4a0f696fda58dc}
+    id: github.com/webo-agency/www/819e4bba470cbec6d0412c1f4e4a0f696fda58dc
     name: '@webo-agency/theme'
-    version: 3.7.103
+    version: 3.7.104
     requiresBuild: true
     dependencies:
       '@cloudflare/pages-plugin-static-forms': 1.0.3
