@@ -825,8 +825,8 @@ class: mb-10 tablet:mb-20
 ---
 contentFolder: realizacje
 selectedSlugs:
-    - mutiny-group
-    - isw
+    - get-sales
+    - wallsociety
 moreBtn.url: 'https://webo.agency/realizacje/'
 moreBtn.linktitle: Zobacz wszystkie projekty
 ---
