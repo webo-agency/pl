@@ -239,7 +239,7 @@ tagsTitle: 'Tags:'
 tags:
     - Headless
     - Sklepy internetowe
-    - Storny internetowe
+    - Strony internetowe
 archivePath: /blog
 socials:
     - linkedin
