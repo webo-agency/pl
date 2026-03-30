@@ -117,7 +117,7 @@ E-mail
 ---
 name: phone
 type: tel
-required: true
+required: false
 ---
 
 #placeholder
@@ -133,7 +133,7 @@ required: true
 ---
 
 #placeholder
-Treść wiadomości*
+Treść wiadomości
 
 ::::
 
@@ -159,7 +159,7 @@ Wróć do strony głównej
 
 ::::block-header-md
 ---
-class: mb-8 desktop:mb-10 desktop:[&_h2]:!text-[45px]
+class: mb-8 desktop:mb-10 desktop:[&_h2]:!text-[35px]
 maxWidth: 610
 ---
 
