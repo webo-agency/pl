@@ -213,7 +213,7 @@ moreBtn.linktitle: Zobacz wszystkie projekty
 selectedSlugs:
     - velair
     - isw
-    - wallsociety
+    - sellineo
     - thoro
 ---
 

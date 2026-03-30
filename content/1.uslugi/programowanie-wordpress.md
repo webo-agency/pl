@@ -658,7 +658,7 @@ contentFolder: realizacje
 moreBtn.url: 'https://webo.agency/realizacje'
 moreBtn.linktitle: Zobacz wszystkie projekty
 selectedSlugs:
-    - mutiny-group
+    - sellineo
     - velair
 ---
 

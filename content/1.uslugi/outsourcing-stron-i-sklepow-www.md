@@ -936,7 +936,7 @@ moreBtn.url: 'https://webo.agency/realizacje'
 moreBtn.linktitle: Zobacz wszystkie projekty
 selectedSlugs:
     - thoro
-    - isw
+    - hirefast
     - velair
     - get-sales
 ---
