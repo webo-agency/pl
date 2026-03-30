@@ -6,8 +6,8 @@ hreflangs:
 meta:
     title: Kontakt
     description: 'Skontaktuj się z nami. Masz pytania o stronę www lub sklep internetowy? Chętnie pomożemy i dobierzemy najlepsze rozwiązania dla Twojej firmy. Napisz do nas!'   
-    image:
-        url: '/img/featured_image.webp'           
+image:
+    url: '/img/featured_image.webp'           
 ---
 
 
@@ -162,7 +162,7 @@ Wróć do strony głównej
 
 ::::block-header-md
 ---
-class: mb-8 desktop:mb-10 desktop:[&_h2]:!text-[35px] desktop:[&_div_div]:!mb-10
+class: mb-8 desktop:mb-10 desktop:[&_h2]:!text-[35px] desktop:[&_div_div]:mb-10 desktop:[&_.subtitle]:!mb-5
 maxWidth: 610
 ---
 
