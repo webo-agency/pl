@@ -20,6 +20,7 @@ id: formularz
 ---
 darkContainer: true
 gridFields: true
+class: mx-auto [&_.contents]:tablet:!flex [&_.contents]:tablet:flex-col-reverse [&_.contents]:tablet:justify-center
 ---
 
 #header
