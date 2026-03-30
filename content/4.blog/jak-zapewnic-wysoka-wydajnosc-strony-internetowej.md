@@ -94,7 +94,7 @@ class: mx-blog [&_li]:!mb-2 [&_ul]:!mb-5
 
 :::::prose-p3
 ---
-class: mb-0 [&_p]:!mb-5 [&_li]:before:!bg-transparent
+class: mb-0 [&_p]:!mb-5 [&_li]:before:!bg-black
 ---
 Na wydajność strony internetowej wpływa wiele czynników technicznych, które bezpośrednio przekładają się na czas ładowania i komfort użytkowników. Do najważniejszych należą:
 
@@ -246,11 +246,11 @@ class: ml-0 [&_p]:!mb-8 [&_li]:before:!bg-black [&_li]:!mb-1 [&_ul]:!mb-8
 
 Najczęstsze problemy wpływające na wydajność strony internetowej wynikają z błędów technicznych oraz braku odpowiedniej optymalizacji. Do najważniejszych należą:
 
-- **duże rozmiary plików multimedialnych,**
-- **nieefektywnie napisany kod,** który generuje zbędne obciążenie dla przeglądarki i serwera,
-- **brak optymalizacji serwera,** w tym niewłaściwa konfiguracja lub niska wydajność hostingu,
+- **duże rozmiary plików multimedialnych,** w szczególności niezoptymalizowane obrazy i&nbsp;wideo,
+- **nieefektywnie napisany kod,** który generuje zbędne obciążenie dla przeglądarki i&nbsp;serwera,
+- **brak optymalizacji serwera,** w&nbsp;tym niewłaściwa konfiguracja lub niska wydajność hostingu,
 - **brak mechanizmów cache’owania,** które pozwalają skrócić czas ładowania strony przy kolejnych wizytach,
-- **nadmierna liczba zewnętrznych skryptów,** np. z narzędzi marketingowych lub analitycznych.
+- **nadmierna liczba zewnętrznych skryptów,** np. z&nbsp;narzędzi marketingowych lub analitycznych.
 
 Warto również zwrócić uwagę na problemy związane z bazą danych, takie jak **nieoptymalne zapytania SQL**, które mogą nadmiernie obciążać serwer i wydłużać czas odpowiedzi strony. Identyfikacja i eliminacja tych problemów jest kluczowa dla poprawy wydajności oraz zapewnienia płynnego i stabilnego działania serwisu.
 :::::
