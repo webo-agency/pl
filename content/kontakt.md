@@ -217,36 +217,31 @@ Stworzymy ofertę dopasowaną do Twoich potrzeb
 
 #contacttext
 Nie lubisz formularzy?
-
 ::::
 
 ::::block-brands-md
 ---
-class: max-w-[576px] mb-10 desktop:mb-0 mt-10 !justify-start desktop:flex-wrap !gap-5 [&_picture]:opacity-90 [&_a]:max-w-[120px]
+class: max-w-[576px] mb-10 desktop:mb-0 mt-10 !justify-start desktop:flex-wrap !gap-5 !gap-x-10 [&_picture]:opacity-90 [&_a]:max-w-[160px] [&_a]:max-h-[32px]
 logos:
     - link: ''
-      imgUrl: '/img/logos/isw.svg'  
+      imgUrl: '/img/logos/isw_32.svg'  
     - link: ''
-      imgUrl: '/img/logos/thoro3.svg'        
+      imgUrl: '/img/logos/thoro_32.svg'        
     - link: ''
-      imgUrl: '/img/logos/grow_2.svg'   
+      imgUrl: '/img/logos/grow_32.svg'   
     - link: ''
-      imgUrl: '/img/logos/mancraft2.png'                
+      imgUrl: '/img/logos/mancraft_32.svg'                
     - link: ''
-      imgUrl: '/img/logos/sollux_2.svg'
+      imgUrl: '/img/logos/sollux_32.svg'
     - link: ''
-      imgUrl: '/img/logos/etisoft_2.svg'       
+      imgUrl: '/img/logos/etisoft_32.svg'       
     - link: ''
-      imgUrl: '/img/logos/getsales_2.svg'         
+      imgUrl: '/img/logos/getsales_32.svg'         
     - link: ''
-      imgUrl: '/img/logos/velair2.svg'                      
+      imgUrl: '/img/logos/velair_32.svg'                      
 ---
 ::::
-
 :::
-
-
-
 ::
 
 
