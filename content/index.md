@@ -14,49 +14,46 @@ button.title: Dowiedz się więcej
 button.link: https://webo.agency/uslugi/strony-internetowe/
 logosText: "Zaufali nam:"
 logos:
-    - link: 'https://is-wireless.com/'
+    - alt: 'IS-Wireless'
       src: '/img/logos/isw.svg'
 
-    - link: 'https://thoro.pl/'
+    - alt: 'Thoro'
       src: '/img/logos/thoro.svg'      
 
-    - link: 'https://agencjagrow.pl/'
+    - alt: 'Agencja Grow'
       src: '/img/logos/grow.svg'
 
-    - link: 'https://etisoft.com.pl/'
+    - alt: 'Etisoft'
       src: '/img/logos/etisoft.svg'    
 
-    - link: 'https://sollux-lighting.com/'
+    - alt: 'Sollux'
       src: '/img/logos/sollux.svg'  
 
-    - link: 'https://getsales.pl/'
+    - alt: 'GetSales'
       src: '/img/logos/getsales.png'     
 
-    - link: 'https://shop-mancraft.com/pl/'
+    - alt: 'Mancraft'
       src: '/img/logos/Mancraft.svg'
 
-    - link: 'https://5gmadetogether.com/'
+    - alt: '5G Made Together'
       src: '/img/logos/5G.svg'
 
-    - link: ''
-      src: '/img/logos/pansa.svg'   
+    - alt: 'Sellineo'
+      src: '/img/logos/sellineo.svg'
 
-    - link: ''
-      src: '/img/logos/aldi.svg'       
-
-    - link: 'https://agencjaecho.pl/'
+    - alt: 'Agencja Echo'
       src: '/img/logos/echo.svg'      
 
-    - link: 'https://www.deltahr.pl/'
+    - alt: 'DeltaHR'
       src: '/img/logos/DeltaHR.png'         
 
-    - link: 'https://velair.pl/'
+    - alt: 'Velair'
       src: '/img/logos/velair.png'      
 
-    - link: 'https://eurostal-garage.it/'
+    - alt: 'Eurostal'
       src: '/img/logos/Eurostal.svg'            
 
-    - link: 'https://feeby.pl/'
+    - alt: 'Feeby'
       src: '/img/logos/Feeby.png'
 ---
 

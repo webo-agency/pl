@@ -6,7 +6,7 @@ dependencies:
     version: 1.0.3
   '@webo-agency/theme':
     specifier: github:webo-agency/www#main
-    version: github.com/webo-agency/www/a75218c576fb835e82af4669a3f0f0bacdf68785(@emnapi/core@1.9.1)(@emnapi/runtime@1.9.1)(@nuxt/devtools@1.7.0)(@vue/compiler-core@3.5.31)(@vue/compiler-sfc@3.5.31)(browserslist@4.28.1)(h3@1.15.10)(markdown-it@14.1.1)(postcss@8.5.8)(rollup@2.80.0)(vite@6.4.1)(vue@3.5.31)(webpack@5.105.4)(workbox-build@7.4.0)(workbox-window@7.4.0)
+    version: github.com/webo-agency/www/6824018f2d690bfaae7b86e51ed73b058525a931(@emnapi/core@1.9.1)(@emnapi/runtime@1.9.1)(@nuxt/devtools@1.7.0)(@vue/compiler-core@3.5.31)(@vue/compiler-sfc@3.5.31)(browserslist@4.28.2)(h3@1.15.10)(markdown-it@14.1.1)(postcss@8.5.8)(rollup@2.80.0)(vite@6.4.1)(vue@3.5.31)(webpack@5.105.4)(workbox-build@7.4.0)(workbox-window@7.4.0)
   mjml:
     specifier: ^4.15.3
     version: 4.17.2
@@ -175,7 +175,7 @@ packages:
     dependencies:
       '@babel/compat-data': 7.29.0
       '@babel/helper-validator-option': 7.27.1
-      browserslist: 4.28.1
+      browserslist: 4.28.2
       lru-cache: 5.1.1
       semver: 6.3.1
     dev: false
@@ -5875,7 +5875,7 @@ packages:
     peerDependencies:
       postcss: ^8.1.0
     dependencies:
-      browserslist: 4.28.1
+      browserslist: 4.28.2
       caniuse-lite: 1.0.30001782
       fraction.js: 5.3.4
       picocolors: 1.1.1
@@ -6049,6 +6049,12 @@ packages:
     resolution: {integrity: sha512-AKpaYlHn8t4SVbOHCy+b5+KKgvR4vrsD8vbvrbiQJps7fKDTkjkDry6ji0rUJjC0kzbNePLwzxq8iypo41qeWA==}
     dev: false
 
+  /baseline-browser-mapping@2.10.12:
+    resolution: {integrity: sha512-qyq26DxfY4awP2gIRXhhLWfwzwI+N5Nxk6iQi8EFizIaWIjqicQTE4sLnZZVdeKPRcVNoJOkkpfzoIYuvCKaIQ==}
+    engines: {node: '>=6.0.0'}
+    hasBin: true
+    dev: false
+
   /baseline-browser-mapping@2.9.4:
     resolution: {integrity: sha512-ZCQ9GEWl73BVm8bu5Fts8nt7MHdbt5vY9bP6WGnUh+r3l8M7CgfyTlwsgCbMC66BNxPr6Xoce3j66Ms5YUQTNA==}
     hasBin: true
@@ -6130,7 +6136,7 @@ packages:
       base64-js: 1.5.1
     dev: false
 
-  /browserslist-useragent-regexp@4.1.3(browserslist@4.28.1):
+  /browserslist-useragent-regexp@4.1.3(browserslist@4.28.2):
     resolution: {integrity: sha512-+KteEIVlrE2eJOmtteWhcs3wYKjbFd9fVPzPlj4VGggKMyf9orf+zjmlNt91ekInZ2zqox5ArEZD/tKXDj0v9Q==}
     engines: {node: '>=14.0.0'}
     hasBin: true
@@ -6138,7 +6144,7 @@ packages:
       browserslist: '>=4.0.0'
     dependencies:
       argue-cli: 2.1.0
-      browserslist: 4.28.1
+      browserslist: 4.28.2
       easy-table: 1.2.0
       picocolors: 1.1.1
       regexp-tree: 0.1.27
@@ -6155,6 +6161,18 @@ packages:
       electron-to-chromium: 1.5.266
       node-releases: 2.0.27
       update-browserslist-db: 1.2.2(browserslist@4.28.1)
+    dev: false
+
+  /browserslist@4.28.2:
+    resolution: {integrity: sha512-48xSriZYYg+8qXna9kwqjIVzuQxi+KYWp2+5nCYnYKPTr0LvD89Jqk2Or5ogxz0NUMfIjhh2lIUX/LyX9B4oIg==}
+    engines: {node: ^6 || ^7 || ^8 || ^9 || ^10 || ^11 || ^12 || >=13.7}
+    hasBin: true
+    dependencies:
+      baseline-browser-mapping: 2.10.12
+      caniuse-lite: 1.0.30001782
+      electron-to-chromium: 1.5.329
+      node-releases: 2.0.36
+      update-browserslist-db: 1.2.3(browserslist@4.28.2)
     dev: false
 
   /buffer-crc32@1.0.0:
@@ -6672,7 +6690,7 @@ packages:
   /core-js-compat@3.49.0:
     resolution: {integrity: sha512-VQXt1jr9cBz03b331DFDCCP90b3fanciLkgiOoy8SBHy06gNf+vQ1A3WFLqG7I8TipYIKeYK9wxd0tUrvHcOZA==}
     dependencies:
-      browserslist: 4.28.1
+      browserslist: 4.28.2
     dev: false
 
   /core-js@3.49.0:
@@ -7272,6 +7290,10 @@ packages:
 
   /electron-to-chromium@1.5.266:
     resolution: {integrity: sha512-kgWEglXvkEfMH7rxP5OSZZwnaDWT7J9EoZCujhnpLbfi0bbNtRkgdX2E3gt0Uer11c61qCYktB3hwkAS325sJg==}
+    dev: false
+
+  /electron-to-chromium@1.5.329:
+    resolution: {integrity: sha512-/4t+AS1l4S3ZC0Ja7PHFIWeBIxGA3QGqV8/yKsP36v7NcyUCl+bIcmw6s5zVuMIECWwBrAK/6QLzTmbJChBboQ==}
     dev: false
 
   /email-validator@2.0.4:
@@ -10948,6 +10970,10 @@ packages:
     resolution: {integrity: sha512-nmh3lCkYZ3grZvqcCH+fjmQ7X+H0OeZgP40OierEaAptX4XofMh5kwNbWh7lBduUzCcV/8kZ+NDLCwm2iorIlA==}
     dev: false
 
+  /node-releases@2.0.36:
+    resolution: {integrity: sha512-TdC8FSgHz8Mwtw9g5L4gR/Sh9XhSP/0DEkQxfEFXOpiul5IiHgHan2VhYYb6agDSfp4KuvltmGApc8HMgUrIkA==}
+    dev: false
+
   /nopt@7.2.1:
     resolution: {integrity: sha512-taM24ViiimT/XntxbPyJQzCG+p4EKOpgD3mxFwW38mGjVUrfERQOeY4EDHjdnptttfHuHQXFx+lTP08Q+mLa/w==}
     engines: {node: ^14.17.0 || ^16.13.0 || >=18.0.0}
@@ -10995,12 +11021,12 @@ packages:
       boolbase: 1.0.0
     dev: false
 
-  /nuxt-booster@3.3.2(browserslist@4.28.1):
+  /nuxt-booster@3.3.2(browserslist@4.28.2):
     resolution: {integrity: sha512-D+oedYGsQRpTUoaBZlvvmBpTlaWQV2Oyxt4B/BuApculU/byGdPU3Rib096DhvJ4sXnw7JU3nmpvRrTnMYGXHw==}
     dependencies:
       '@nuxt/image': 2.0.0
       '@nuxtjs/fontaine': 0.5.0
-      browserslist-useragent-regexp: 4.1.3(browserslist@4.28.1)
+      browserslist-useragent-regexp: 4.1.3(browserslist@4.28.2)
       cheerio: 1.1.2
       defu: 6.1.4
       dom-serializer: 2.0.0
@@ -14499,6 +14525,17 @@ packages:
       picocolors: 1.1.1
     dev: false
 
+  /update-browserslist-db@1.2.3(browserslist@4.28.2):
+    resolution: {integrity: sha512-Js0m9cx+qOgDxo0eMiFGEueWztz+d4+M3rGlmKPT+T4IS/jP4ylw3Nwpu6cpTTP8R1MAC1kF4VbdLt3ARf209w==}
+    hasBin: true
+    peerDependencies:
+      browserslist: '>= 4.21.0'
+    dependencies:
+      browserslist: 4.28.2
+      escalade: 3.2.0
+      picocolors: 1.1.1
+    dev: false
+
   /upper-case@1.1.3:
     resolution: {integrity: sha512-WRbjgmYzgXkCV7zNVpy5YgrHgbBv126rMALQQMrmzOVC4GM2waQ9x7xtm8VU+1yF2kWyPzI9zbZ48n4vSxwfSA==}
     dev: false
@@ -15037,7 +15074,7 @@ packages:
       '@webassemblyjs/wasm-parser': 1.14.1
       acorn: 8.16.0
       acorn-import-phases: 1.0.4(acorn@8.16.0)
-      browserslist: 4.28.1
+      browserslist: 4.28.2
       chrome-trace-event: 1.0.4
       enhanced-resolve: 5.20.1
       es-module-lexer: 2.0.0
@@ -15459,11 +15496,11 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: false
 
-  github.com/webo-agency/www/a75218c576fb835e82af4669a3f0f0bacdf68785(@emnapi/core@1.9.1)(@emnapi/runtime@1.9.1)(@nuxt/devtools@1.7.0)(@vue/compiler-core@3.5.31)(@vue/compiler-sfc@3.5.31)(browserslist@4.28.1)(h3@1.15.10)(markdown-it@14.1.1)(postcss@8.5.8)(rollup@2.80.0)(vite@6.4.1)(vue@3.5.31)(webpack@5.105.4)(workbox-build@7.4.0)(workbox-window@7.4.0):
-    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/a75218c576fb835e82af4669a3f0f0bacdf68785}
-    id: github.com/webo-agency/www/a75218c576fb835e82af4669a3f0f0bacdf68785
+  github.com/webo-agency/www/6824018f2d690bfaae7b86e51ed73b058525a931(@emnapi/core@1.9.1)(@emnapi/runtime@1.9.1)(@nuxt/devtools@1.7.0)(@vue/compiler-core@3.5.31)(@vue/compiler-sfc@3.5.31)(browserslist@4.28.2)(h3@1.15.10)(markdown-it@14.1.1)(postcss@8.5.8)(rollup@2.80.0)(vite@6.4.1)(vue@3.5.31)(webpack@5.105.4)(workbox-build@7.4.0)(workbox-window@7.4.0):
+    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/6824018f2d690bfaae7b86e51ed73b058525a931}
+    id: github.com/webo-agency/www/6824018f2d690bfaae7b86e51ed73b058525a931
     name: '@webo-agency/theme'
-    version: 3.7.108
+    version: 3.7.109
     requiresBuild: true
     dependencies:
       '@cloudflare/pages-plugin-static-forms': 1.0.3
@@ -15487,7 +15524,7 @@ packages:
       markdown-it-ins: 3.0.1
       node-fetch: 3.3.2
       nuxt: 3.20.1(@emnapi/core@1.9.1)(@emnapi/runtime@1.9.1)(@vue/compiler-sfc@3.5.31)(rollup@2.80.0)(vite@6.4.1)
-      nuxt-booster: 3.3.2(browserslist@4.28.1)
+      nuxt-booster: 3.3.2(browserslist@4.28.2)
       nuxt-simple-sitemap: 4.4.1(@nuxt/devtools@1.7.0)(@vue/compiler-core@3.5.31)(h3@1.15.10)(nuxt@3.20.1)(postcss@8.5.8)(rollup@2.80.0)(vite@6.4.1)(vue@3.5.31)(webpack@5.105.4)
       nuxt-vitalizer: 0.10.0
       sitemap: 7.1.3
