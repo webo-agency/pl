@@ -12,6 +12,52 @@ meta:
 ---
 button.title: Dowiedz się więcej
 button.link: https://webo.agency/uslugi/strony-internetowe/
+logosText: "Zaufali nam:"
+logos:
+    - link: 'https://is-wireless.com/'
+      src: '/img/logos/isw.svg'
+
+    - link: 'https://thoro.pl/'
+      src: '/img/logos/thoro.svg'      
+
+    - link: 'https://agencjagrow.pl/'
+      src: '/img/logos/grow.svg'
+
+    - link: 'https://etisoft.com.pl/'
+      src: '/img/logos/etisoft.svg'    
+
+    - link: 'https://sollux-lighting.com/'
+      src: '/img/logos/sollux.svg'  
+
+    - link: 'https://getsales.pl/'
+      src: '/img/logos/getsales.png'     
+
+    - link: 'https://shop-mancraft.com/pl/'
+      src: '/img/logos/Mancraft.svg'
+
+    - link: 'https://5gmadetogether.com/'
+      src: '/img/logos/5G.svg'
+
+    - link: ''
+      src: '/img/logos/pansa.svg'   
+
+    - link: ''
+      src: '/img/logos/aldi.svg'       
+
+    - link: 'https://agencjaecho.pl/'
+      src: '/img/logos/echo.svg'      
+
+    - link: 'https://www.deltahr.pl/'
+      src: '/img/logos/DeltaHR.png'         
+
+    - link: 'https://velair.pl/'
+      src: '/img/logos/velair.png'      
+
+    - link: 'https://eurostal-garage.it/'
+      src: '/img/logos/Eurostal.svg'            
+
+    - link: 'https://feeby.pl/'
+      src: '/img/logos/Feeby.png'
 ---
 
 #subtitle
@@ -22,7 +68,7 @@ button.link: https://webo.agency/uslugi/strony-internetowe/
 # Jesteśmy specjalistami od solidnych *stron internetowych*
 
 #description
-Tworzonych bez szablonów czy gotowców - <u>od podstaw zgodnie z dokumentacją, jak należy.</u>
+Tworzonych bez szablonów czy gotowców - <u>ale kodując od podstaw zgodnie z dokumentacją, jak należy.</u>
 
 ::
 
