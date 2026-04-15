@@ -208,7 +208,7 @@ class: mx-blog mb-10 tablet:mb-[60px]
 ---
 :::::block-cta-md
 ---
-button.link: /uslugi/wsparcie-i-rozwoj/
+button.link: /kontakt/
 button.title: 'Umów bezpłatną konsultację'
 button.isWide: true
 maxWidth: 1100
