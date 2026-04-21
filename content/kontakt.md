@@ -181,7 +181,7 @@ Wypełnij formularz, a my **skontaktujemy się z Tobą w&nbsp;ciągu 24h** i z c
 
 ::::block-contact-info-md
 ---
-tel: '+48725122385'
+tel: '+48721733397'
 mail: info@webo.agency
 address: 'Zwycięstwa 10, 44-100 Gliwice, Poland'
 nip: '631 261 36 26'
