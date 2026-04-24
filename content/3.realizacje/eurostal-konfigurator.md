@@ -352,48 +352,33 @@ class: mb-[50px] tablet:mb-[100px]
 
 ::page-section-md
 ---
-class: static-content mb-[50px] tablet:mb-[100px] hidden
+class: static-content mb-[50px] tablet:mb-[100px]
 ---
 :::effect-appear-md
-::::block-columns-5-7-md
----
-class: mx-default
----
-
-#left
-:::::block-clutch
+::::block-opinion-md
 ---
 rating: 5
-quality: 5
-schedule: 5
-cost: 5
-refer: 5
+link: 'https://www.google.com/search?sa=X&sca_esv=950f1dd50efd152d&tbm=lcl&q=Webo+Opinie&rflfq=1&num=20&stick=H4sIAAAAAAAAAONgkxI2NDA0NbQ0NLUwM7O0ANJGJiYbGBlfMXKHpyblK_gXZOZlpi5iReYBAMr9MB02AAAA&rldimm=1015191586698915244&hl=pl-PL&ved=2ahUKEwjvh8C7pfaOAxWRHxAIHUsvAXsQ9fQKegQISBAF&biw=1920&bih=1031&dpr=1#lkt=LocalPoiReviews'
+avatar: '/img/content-images/eurostal_avatar.png'
 ---
-:::::
-
-#right
-
-:::::block-opinion-md
 
 #title
 ### **Opinia klienta**
 
 #content
 
-::::::prose-p3
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+:::::prose-p3
+Świetna współpraca przy tworzeniu strony i konfiguratora. Firma WEBO to **profesjonaliści, którzy dotrzymują terminów** i mają świetne podejście do klienta. Wszystko działa bez zarzutu, Polecam !
 
-**Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.**
-::::::
+:::::
 
 #author
 
-#### **Jan Kowalski**
+#### **Dawid Jasek**
 
 #authorTitle
-::::::prose-p6
-JOB POSITION - **EUROSTALL**
-::::::
+:::::prose-p6
+Sales Manager - **Eurostal**
 :::::
 ::::
 :::

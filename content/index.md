@@ -815,21 +815,22 @@ Business manager - **Oravio**
 Pomogli nam w przelaniu naszych wizji sklepu internetowego na realny, **dobrze odbierany przez klientów** i przede wszystkim sprawnie działający sklep! Dziękujemy i **polecamy Webo!** : )
 
 :::::
+
 :::::opinion-md
 ---
 rating: 5
-avatar: '/img/logos/CaffeWasyl.png'
+avatar: '/img/content-images/eurostal_avatar.png'
 opinionSource: '/img/icons/google.svg'
 ---
 
 #author
-Adam Wasilewski
+Dawid Jasek
 
 #title
-Właściciel - **Caffe wasyl**
+Sales Manager - **Eurostal**
 
 #message
-**Dzięki Webo uratowałem swój biznes**, uruchomili mój sklep internetowy w **ciągu miesiąca**. Oby jak najwięcej takich ludzi!
+Świetna współpraca przy tworzeniu strony i konfiguratora. Firma WEBO to **profesjonaliści, którzy dotrzymują terminów** i mają świetne podejście do klienta. Wszystko działa bez zarzutu, Polecam !
 
 :::::
 ::::
