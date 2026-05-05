@@ -8,8 +8,8 @@ category:
 image.url: '/img/blog-images/najczestsze-bledy-ux--ktore-obnizaja-konwersje-w-sklepie-internetowym.webp'
 date: 2026-04-14
 hreflangs:
-    EN: '/blog/'
-    PL: '/blog/najczestsze-bledy-ux--ktore-obnizaja-konwersje-w-sklepie-internetowym/'
+    EN: '/blog/most-common-ux-mistakes-that-lower-conversion-in-an-online-store/'
+    PL: '/blog/najczestsze-bledy-ux-ktore-obnizaja-konwersje-w-sklepie-internetowym/'
 public: true
 draft: false
 ---

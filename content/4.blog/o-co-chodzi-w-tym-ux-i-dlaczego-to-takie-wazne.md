@@ -7,7 +7,7 @@ category:
 image.url: '/img/blog-images/webo_blog_ux.jpg'
 date: 2025-01-26
 hreflangs:
-    EN: '/blog/'
+    EN: '/blog/what-is-ux-all-about-and-why-is-it-so-important/'
     PL: '/blog/o-co-chodzi-w-tym-ux-i-dlaczego-to-takie-wazne/'
 public: true
 draft: false

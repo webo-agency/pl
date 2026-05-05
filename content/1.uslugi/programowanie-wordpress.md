@@ -5,7 +5,7 @@ meta:
 draft: false
 public: true
 hreflangs:
-    EN: '/services/wordpress-programming/'
+    EN: '/services/wordpress-development/'
     PL: '/uslugi/programowanie-wordpress/'
 ---
 

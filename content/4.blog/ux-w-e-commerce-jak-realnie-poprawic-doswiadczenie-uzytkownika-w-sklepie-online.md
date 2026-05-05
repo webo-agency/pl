@@ -7,7 +7,7 @@ category:
 image.url: '/img/blog-images/blog_webo_ux_w_e_commerce.webp'
 date: 2026-01-15
 hreflangs:
-    EN: '/blog/'
+    EN: '/blog/ux-in-e-commerce-how-to-really-improve-the-user-experience-in-an-online-store/'
     PL: '/blog/ux-w-e-commerce-jak-realnie-poprawic-doswiadczenie-uzytkownika-w-sklepie-online/'
 public: true
 draft: false

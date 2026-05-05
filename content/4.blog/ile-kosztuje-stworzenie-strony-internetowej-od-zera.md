@@ -7,7 +7,7 @@ category:
 image.url: '/img/blog-images/blog_webo_elementy_ile_kosztuje.webp'
 date: 2026-02-02
 hreflangs:
-    EN: '/blog/'
+    EN: '/blog/how-much-does-it-cost-to-create-a-website-from-scratch/'
     PL: '/blog/ile-kosztuje-stworzenie-strony-internetowej-od-zera/'
 public: true
 draft: false

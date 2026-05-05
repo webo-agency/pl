@@ -17,6 +17,9 @@ tile_hidden: false
 tile_order: 1
 public: true
 draft: false
+hreflangs:
+    EN: '/case-studies/thoro/'
+    PL: '/realizacje/thoro/'
 ---
 
 

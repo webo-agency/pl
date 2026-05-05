@@ -13,6 +13,9 @@ tile_hidden: false
 tile_order: 11
 public: true
 draft: false
+hreflangs:
+    EN: '/case-studies/mutiny-group/'
+    PL: '/realizacje/mutiny-group/'
 ---
 
 ::page-section-md

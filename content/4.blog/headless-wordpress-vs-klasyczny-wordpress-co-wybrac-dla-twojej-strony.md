@@ -7,7 +7,7 @@ category:
 image.url: '/img/blog-images/Headless_Wordpress_vs_klasyczny_Wordpress.webp'
 date: 2026-02-23
 hreflangs:
-    EN: '/blog/'
+    EN: '/blog/headless-wordpress-vs-classic-wordpress-what-to-choose-for-your-site/'
     PL: '/blog/headless-wordpress-vs-klasyczny-wordpress-co-wybrac-dla-twojej-strony/'
 public: true
 draft: false

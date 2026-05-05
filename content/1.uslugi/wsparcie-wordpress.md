@@ -5,7 +5,7 @@ meta:
 draft: false
 public: true
 hreflangs:
-    EN: '/services/wsparcie-wordpress/'
+    EN: '/services/wordpress-support/'
     PL: '/uslugi/wsparcie-wordpress/'
 ---
 

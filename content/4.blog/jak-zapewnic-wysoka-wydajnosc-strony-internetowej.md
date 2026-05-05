@@ -7,7 +7,7 @@ category:
 image.url: '/img/blog-images/wysok_wydajno_strony_internetowej.webp'
 date: 2026-03-30
 hreflangs:
-    EN: '/blog/'
+    EN: '/blog/how-to-ensure-high-website-performance/'
     PL: '/blog/jak-zapewnic-wysoka-wydajnosc-strony-internetowej/'
 public: true
 draft: false

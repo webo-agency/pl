@@ -12,7 +12,7 @@ tile_hidden: false
 tile_order: 3
 public: true
 hreflangs:
-    # EN: '/case-studies/eurostal-konfigurator'
+    EN: '/case-studies/eurostal-configurator/'
     PL: '/realizacje/eurostal-konfigurator/'
 ---
 

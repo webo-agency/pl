@@ -7,7 +7,7 @@ category:
 image.url: '/img/blog-images/webo_blog_design_system.jpg'
 date: 2025-01-26
 hreflangs:
-    EN: '/blog/'
+    EN: '/blog/what-is-design-system-and-why-is-it-worth-investing/'
     PL: '/blog/czym-jest-design-system-i-dlaczego-warto-w-niego-zainwestowac/'
 public: true
 draft: false

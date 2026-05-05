@@ -5,7 +5,7 @@ meta:
 draft: false
 public: true
 hreflangs:
-    EN: '/services/websites/'
+    EN: '/services/website-and-e-commerce-outsourcing/'
     PL: '/uslugi/outsourcing-stron-i-sklepow-www/'
 ---
 

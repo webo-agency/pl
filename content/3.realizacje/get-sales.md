@@ -2,7 +2,7 @@
 introduction.title: 'GetSales - Projekt i wdrożenie odświeżonej strony www agencji wsparcia sprzedaży B2B'
 introduction.description: 'GetSales to jedyna w polsce agencja wsparcia sprzedaży B2B, pomagająca firmom na całej długości procesu pozyskiwania klienta. Naszym zadaniem było projektowanie ux/ui kluczowych stron oraz kodowanie projektu graficznego na istniejącej stronie klienta.'
 type:
-    - Strona internetowa
+    - Strony WWW
     - Projektowanie UX/UI
     - Programowanie wordpress
 technologies:
@@ -12,6 +12,9 @@ logo.url: '/img/logos/getsales-logo.png'
 tile_hidden: false
 tile_order: 4
 public: true
+hreflangs:
+    EN: '/case-studies/get-sales/'
+    PL: '/realizacje/get-sales/'
 ---
 
 

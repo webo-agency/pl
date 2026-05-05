@@ -7,7 +7,7 @@ category:
 image.url: '/img/blog-images/webo_blog_conversion.jpg'
 date: 2025-01-26
 hreflangs:
-    EN: '/blog/'
+    EN: '/blog/what-is-conversion-in-an-online-store-and-what-affects-it/'
     PL: '/blog/czym-jest-konwersja-w-sklepie-internetowym-i-co-na-nia-wplywa/'
 public: true
 draft: false

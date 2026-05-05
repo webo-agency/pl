@@ -12,6 +12,9 @@ logo.url: '/img/logos/velair.png'
 tile_hidden: false
 tile_order: 5
 public: true
+hreflangs:
+    EN: '/case-studies/velair/'
+    PL: '/realizacje/velair/'
 ---
 
 
