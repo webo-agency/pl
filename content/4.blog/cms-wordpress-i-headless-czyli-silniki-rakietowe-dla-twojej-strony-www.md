@@ -5,7 +5,10 @@ introduction.description: 'Strony internetowe wykonane w architekturze Headless 
 category:
     - Technologia
 image.url: '/img/blog-images/webo_blog_headless_wp.jpg'
-date: 2025-01-26
+author: Maciej Z.
+authorAvatar: /img/content-images/avatar-maciej.webp
+authorUrl: https://linkedin.com/in/maciej-zawadzki-ba3194138
+updatedAt: 2026-01-26
 hreflangs:
     EN: '/blog/cms-wordpress-and-headless-the-rocket-engines-for-your-website/'
     PL: '/blog/cms-wordpress-i-headless-czyli-silniki-rakietowe-dla-twojej-strony-www/'
@@ -28,9 +31,6 @@ class: mt-5 tablet:mt-[100px] [&_img]:max-h-[200px] lg:[&_img]:max-h-[600px]
 #title
 # CMS Wordpress + Headless czyli silniki rakietowe dla Twojej strony www
 
-#tags
-- Technologia
-
 ::::
 :::
 ::
@@ -39,42 +39,47 @@ class: mt-5 tablet:mt-[100px] [&_img]:max-h-[200px] lg:[&_img]:max-h-[600px]
 ---
 class: static-content mb-10
 ---
-:::effect-appear-md
+
+:::block-columns-blog-sidebar-md
+
+#left
+
+::::effect-appear-md
 ---
 class: mx-blog
 ---
 
 ### **Co to jest Headless CMS?**
 
-::::prose-p3
+:::::prose-p3
 Strony internetowe wykonane w architekturze Headless polegają na oddzieleniu interfejsu użytkownika (frontendu) od funkcji administracyjnych i zasobów wewnętrznych (backend). Obie warstwy są wobec siebie niezależne, a komunikacja między nimi wykonywana jest za pomocą API. Strona internetowa wykonana w architekturze Headless umożliwia m.in lepszą optymalizację serwisu, ultra szybkie łądowanie, nielimitowany rozwój strony spełniając przy tym najwyższe standardy bezpieczeństwa. W połączeniu z systemem zarządzania treści Wordpress, zyskujesz w/w zalety z zachowaniem funkcjonalności i łatwości edycji treści WP.
-::::
+:::::
 
-:::
-:::effect-appear-md
+::::
+::::effect-appear-md
 ---
 class: mx-blog
 ---
 
 #### **Kiedy warto realizować serwisy internetowe w oparciu o Headless?**
 
-::::prose-p3
+:::::prose-p3
 Strony internetowe Headless mają szczególnie dużą wartość dla firm technologicznych oraz działających w dziale R&D (badania i rozwój). Wynika to ze specyfiki sektorów działalności i narażeniu na możliwe zewnętrzne zagrożenia. Headless znajdzie też zastosowanie dla rozbudowanych serwisów internetowych publikujących treści w wielu kanałach dystrybucji i działających na dużą skalę, potrzebujących wysokiej wydajności i redukcji kosztów utrzymania w długim okresie czasu.
-::::
+:::::
 
-:::
-:::effect-appear-md
+::::
+::::effect-appear-md
 ---
 class: mx-blog mb-10 tablet:mb-[60px]
 ---
-::::prose-figure
+:::::prose-figure
 ---
 src: /img/content-images/case-5g-img2.png
 rounded: true
 ---
+:::::
 ::::
-:::
-:::effect-appear-md
+::::effect-appear-md
 ---
 class: mx-blog
 ---
@@ -86,20 +91,17 @@ class: mx-blog
 - Niezależność pracy zespołów frontend i backend nad stroną
 - Zwiększenie wydajności i efektywności działania nawet przy bardzo rozbudowanych stronach
 
-:::
-::
+::::
 
-::page-section-md
----
-class: mb-20
----
-:::block-post-share
----
-shareText: 'Udostępnij:'
-tags:
-    - Technologia
----
+#right
 
+::::block-post-share
+---
+shareText: 'Udostępnij artykuł:'
+tagsTitle: 'Kategorie:'
+copyConfirmationText: 'Link skopiowany!'
+---
+::::
 :::
 ::
 

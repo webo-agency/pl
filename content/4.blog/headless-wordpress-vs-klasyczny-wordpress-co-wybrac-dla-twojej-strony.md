@@ -5,7 +5,10 @@ introduction.description: 'Wybór odpowiedniej platformy dla Twojej strony może
 category:
     - Technologia
 image.url: '/img/blog-images/Headless_Wordpress_vs_klasyczny_Wordpress.webp'
-date: 2026-02-23
+author: Kamil Mędrala
+authorAvatar: /img/content-images/avatar-img.png
+authorUrl: https://linkedin.com/in/kamil-medrala1
+updatedAt: 2026-02-23
 hreflangs:
     EN: '/blog/headless-wordpress-vs-classic-wordpress-what-to-choose-for-your-site/'
     PL: '/blog/headless-wordpress-vs-klasyczny-wordpress-co-wybrac-dla-twojej-strony/'
@@ -230,23 +233,9 @@ class: mx-blog
 ---
 :::::block-post-share
 ---
-isSidebar: true
-author: Kamil M.
-authorAvatar: /img/content-images/avatar-img.png
-postDate: 23.02.2026
-shareText: 'Share the article:'
-tagsTitle: 'Tags:'
-tags:
-    - Headless
-    - Sklepy internetowe
-    - Strony internetowe
-archivePath: /blog
-socials:
-    - linkedin
-    - facebook
-    - twitter
-showCopyLink: true
-class: text-base [&_p]:!text-base
+shareText: 'Udostępnij artykuł:'
+tagsTitle: 'Kategorie:'
+copyConfirmationText: 'Link skopiowany!'
 ---
 :::::
 ::::

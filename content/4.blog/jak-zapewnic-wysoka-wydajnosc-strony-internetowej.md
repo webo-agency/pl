@@ -5,7 +5,10 @@ introduction.description: 'W dzisiejszym cyfrowym świecie, gdzie każda sekunda
 category:
     - Technologia
 image.url: '/img/blog-images/wysok_wydajno_strony_internetowej.webp'
-date: 2026-03-30
+author: Kamil Mędrala
+authorAvatar: /img/content-images/avatar-img.png
+authorUrl: https://linkedin.com/in/kamil-medrala1
+updatedAt: 2026-03-30
 hreflangs:
     EN: '/blog/how-to-ensure-high-website-performance/'
     PL: '/blog/jak-zapewnic-wysoka-wydajnosc-strony-internetowej/'
@@ -337,22 +340,9 @@ class: mx-blog
 ---
 :::::block-post-share
 ---
-isSidebar: true
-author: Kamil M.
-authorAvatar: /img/content-images/avatar-img.png
-postDate: 30.03.2026
-shareText: 'Share the article:'
-tagsTitle: 'Tags:'
-tags:
-    - Strony internetowe
-    - Sklepy internetowe
-archivePath: /blog
-socials:
-    - linkedin
-    - facebook
-    - twitter
-showCopyLink: true
-class: text-base [&_p]:!text-base
+shareText: 'Udostępnij artykuł:'
+tagsTitle: 'Kategorie:'
+copyConfirmationText: 'Link skopiowany!'
 ---
 :::::
 ::::

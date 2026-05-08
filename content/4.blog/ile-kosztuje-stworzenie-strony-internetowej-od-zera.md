@@ -5,7 +5,10 @@ introduction.description: 'Stworzenie strony internetowej od podstaw to jeden z 
 category:
     - Technologia
 image.url: '/img/blog-images/blog_webo_elementy_ile_kosztuje.webp'
-date: 2026-02-02
+author: Maciej Z.
+authorAvatar: /img/content-images/avatar-maciej.webp
+authorUrl: https://linkedin.com/in/maciej-zawadzki-ba3194138
+updatedAt: 2026-02-02
 hreflangs:
     EN: '/blog/how-much-does-it-cost-to-create-a-website-from-scratch/'
     PL: '/blog/ile-kosztuje-stworzenie-strony-internetowej-od-zera/'
@@ -295,23 +298,9 @@ class: mx-blog
 ---
 :::::block-post-share
 ---
-isSidebar: true
-author: Maciej Z.
-authorAvatar: /img/content-images/avatar-maciej.webp
-postDate: 02.02.2026
-shareText: 'Share the article:'
-tagsTitle: 'Tags:'
-tags:
-    - UX/UI Design
-    - Sklepy internetowe
-    - Storny internetowe
-archivePath: /blog
-socials:
-    - linkedin
-    - facebook
-    - twitter
-showCopyLink: true
-class: text-base [&_p]:!text-base
+shareText: 'Udostępnij artykuł:'
+tagsTitle: 'Kategorie:'
+copyConfirmationText: 'Link skopiowany!'
 ---
 :::::
 ::::

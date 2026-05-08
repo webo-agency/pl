@@ -5,7 +5,10 @@ introduction.description: 'Szybkość ładowania strony to nie tylko kwestia tec
 category:
     - Technologia
 image.url: '/img/blog-images/webo_blog_speed.jpg'
-date: 2025-01-26
+author: Maciej Z.
+authorAvatar: /img/content-images/avatar-maciej.webp
+authorUrl: https://linkedin.com/in/maciej-zawadzki-ba3194138
+updatedAt: 2026-01-26
 hreflangs:
     EN: '/blog/what-affects-page-loading-speed-and-why-is-it-so-important/'
     PL: '/blog/co-wplywa-na-szybkosc-ladowania-strony-i-dlaczego-to-takie-wazne/'
@@ -28,9 +31,6 @@ class: mt-5 tablet:mt-[100px] [&_img]:max-h-[200px] lg:[&_img]:max-h-[600px]
 #title
 # Co wpływa na szybkość ładowania strony i dlaczego to takie ważne?
 
-#tags
-- Technologia
-
 ::::
 :::
 ::
@@ -39,30 +39,35 @@ class: mt-5 tablet:mt-[100px] [&_img]:max-h-[200px] lg:[&_img]:max-h-[600px]
 ---
 class: static-content mb-10
 ---
-:::effect-appear-md
+
+:::block-columns-blog-sidebar-md
+
+#left
+
+::::effect-appear-md
 ---
 class: mx-blog
 ---
 
 ### **Dlaczego szybkość jest ważna?**
 
-::::prose-p3
+:::::prose-p3
 Raporty Cloudflare i Google mówią nam jasno:
 - Blisko połowa użytkowników, spodziewa się, że strona internetowa załaduje się w ciągu 2 sekund i krócej.
 - Każde dodatkowe 0,5 sekundy to spadek odwiedzin kolejnych podstron o 20%.
 - Jeśli dana witryna nie otworzy się w przeciągu 3 sekund, 53% użytkowników ją opuści.
 Dodatkowo szybkość ładowania stron wpływa na SEO oraz indeksacji witryny w wyszukiwarce. Google premiuje jakość, szybkość i użyteczność - im w lepszym stanie jest nasza strona tym lepszy scoring otrzymamy.
-::::
+:::::
 
-:::
-:::effect-appear-md
+::::
+::::effect-appear-md
 ---
 class: mx-blog
 ---
 
 #### **Co wpływa na szybkość ładowania strony?**
 
-::::prose-p3
+:::::prose-p3
 - Kod strony: Zadbajmy o czysty, zoptymalizowany kod, stosowanie sprawdzonych praktyk i posiłkowanie się dokumentacją. Unikajmy nadmiernego użycia skryptów i wtyczek.
 - Rozmiar mediów: Duże obrazy i multimedia mogą znacząco zwolnić stronę. Optymalizacja grafik jest kluczowa.
 - Serwer: Wydajny serwer, odpowiednio skalowalny i dostosowany do potrzeb strony pomaga zapewnić użytkownikom szybki dostęp do treści.
@@ -73,21 +78,19 @@ class: mx-blog
 Szybkość ładowania strony to nie tylko kwestia techniczna, to fundament naszej obecności online. Wpływa znacząco na konwersję oraz indeksację w wyszukiwarkach a tym samym przekłada się na budżet marketingowy np. Google Ads czy SEO jaki musimy przeznaczyć na pozyskanie klienta przez naszą stronę www. Dlatego warto inwestować w optymalizację i dbać o to, aby nasza strona działała jak najsprawniej. 
 
 
+:::::
 ::::
-:::
-::
 
-::page-section-md
+#right
+
+::::block-post-share
 ---
-class: mb-20
----
-:::block-post-share
----
-shareText: 'Udostępnij:'
-tags:
-    - Technologia
+shareText: 'Udostępnij artykuł:'
+tagsTitle: 'Kategorie:'
+copyConfirmationText: 'Link skopiowany!'
 ---
 
+::::
 :::
 ::
 

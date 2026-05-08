@@ -5,7 +5,10 @@ introduction.description: 'Stworzenie efektywnej strony głównej to kluczowy kr
 category:
     - Technologia
 image.url: '/img/blog-images/blog_webo_elementy_strony_glownej.webp'
-date: 2026-01-26
+author: Maciej Z.
+authorAvatar: /img/content-images/avatar-maciej.webp
+authorUrl: https://linkedin.com/in/maciej-zawadzki-ba3194138
+updatedAt: 2026-01-26
 hreflangs:
     EN: '/blog/ux-in-e-commerce-how-to-really-improve-the-user-experience-in-an-online-store/'
     PL: '/blog/ux-w-e-commerce-jak-realnie-poprawic-doswiadczenie-uzytkownika-w-sklepie-online/'
@@ -476,22 +479,9 @@ class: mx-blog
 ---
 :::::block-post-share
 ---
-isSidebar: true
-author: Maciej Z.
-authorAvatar: /img/content-images/avatar-maciej.webp
-postDate: 15.01.2026
-shareText: 'Share the article:'
-tagsTitle: 'Tags:'
-tags:
-    - UX/UI Design
-    - Sklepy internetowe
-archivePath: /blog
-socials:
-    - linkedin
-    - facebook
-    - twitter
-showCopyLink: true
-class: text-base [&_p]:!text-base
+shareText: 'Udostępnij artykuł:'
+tagsTitle: 'Kategorie:'
+copyConfirmationText: 'Link skopiowany!'
 ---
 :::::
 ::::
