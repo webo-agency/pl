@@ -8,7 +8,7 @@ image.url: '/img/blog-images/webo_blog_design_system.jpg'
 author: Maciej Z.
 authorAvatar: /img/content-images/avatar-maciej.webp
 authorUrl: https://linkedin.com/in/maciej-zawadzki-ba3194138
-updatedAt: 2026-01-26
+updatedAt: 2025-01-26
 hreflangs:
     EN: '/blog/what-is-design-system-and-why-is-it-worth-investing/'
     PL: '/blog/czym-jest-design-system-i-dlaczego-warto-w-niego-zainwestowac/'
