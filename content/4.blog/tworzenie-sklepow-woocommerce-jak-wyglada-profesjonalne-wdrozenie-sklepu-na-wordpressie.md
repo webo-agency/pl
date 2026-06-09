@@ -103,7 +103,7 @@ class: bg-green-gray !p-10 !pb-8 !items-start [&_p]:!m-0 [&_.description]:!m-0 [
 #title
 
 #description
-**Zaprojektuj sklep internetowy zgodny z UX, który sprzedaje** *<u><a href="/uslugi/sklepy-internetowe/">poznaj naszą ofertę</a></u>*
+**Zaprojektuj sklep internetowy zgodny z UX, który sprzedaje** *<u><a href="/uslugi/sklepy-woocommerce/">poznaj naszą ofertę</a></u>*
 
 :::::
 ::::
