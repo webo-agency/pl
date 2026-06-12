@@ -9,22 +9,51 @@ hreflangs:
     PL: '/uslugi/sklepy-woocommerce/'
 schemaOrg:
   "@type": "Service"
-  serviceType: "Tworzenie sklepów internetowych WooCommerce"
+  serviceType: "Projektowanie i wdrażanie sklepów WooCommerce"
   provider:
     "@type": "Organization"
     name: "Webo"
-    url: "https://webo.pl/"
+    url: "https://webo.pl"
   areaServed:
     "@type": "Country"
     "name": "Poland"
-  description: "Profesjonalne projektowanie i wdrażanie sklepów internetowych opartych na systemie WooCommerce. Sklepy zoptymalizowane pod SEO, szybkie i responsywne."
+  description: "Projektowanie i wdrażanie nowoczesnych sklepów WooCommerce dopasowanych do potrzeb sprzedaży online oraz rozwoju e-commerce."
+  category: "WooCommerce"
   offers:
     "@type": "Offer"
     availability: "https://schema.org/InStock"
-    description: "Indywidualna wycena wdrożenia sklepu WooCommerce"
+    description: "Tworzenie sklepów WooCommerce"
   mainEntityOfPage:
     "@type": "WebPage"
     "@id": "https://webo.pl/uslugi/sklepy-woocommerce/"
+  hasOfferCatalog:
+    "@type": "OfferCatalog"
+    name: "Usługi WooCommerce"
+    itemListElement:
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Tworzenie sklepów WooCommerce"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Projektowanie sklepów internetowych WooCommerce"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Dedykowane funkcjonalności WooCommerce"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Integracje systemów e-commerce"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Rozwój i modernizacja sklepów WooCommerce"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Wsparcie techniczne WooCommerce"
 ---
 
 

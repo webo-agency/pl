@@ -7,6 +7,45 @@ public: true
 hreflangs:
     EN: '/services/wordpress-websites/'
     PL: '/uslugi/strony-wordpress/'
+schemaOrg:
+  "@type": "Service"
+  serviceType: "Projektowanie i wdrażanie stron WordPress"
+  provider:
+    "@type": "Organization"
+    name: "Webo"
+    url: "https://webo.pl"
+  areaServed:
+    "@type": "Country"
+    "name": "Poland"
+  description: "Projektowanie i wdrażanie nowoczesnych stron internetowych WordPress dopasowanych do potrzeb biznesu."
+  category: "Usługi WordPress"
+  offers:
+    "@type": "Offer"
+    availability: "https://schema.org/InStock"
+    description: "Tworzenie stron WordPress"
+  mainEntityOfPage:
+    "@type": "WebPage"
+    "@id": "https://webo.pl/uslugi/strony-wordpress/"
+  hasOfferCatalog:
+    "@type": "OfferCatalog"
+    name: "Usługi WordPress"
+    itemListElement:
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Tworzenie stron WordPress"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Rozbudowa i rozwój stron WordPress"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Dedykowane funkcjonalności WordPress"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Optymalizacja i wsparcie WordPress"
 ---
 ::block-banner-md
 ---

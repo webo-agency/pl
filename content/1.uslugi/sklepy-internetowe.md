@@ -7,6 +7,49 @@ public: true
 hreflangs:
     EN: '/services/e-commerce/'
     PL: '/uslugi/sklepy-internetowe/'
+schemaOrg:
+  "@type": "Service"
+  serviceType: "Projektowanie i wdrażanie e-commerce"
+  provider:
+    "@type": "Organization"
+    name: "Webo"
+    url: "https://webo.pl"
+  areaServed:
+    "@type": "Country"
+    "name": "Poland"
+  description: "Projektowanie i wdrażanie nowoczesnych sklepów internetowych dopasowanych do potrzeb sprzedaży online oraz rozwoju e-commerce."
+  category: "Sklepy internetowe"
+  offers:
+    "@type": "Offer"
+    availability: "https://schema.org/InStock"
+    description: "Tworzenie sklepów internetowych"
+  mainEntityOfPage:
+    "@type": "WebPage"
+    "@id": "https://webo.pl/uslugi/sklepy-internetowe/"
+  hasOfferCatalog:
+    "@type": "OfferCatalog"
+    name: "Usługi e-commerce"
+    itemListElement:
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Projektowanie sklepów internetowych"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Tworzenie sklepów WooCommerce"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Dedykowane sklepy internetowe"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Integracje systemów e-commerce"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Rozwój i modernizacja sklepów online"
 ---
 
 

@@ -7,6 +7,53 @@ public: true
 hreflangs:
     EN: '/services/prestashop/'
     PL: '/uslugi/sklepy-prestashop/'
+schemaOrg:
+  "@type": "Service"
+  serviceType: "Projektowanie i wdrażanie sklepów internetowych PrestaShop"
+  provider:
+    "@type": "Organization"
+    name: "Webo"
+    url: "https://webo.pl"
+  areaServed:
+    "@type": "Country"
+    "name": "Poland"
+  description: "Projektowanie i wdrażanie nowoczesnych sklepów internetowych PrestaShop dopasowanych do potrzeb sprzedaży online oraz rozwoju e-commerce."
+  category: "PrestaShop"
+  offers:
+    "@type": "Offer"
+    availability: "https://schema.org/InStock"
+    description: "Tworzenie sklepów PrestaShop"
+  mainEntityOfPage:
+    "@type": "WebPage"
+    "@id": "https://webo.pl/uslugi/sklepy-prestashop/"
+  hasOfferCatalog:
+    "@type": "OfferCatalog"
+    name: "Usługi PrestaShop"
+    itemListElement:
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Tworzenie sklepów PrestaShop"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Projektowanie sklepów internetowych PrestaShop"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Dedykowane moduły PrestaShop"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Integracje systemów e-commerce"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Rozwój i modernizacja sklepów PrestaShop"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Wsparcie techniczne PrestaShop"
 ---
 
 

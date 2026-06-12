@@ -7,6 +7,49 @@ public: true
 hreflangs:
     EN: '/services/websites/'
     PL: '/uslugi/strony-internetowe/'
+schemaOrg:
+  "@type": "Service"
+  serviceType: "Projektowanie i tworzenie stron WWW"
+  provider:
+    "@type": "Organization"
+    name: "Webo"
+    url: "https://webo.pl"
+  areaServed:
+    "@type": "Country"
+    "name": "Poland"
+  description: "Projektowanie i wdrażanie nowoczesnych stron internetowych dopasowanych do potrzeb biznesu i wysokiej wydajności."
+  category: "Strony internetowe"
+  offers:
+    "@type": "Offer"
+    availability: "https://schema.org/InStock"
+    description: "Tworzenie stron internetowych"
+  mainEntityOfPage:
+    "@type": "WebPage"
+    "@id": "https://webo.pl/uslugi/strony-internetowe/"
+  hasOfferCatalog:
+    "@type": "OfferCatalog"
+    name: "Usługi tworzenia stron internetowych"
+    itemListElement:
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Projektowanie stron internetowych"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Tworzenie responsywnych stron WWW"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Strony internetowe WordPress"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Dedykowane strony internetowe"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Modernizacja i rozwój stron internetowych"
 ---
 ::block-banner-md
 ---

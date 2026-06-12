@@ -7,6 +7,53 @@ public: true
 hreflangs:
     EN: '/services/wordpress-support/'
     PL: '/uslugi/wsparcie-wordpress/'
+schemaOrg:
+  "@type": "Service"
+  serviceType: "Obsługa i rozwój stron WordPress"
+  provider:
+    "@type": "Organization"
+    name: "Webo"
+    url: "https://webo.pl"
+  areaServed:
+    "@type": "Country"
+    "name": "Poland"
+  description: "Kompleksowe wsparcie techniczne WordPress obejmujące opiekę nad stroną, aktualizacje, bezpieczeństwo, optymalizację i rozwój serwisu."
+  category: "Wsparcie WordPress"
+  offers:
+    "@type": "Offer"
+    availability: "https://schema.org/InStock"
+    description: "Wsparcie WordPress"
+  mainEntityOfPage:
+    "@type": "WebPage"
+    "@id": "https://webo.pl/uslugi/wsparcie-wordpress/"
+  hasOfferCatalog:
+    "@type": "OfferCatalog"
+    name: "Usługi wsparcia WordPress"
+    itemListElement:
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Stała opieka nad stroną WordPress"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Aktualizacje WordPress i pluginów"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Naprawa błędów WordPress"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Optymalizacja wydajności WordPress"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Zabezpieczenie strony WordPress"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Rozwój i rozbudowa strony WordPress"
 ---
 
 
