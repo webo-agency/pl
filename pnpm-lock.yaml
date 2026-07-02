@@ -10,7 +10,7 @@ dependencies:
     version: 1.0.3
   '@webo-agency/theme':
     specifier: github:webo-agency/www#main
-    version: github.com/webo-agency/www/7a0a60b719f5d72aab8ff681bfaaa52b9578d9fa(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(@vue/compiler-sfc@3.5.39)(browserslist@4.28.4)(markdown-it@14.2.0)(vite@7.3.6)(vue@3.5.39)
+    version: github.com/webo-agency/www/0b979ac10b2cdaa4a8ceadb3691dcb4c3975e9a3(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(@vue/compiler-sfc@3.5.39)(browserslist@4.28.4)(markdown-it@14.3.0)(vite@7.3.6)(vue@3.5.39)
   mjml:
     specifier: ^4.15.3
     version: 4.17.2
@@ -4329,8 +4329,8 @@ packages:
     hasBin: true
     dependencies:
       baseline-browser-mapping: 2.10.40
-      caniuse-lite: 1.0.30001799
-      electron-to-chromium: 1.5.381
+      caniuse-lite: 1.0.30001800
+      electron-to-chromium: 1.5.384
       node-releases: 2.0.50
       update-browserslist-db: 1.2.3(browserslist@4.28.4)
     dev: false
@@ -4472,6 +4472,10 @@ packages:
 
   /caniuse-lite@1.0.30001799:
     resolution: {integrity: sha512-hG1bReV+OUU+MOqK4t/ZWI0tZOyz3rqS9XuhOUz1cIcbwBKjOyJEJuw9ER5JuNyqxNk8u/JUVbGibBOL1yrjFw==}
+    dev: false
+
+  /caniuse-lite@1.0.30001800:
+    resolution: {integrity: sha512-MMHtuAz9Ys840zAY5F4k6fV5GaivZ9sPk+nz0mY+GYVzRBnYkN0mpqkSR92oWRQ19yQWo4HvBV/FnC16AJX8MA==}
     dev: false
 
   /ccount@2.0.1:
@@ -5364,8 +5368,8 @@ packages:
     resolution: {integrity: sha512-9wHk8x6dyuimoe18EdiDPWKExNdxYqo4fn4FwOVVper6RxT3cmpBwBkWWfSOCYJjQdIco/nPhJhNLmn4Ufg1Yg==}
     dev: false
 
-  /electron-to-chromium@1.5.381:
-    resolution: {integrity: sha512-n9Wa6yB+vDsGuA8AKbl/0z7HbvWqt5jxIdvr1IUicd0ryPrk7/xzwqLv8D9AbbvZ6avVNtXYLTfmgFHkwkyelg==}
+  /electron-to-chromium@1.5.384:
+    resolution: {integrity: sha512-g6KAKY1vkYsADvSPWvdJsuYT0ixdcu6lUtD9P/wJKGBEDlZVXh2AX42j1mPqqaQPDluWjara9ziQ7xqAeXCt5A==}
     dev: false
 
   /email-validator@2.0.4:
@@ -6898,8 +6902,8 @@ packages:
     resolution: {integrity: sha512-7ylylesZQ/PV29jhEDl3Ufjo6ZX7gCqJr5F7PKrqc93v7fzSymt1BpwEU8nAUXs8qzzvqhbjhK5QZg6Mt/HkBg==}
     dev: false
 
-  /linkify-it@5.0.1:
-    resolution: {integrity: sha512-wVoTjP4Q6R0NW5hiZkVJaFZPWgtXfoGF+6LucL3/FtiNjmcHhYjEr5f1Kqjirc1nBW07J/ZuRFumqr2oqccEWg==}
+  /linkify-it@5.0.2:
+    resolution: {integrity: sha512-ONTm2jCMAVZjgQa/Fy1kScXsuOoF5NPTsoFBdE1KVIZ2vAh/r9+Bqo+0jINCBYnavTPQZz38QzFTme79ENoN3Q==}
     dependencies:
       uc.micro: 2.1.0
     dev: false
@@ -7075,26 +7079,26 @@ packages:
       - supports-color
     dev: false
 
-  /markdown-it-attrs@4.5.0(markdown-it@14.2.0):
+  /markdown-it-attrs@4.5.0(markdown-it@14.3.0):
     resolution: {integrity: sha512-dsuEyK/MDAYsdZLDIaDAQXz5+gP0AAbJ4ZjOSB0w+ZGe4lLbzyCgGg0LApC6j9zUK2F+2SA9VkzXfyNG9hL/8g==}
     engines: {node: '>=6'}
     peerDependencies:
       markdown-it: '>= 9.0.0'
     dependencies:
-      markdown-it: 14.2.0
+      markdown-it: 14.3.0
     dev: false
 
   /markdown-it-ins@3.0.1:
     resolution: {integrity: sha512-32SSfZqSzqyAmmQ4SHvhxbFqSzPDqsZgMHDwxqPzp+v+t8RsmqsBZRG+RfRQskJko9PfKC2/oxyOs4Yg/CfiRw==}
     dev: false
 
-  /markdown-it@14.2.0:
-    resolution: {integrity: sha512-1TGiQiJVRQ3NPmZH6sx5Cfnmg6GQm9jvC1ch4TK511NjSJvjzKLzn5pPfZRNZkRPZP0HqCioSndqH8v2nRaWVQ==}
+  /markdown-it@14.3.0:
+    resolution: {integrity: sha512-RCEsPjR+sr0x+AuYp601tKTkgFG4YEPLCzHST3cQ/fhlJkqAkz1L2/Qbp1j9qw5SBwQHFBoW8+hoN5xssOF0Tw==}
     hasBin: true
     dependencies:
       argparse: 2.0.1
       entities: 4.5.0
-      linkify-it: 5.0.1
+      linkify-it: 5.0.2
       mdurl: 2.0.0
       punycode.js: 2.3.1
       uc.micro: 2.1.0
@@ -12094,11 +12098,11 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: false
 
-  github.com/webo-agency/www/7a0a60b719f5d72aab8ff681bfaaa52b9578d9fa(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(@vue/compiler-sfc@3.5.39)(browserslist@4.28.4)(markdown-it@14.2.0)(vite@7.3.6)(vue@3.5.39):
-    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/7a0a60b719f5d72aab8ff681bfaaa52b9578d9fa}
-    id: github.com/webo-agency/www/7a0a60b719f5d72aab8ff681bfaaa52b9578d9fa
+  github.com/webo-agency/www/0b979ac10b2cdaa4a8ceadb3691dcb4c3975e9a3(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(@vue/compiler-sfc@3.5.39)(browserslist@4.28.4)(markdown-it@14.3.0)(vite@7.3.6)(vue@3.5.39):
+    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/0b979ac10b2cdaa4a8ceadb3691dcb4c3975e9a3}
+    id: github.com/webo-agency/www/0b979ac10b2cdaa4a8ceadb3691dcb4c3975e9a3
     name: '@webo-agency/theme'
-    version: 3.7.119
+    version: 3.7.120
     requiresBuild: true
     dependencies:
       '@cloudflare/pages-plugin-static-forms': 1.0.3
@@ -12118,7 +12122,7 @@ packages:
       form-data: 4.0.5
       formidable-serverless: 1.1.1
       mailgun.js: 8.2.2
-      markdown-it-attrs: 4.5.0(markdown-it@14.2.0)
+      markdown-it-attrs: 4.5.0(markdown-it@14.3.0)
       markdown-it-ins: 3.0.1
       node-fetch: 3.3.2
       nuxt: 3.20.1(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(@vue/compiler-sfc@3.5.39)(vite@7.3.6)
