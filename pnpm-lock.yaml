@@ -10,7 +10,7 @@ dependencies:
     version: 1.0.3
   '@webo-agency/theme':
     specifier: github:webo-agency/www#main
-    version: github.com/webo-agency/www/0b979ac10b2cdaa4a8ceadb3691dcb4c3975e9a3(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(@vue/compiler-sfc@3.5.39)(browserslist@4.28.4)(markdown-it@14.3.0)(vite@7.3.6)(vue@3.5.39)
+    version: github.com/webo-agency/www/6d02b387befc16d72f048fe16375798dddc41285(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(@vue/compiler-sfc@3.5.39)(browserslist@4.28.4)(markdown-it@14.3.0)(vite@7.3.6)(vue@3.5.39)
   mjml:
     specifier: ^4.15.3
     version: 4.17.2
@@ -12098,11 +12098,11 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: false
 
-  github.com/webo-agency/www/0b979ac10b2cdaa4a8ceadb3691dcb4c3975e9a3(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(@vue/compiler-sfc@3.5.39)(browserslist@4.28.4)(markdown-it@14.3.0)(vite@7.3.6)(vue@3.5.39):
-    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/0b979ac10b2cdaa4a8ceadb3691dcb4c3975e9a3}
-    id: github.com/webo-agency/www/0b979ac10b2cdaa4a8ceadb3691dcb4c3975e9a3
+  github.com/webo-agency/www/6d02b387befc16d72f048fe16375798dddc41285(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(@vue/compiler-sfc@3.5.39)(browserslist@4.28.4)(markdown-it@14.3.0)(vite@7.3.6)(vue@3.5.39):
+    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/6d02b387befc16d72f048fe16375798dddc41285}
+    id: github.com/webo-agency/www/6d02b387befc16d72f048fe16375798dddc41285
     name: '@webo-agency/theme'
-    version: 3.7.120
+    version: 3.7.121
     requiresBuild: true
     dependencies:
       '@cloudflare/pages-plugin-static-forms': 1.0.3
