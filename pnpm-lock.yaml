@@ -10,13 +10,13 @@ dependencies:
     version: 1.0.3
   '@webo-agency/theme':
     specifier: github:webo-agency/www#main
-    version: github.com/webo-agency/www/6d02b387befc16d72f048fe16375798dddc41285(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(@vue/compiler-sfc@3.5.39)(browserslist@4.28.4)(markdown-it@14.3.0)(vite@7.3.6)(vue@3.5.39)
+    version: github.com/webo-agency/www/6d02b387befc16d72f048fe16375798dddc41285(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)(@vue/compiler-sfc@3.5.39)(browserslist@4.28.5)(markdown-it@14.3.0)(vite@7.3.6)(vue@3.5.39)
   mjml:
     specifier: ^4.15.3
     version: 4.17.2
   nuxt:
     specifier: ^3.13.2
-    version: 3.20.1(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(@vue/compiler-sfc@3.5.39)(vite@7.3.6)
+    version: 3.20.1(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)(@vue/compiler-sfc@3.5.39)(vite@7.3.6)
 
 packages:
 
@@ -406,16 +406,16 @@ packages:
     resolution: {integrity: sha512-/B8YJGPzaYq1NbsQmwgP8EZqg40NpTw4ZB3suuI0TplbxKHeK94jeaawLmVhCv+YwUnOpiWEz9U6SeThku/8JQ==}
     dev: false
 
-  /@emnapi/core@1.11.1:
-    resolution: {integrity: sha512-RSvbQmHzdKzNsLYa/wHrbc3KN4sYLKAdPZxqiM2HATqv/SBk2/ENSHpvXGaLOMcsAyz0poEGqkmmKYG3OWiJEQ==}
+  /@emnapi/core@1.11.2:
+    resolution: {integrity: sha512-TC8MkTuZUtcTSiFeuC0ksCh9QIJ5+F21MvZ4Wn4ORfYaFJ/0dsiudv5tVkejgwZlwQ39jL9WWDe2lz8x0WglOA==}
     dependencies:
       '@emnapi/wasi-threads': 1.2.2
       tslib: 2.8.1
     dev: false
     optional: true
 
-  /@emnapi/runtime@1.11.1:
-    resolution: {integrity: sha512-vgj7R3y3Wgx24IQaGPA/R6YFXLHVMOZ0uVEyIQPaWs+rd1AzfEMXlAC22FYwO1XkKR6NPsq7mUandH8oIRdZFw==}
+  /@emnapi/runtime@1.11.2:
+    resolution: {integrity: sha512-kyOl3X0DuTiT1h2ft8r2fYO8JYtU9a9Xis/zBSiGArNaagCOWx90N1k2wxp18czFDH+OgcWGb5ZP/XMt3dcyPA==}
     requiresBuild: true
     dependencies:
       tslib: 2.8.1
@@ -1113,7 +1113,7 @@ packages:
     cpu: [wasm32]
     requiresBuild: true
     dependencies:
-      '@emnapi/runtime': 1.11.1
+      '@emnapi/runtime': 1.11.2
     dev: false
     optional: true
 
@@ -1247,15 +1247,15 @@ packages:
       - supports-color
     dev: false
 
-  /@napi-rs/wasm-runtime@1.1.6(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1):
+  /@napi-rs/wasm-runtime@1.1.6(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2):
     resolution: {integrity: sha512-ZLv/JdUfkvOy9eCnnBaGfiO+XimbjebAeO+MRQqD/B+FR1tnRN0tpKSJHRbE8sFfS6aqsXZ67TQjfwfsxULVbg==}
     requiresBuild: true
     peerDependencies:
       '@emnapi/core': ^1.7.1
       '@emnapi/runtime': ^1.7.1
     dependencies:
-      '@emnapi/core': 1.11.1
-      '@emnapi/runtime': 1.11.1
+      '@emnapi/core': 1.11.2
+      '@emnapi/runtime': 1.11.2
       '@tybys/wasm-util': 0.10.3
     dev: false
     optional: true
@@ -1695,7 +1695,7 @@ packages:
       klona: 2.0.6
       mocked-exports: 0.1.1
       nitropack: 2.12.9
-      nuxt: 3.20.1(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(@vue/compiler-sfc@3.5.39)(vite@7.3.6)
+      nuxt: 3.20.1(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)(@vue/compiler-sfc@3.5.39)(vite@7.3.6)
       pathe: 2.0.3
       pkg-types: 2.3.0
       radix3: 1.1.2
@@ -1804,7 +1804,7 @@ packages:
       magic-string: 0.30.21
       mlly: 1.8.0
       mocked-exports: 0.1.1
-      nuxt: 3.20.1(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(@vue/compiler-sfc@3.5.39)(vite@7.3.6)
+      nuxt: 3.20.1(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)(@vue/compiler-sfc@3.5.39)(vite@7.3.6)
       ohash: 2.0.11
       pathe: 2.0.3
       perfect-debounce: 2.0.0
@@ -2075,13 +2075,13 @@ packages:
     dev: false
     optional: true
 
-  /@oxc-minify/binding-wasm32-wasi@0.96.0(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1):
+  /@oxc-minify/binding-wasm32-wasi@0.96.0(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2):
     resolution: {integrity: sha512-bjGDjkGzo3GWU9Vg2qiFUrfoo5QxojPNV/2RHTlbIB5FWkkV4ExVjsfyqihFiAuj0NXIZqd2SAiEq9htVd3RFw==}
     engines: {node: '>=14.0.0'}
     cpu: [wasm32]
     requiresBuild: true
     dependencies:
-      '@napi-rs/wasm-runtime': 1.1.6(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)
+      '@napi-rs/wasm-runtime': 1.1.6(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)
     transitivePeerDependencies:
       - '@emnapi/core'
       - '@emnapi/runtime'
@@ -2214,13 +2214,13 @@ packages:
     dev: false
     optional: true
 
-  /@oxc-parser/binding-wasm32-wasi@0.96.0(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1):
+  /@oxc-parser/binding-wasm32-wasi@0.96.0(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2):
     resolution: {integrity: sha512-TJ/sNPbVD4u6kUwm7sDKa5iRDEB8vd7ZIMjYqFrrAo9US1RGYOSvt6Ie9sDRekUL9fZhNsykvSrpmIj6dg/C2w==}
     engines: {node: '>=14.0.0'}
     cpu: [wasm32]
     requiresBuild: true
     dependencies:
-      '@napi-rs/wasm-runtime': 1.1.6(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)
+      '@napi-rs/wasm-runtime': 1.1.6(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)
     transitivePeerDependencies:
       - '@emnapi/core'
       - '@emnapi/runtime'
@@ -2357,13 +2357,13 @@ packages:
     dev: false
     optional: true
 
-  /@oxc-transform/binding-wasm32-wasi@0.96.0(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1):
+  /@oxc-transform/binding-wasm32-wasi@0.96.0(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2):
     resolution: {integrity: sha512-A91ARLiuZHGN4hBds9s7bW3czUuLuHLsV+cz44iF9j8e1zX9m2hNGXf/acQRbg/zcFUXmjz5nmk8EkZyob876w==}
     engines: {node: '>=14.0.0'}
     cpu: [wasm32]
     requiresBuild: true
     dependencies:
-      '@napi-rs/wasm-runtime': 1.1.6(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)
+      '@napi-rs/wasm-runtime': 1.1.6(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)
     transitivePeerDependencies:
       - '@emnapi/core'
       - '@emnapi/runtime'
@@ -3813,7 +3813,7 @@ packages:
       '@vueuse/core': 10.11.1(vue@3.5.39)
       '@vueuse/metadata': 10.11.1
       local-pkg: 0.5.1
-      nuxt: 3.20.1(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(@vue/compiler-sfc@3.5.39)(vite@7.3.6)
+      nuxt: 3.20.1(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)(@vue/compiler-sfc@3.5.39)(vite@7.3.6)
       vue-demi: 0.14.10(vue@3.5.39)
     transitivePeerDependencies:
       - '@vue/composition-api'
@@ -3830,7 +3830,7 @@ packages:
       '@vueuse/core': 9.13.0(vue@3.5.39)
       '@vueuse/metadata': 9.13.0
       local-pkg: 0.4.3
-      nuxt: 3.20.1(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(@vue/compiler-sfc@3.5.39)(vite@7.3.6)
+      nuxt: 3.20.1(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)(@vue/compiler-sfc@3.5.39)(vite@7.3.6)
       vue-demi: 0.14.10(vue@3.5.39)
     transitivePeerDependencies:
       - '@vue/composition-api'
@@ -4133,8 +4133,8 @@ packages:
     dev: false
     optional: true
 
-  /bare-fs@4.7.2:
-    resolution: {integrity: sha512-aTvMFUWkBmjzKtEQMDGGDNF8bkfpD5N1b/FCwt7A3wrU4t1o/e/85Wzkluh6JlODCjqVESYCkQCdTXqZ9G7VFg==}
+  /bare-fs@4.7.4:
+    resolution: {integrity: sha512-y1kC+ffIx/tPLdTE693uNjHfzTfr+ravR5tvWlMXe25nELbkqV400S71qHDwbkAQ1FVEZobB1NFRzFbCCcyBCQ==}
     engines: {bare: '>=1.16.0'}
     requiresBuild: true
     peerDependencies:
@@ -4144,7 +4144,7 @@ packages:
         optional: true
     dependencies:
       bare-events: 2.9.1
-      bare-path: 3.0.1
+      bare-path: 3.1.0
       bare-stream: 2.13.2(bare-events@2.9.1)
       bare-url: 2.4.5
       fast-fifo: 1.3.2
@@ -4154,18 +4154,9 @@ packages:
     dev: false
     optional: true
 
-  /bare-os@3.9.1:
-    resolution: {integrity: sha512-6M5XjcnsygQNPMCMPXSK379xrJFiZ/AEMNBmFEmQW8d/789VQATvriyi5r0HYTL9TkQ26rn3kgdTG3aisbrXkQ==}
-    engines: {bare: '>=1.14.0'}
+  /bare-path@3.1.0:
+    resolution: {integrity: sha512-322oSBHOhMhOm2CVwn7b3+gWQqwzSgIY4gNpKKb+Ha5jx2dEl9ClOgz/SK57DwuDql8YQg8JRpb9U0o8K3pW9g==}
     requiresBuild: true
-    dev: false
-    optional: true
-
-  /bare-path@3.0.1:
-    resolution: {integrity: sha512-ghj2DSK/2e99a1anTVPCV4m4YIYtrbXhfM7V3D7XZLOTsybnYyaJloymGqssQc8l/or0UoDyRtNQkmkEF/ysgQ==}
-    requiresBuild: true
-    dependencies:
-      bare-os: 3.9.1
     dev: false
     optional: true
 
@@ -4196,7 +4187,7 @@ packages:
     resolution: {integrity: sha512-K+y9xF1tN+CdPu4qWwr0QiK1Al07eFPGYK5M2pDXcmHdMdgC/tT/bpmMe1hrmRHaidKLkXrC+cRNYf3XVDUhSQ==}
     requiresBuild: true
     dependencies:
-      bare-path: 3.0.1
+      bare-path: 3.1.0
     dev: false
     optional: true
 
@@ -4214,8 +4205,8 @@ packages:
     hasBin: true
     dev: false
 
-  /baseline-browser-mapping@2.10.40:
-    resolution: {integrity: sha512-BSSLZ9/Cjjv7Gtj5B68ZzXcXUg8iOf3fme+FCuh8rC/Go+Kmh8cox7M3A8dolou16s64QjLPOSdngh7GxXvkSw==}
+  /baseline-browser-mapping@2.10.42:
+    resolution: {integrity: sha512-c/jurFrDLyui7o1J86yLkRu4LMsTYcBohveus7/I2Hzdn9KIP2bdJPTue/lR1KH46enoPbD77GKeSYNdyPoD3Q==}
     engines: {node: '>=6.0.0'}
     hasBin: true
     dev: false
@@ -4284,7 +4275,7 @@ packages:
       base64-js: 1.5.1
     dev: false
 
-  /browserslist-useragent-regexp@4.1.3(browserslist@4.28.4):
+  /browserslist-useragent-regexp@4.1.3(browserslist@4.28.5):
     resolution: {integrity: sha512-+KteEIVlrE2eJOmtteWhcs3wYKjbFd9fVPzPlj4VGggKMyf9orf+zjmlNt91ekInZ2zqox5ArEZD/tKXDj0v9Q==}
     engines: {node: '>=14.0.0'}
     hasBin: true
@@ -4292,7 +4283,7 @@ packages:
       browserslist: '>=4.0.0'
     dependencies:
       argue-cli: 2.1.0
-      browserslist: 4.28.4
+      browserslist: 4.28.5
       easy-table: 1.2.0
       picocolors: 1.1.1
       regexp-tree: 0.1.27
@@ -4323,16 +4314,16 @@ packages:
       update-browserslist-db: 1.2.3(browserslist@4.28.2)
     dev: false
 
-  /browserslist@4.28.4:
-    resolution: {integrity: sha512-MTc8i/x9jBQd1iMw2CFGS+rwMa07eYjLR0CCTLDACl9xhxy+nIs3KeML/biicXtk9JrZ6dnnTatmc7ErPXIxqw==}
+  /browserslist@4.28.5:
+    resolution: {integrity: sha512-Cu2E6QejHWzuDMTkuwgpABFgDfZrXLQq5V13YOACZx4mFAG4IwGTbTfHPMr4WtxlHoXSM8FIuRwYYCz5XiabaQ==}
     engines: {node: ^6 || ^7 || ^8 || ^9 || ^10 || ^11 || ^12 || >=13.7}
     hasBin: true
     dependencies:
-      baseline-browser-mapping: 2.10.40
-      caniuse-lite: 1.0.30001800
-      electron-to-chromium: 1.5.384
+      baseline-browser-mapping: 2.10.42
+      caniuse-lite: 1.0.30001803
+      electron-to-chromium: 1.5.389
       node-releases: 2.0.50
-      update-browserslist-db: 1.2.3(browserslist@4.28.4)
+      update-browserslist-db: 1.2.3(browserslist@4.28.5)
     dev: false
 
   /buffer-crc32@1.0.0:
@@ -4474,8 +4465,8 @@ packages:
     resolution: {integrity: sha512-hG1bReV+OUU+MOqK4t/ZWI0tZOyz3rqS9XuhOUz1cIcbwBKjOyJEJuw9ER5JuNyqxNk8u/JUVbGibBOL1yrjFw==}
     dev: false
 
-  /caniuse-lite@1.0.30001800:
-    resolution: {integrity: sha512-MMHtuAz9Ys840zAY5F4k6fV5GaivZ9sPk+nz0mY+GYVzRBnYkN0mpqkSR92oWRQ19yQWo4HvBV/FnC16AJX8MA==}
+  /caniuse-lite@1.0.30001803:
+    resolution: {integrity: sha512-g/uHREV2ZpK9qMalCsWaxmA6ol+DX8GYhuf3T40RKoP+oL7vhRJh8LNt73PCjpnR6l14FzfPrB5Yux4PKm2meg==}
     dev: false
 
   /ccount@2.0.1:
@@ -5368,8 +5359,8 @@ packages:
     resolution: {integrity: sha512-9wHk8x6dyuimoe18EdiDPWKExNdxYqo4fn4FwOVVper6RxT3cmpBwBkWWfSOCYJjQdIco/nPhJhNLmn4Ufg1Yg==}
     dev: false
 
-  /electron-to-chromium@1.5.384:
-    resolution: {integrity: sha512-g6KAKY1vkYsADvSPWvdJsuYT0ixdcu6lUtD9P/wJKGBEDlZVXh2AX42j1mPqqaQPDluWjara9ziQ7xqAeXCt5A==}
+  /electron-to-chromium@1.5.389:
+    resolution: {integrity: sha512-cEto7aeOqBfU1D+c5py5pE+ooscKE75JifxLBdFUZsqAxRS6y7kebtxAZvICszSl05gPjYHDTjY+lXpyGvpJbg==}
     dev: false
 
   /email-validator@2.0.4:
@@ -5731,6 +5722,18 @@ packages:
         optional: true
     dependencies:
       picomatch: 4.0.4
+    dev: false
+
+  /fdir@6.5.0(picomatch@4.0.5):
+    resolution: {integrity: sha512-tIbYtZbucOs0BRGqPJkshJUYdL+SDH7dVM8gjy+ERp3WAUjLEFJE+02kanyHtwjWOnwrKYBiwAmM0p4kLJAnXg==}
+    engines: {node: '>=12.0.0'}
+    peerDependencies:
+      picomatch: ^3 || ^4
+    peerDependenciesMeta:
+      picomatch:
+        optional: true
+    dependencies:
+      picomatch: 4.0.5
     dev: false
 
   /fetch-blob@3.2.0:
@@ -8612,12 +8615,12 @@ packages:
       boolbase: 1.0.0
     dev: false
 
-  /nuxt-booster@3.3.2(browserslist@4.28.4):
+  /nuxt-booster@3.3.2(browserslist@4.28.5):
     resolution: {integrity: sha512-D+oedYGsQRpTUoaBZlvvmBpTlaWQV2Oyxt4B/BuApculU/byGdPU3Rib096DhvJ4sXnw7JU3nmpvRrTnMYGXHw==}
     dependencies:
       '@nuxt/image': 2.0.0
       '@nuxtjs/fontaine': 0.5.0
-      browserslist-useragent-regexp: 4.1.3(browserslist@4.28.4)
+      browserslist-useragent-regexp: 4.1.3(browserslist@4.28.5)
       cheerio: 1.1.2
       defu: 6.1.4
       dom-serializer: 2.0.0
@@ -8705,7 +8708,7 @@ packages:
       - magicast
     dev: false
 
-  /nuxt@3.20.1(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(@vue/compiler-sfc@3.5.39)(vite@7.3.6):
+  /nuxt@3.20.1(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)(@vue/compiler-sfc@3.5.39)(vite@7.3.6):
     resolution: {integrity: sha512-1d0tBndWdC3DQ/8s6cZqD6jc7DmFG4hIswjK2sYfYNsPzVe3WiM+svuXd9ixUGe6E13StaepJLDubz2GLyU+XQ==}
     engines: {node: ^20.19.0 || >=22.12.0}
     hasBin: true
@@ -8753,9 +8756,9 @@ packages:
       ofetch: 1.5.1
       ohash: 2.0.11
       on-change: 6.0.1
-      oxc-minify: 0.96.0(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)
-      oxc-parser: 0.96.0(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)
-      oxc-transform: 0.96.0(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)
+      oxc-minify: 0.96.0(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)
+      oxc-parser: 0.96.0(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)
+      oxc-transform: 0.96.0(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)
       oxc-walker: 0.5.2(oxc-parser@0.96.0)
       pathe: 2.0.3
       perfect-debounce: 2.0.0
@@ -8937,7 +8940,7 @@ packages:
       is-wsl: 2.2.0
     dev: false
 
-  /oxc-minify@0.96.0(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1):
+  /oxc-minify@0.96.0(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2):
     resolution: {integrity: sha512-dXeeGrfPJJ4rMdw+NrqiCRtbzVX2ogq//R0Xns08zql2HjV3Zi2SBJ65saqfDaJzd2bcHqvGWH+M44EQCHPAcA==}
     engines: {node: ^20.19.0 || >=22.12.0}
     optionalDependencies:
@@ -8953,7 +8956,7 @@ packages:
       '@oxc-minify/binding-linux-s390x-gnu': 0.96.0
       '@oxc-minify/binding-linux-x64-gnu': 0.96.0
       '@oxc-minify/binding-linux-x64-musl': 0.96.0
-      '@oxc-minify/binding-wasm32-wasi': 0.96.0(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)
+      '@oxc-minify/binding-wasm32-wasi': 0.96.0(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)
       '@oxc-minify/binding-win32-arm64-msvc': 0.96.0
       '@oxc-minify/binding-win32-x64-msvc': 0.96.0
     transitivePeerDependencies:
@@ -8961,7 +8964,7 @@ packages:
       - '@emnapi/runtime'
     dev: false
 
-  /oxc-parser@0.96.0(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1):
+  /oxc-parser@0.96.0(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2):
     resolution: {integrity: sha512-ucs6niJ5mZlYP3oTl4AK2eD2m7WLoSaljswnSFVYWrXzme5PtM97S7Ve1Tjx+/TKjanmEZuSt1f1qYi6SZvntw==}
     engines: {node: ^20.19.0 || >=22.12.0}
     dependencies:
@@ -8979,7 +8982,7 @@ packages:
       '@oxc-parser/binding-linux-s390x-gnu': 0.96.0
       '@oxc-parser/binding-linux-x64-gnu': 0.96.0
       '@oxc-parser/binding-linux-x64-musl': 0.96.0
-      '@oxc-parser/binding-wasm32-wasi': 0.96.0(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)
+      '@oxc-parser/binding-wasm32-wasi': 0.96.0(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)
       '@oxc-parser/binding-win32-arm64-msvc': 0.96.0
       '@oxc-parser/binding-win32-x64-msvc': 0.96.0
     transitivePeerDependencies:
@@ -8987,7 +8990,7 @@ packages:
       - '@emnapi/runtime'
     dev: false
 
-  /oxc-transform@0.96.0(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1):
+  /oxc-transform@0.96.0(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2):
     resolution: {integrity: sha512-dQPNIF+gHpSkmC0+Vg9IktNyhcn28Y8R3eTLyzn52UNymkasLicl3sFAtz7oEVuFmCpgGjaUTKkwk+jW2cHpDQ==}
     engines: {node: ^20.19.0 || >=22.12.0}
     optionalDependencies:
@@ -9003,7 +9006,7 @@ packages:
       '@oxc-transform/binding-linux-s390x-gnu': 0.96.0
       '@oxc-transform/binding-linux-x64-gnu': 0.96.0
       '@oxc-transform/binding-linux-x64-musl': 0.96.0
-      '@oxc-transform/binding-wasm32-wasi': 0.96.0(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)
+      '@oxc-transform/binding-wasm32-wasi': 0.96.0(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)
       '@oxc-transform/binding-win32-arm64-msvc': 0.96.0
       '@oxc-transform/binding-win32-x64-msvc': 0.96.0
     transitivePeerDependencies:
@@ -9017,7 +9020,7 @@ packages:
       oxc-parser: '>=0.72.0'
     dependencies:
       magic-regexp: 0.10.0
-      oxc-parser: 0.96.0(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)
+      oxc-parser: 0.96.0(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)
     dev: false
 
   /package-json-from-dist@1.0.1:
@@ -9173,6 +9176,11 @@ packages:
 
   /picomatch@4.0.4:
     resolution: {integrity: sha512-QP88BAKvMam/3NxH6vj2o21R6MjxZUAd6nlwAS/pnGvN9IVLocLHxGYIzFhg6fUQ+5th6P4dv4eW9jX3DSIj7A==}
+    engines: {node: '>=12'}
+    dev: false
+
+  /picomatch@4.0.5:
+    resolution: {integrity: sha512-RvwwcruNjI1ncT5xRakeyS9Lf8lcItv34KD+aif+VH9kduAyfYBipGh12274xtenIPZ119/R9BdTBa8gAwSh0A==}
     engines: {node: '>=12'}
     dev: false
 
@@ -10760,8 +10768,8 @@ packages:
       pump: 3.0.4
       tar-stream: 3.2.0
     optionalDependencies:
-      bare-fs: 4.7.2
-      bare-path: 3.0.1
+      bare-fs: 4.7.4
+      bare-path: 3.1.0
     transitivePeerDependencies:
       - bare-abort-controller
       - bare-buffer
@@ -10798,7 +10806,7 @@ packages:
     requiresBuild: true
     dependencies:
       b4a: 1.8.1
-      bare-fs: 4.7.2
+      bare-fs: 4.7.4
       fast-fifo: 1.3.2
       streamx: 2.27.0
     transitivePeerDependencies:
@@ -11469,13 +11477,13 @@ packages:
       picocolors: 1.1.1
     dev: false
 
-  /update-browserslist-db@1.2.3(browserslist@4.28.4):
+  /update-browserslist-db@1.2.3(browserslist@4.28.5):
     resolution: {integrity: sha512-Js0m9cx+qOgDxo0eMiFGEueWztz+d4+M3rGlmKPT+T4IS/jP4ylw3Nwpu6cpTTP8R1MAC1kF4VbdLt3ARf209w==}
     hasBin: true
     peerDependencies:
       browserslist: '>= 4.21.0'
     dependencies:
-      browserslist: 4.28.4
+      browserslist: 4.28.5
       escalade: 3.2.0
       picocolors: 1.1.1
     dev: false
@@ -11780,8 +11788,8 @@ packages:
         optional: true
     dependencies:
       esbuild: 0.28.1
-      fdir: 6.5.0(picomatch@4.0.4)
-      picomatch: 4.0.4
+      fdir: 6.5.0(picomatch@4.0.5)
+      picomatch: 4.0.5
       postcss: 8.5.16
       rollup: 4.62.2
       tinyglobby: 0.2.17
@@ -12098,7 +12106,7 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: false
 
-  github.com/webo-agency/www/6d02b387befc16d72f048fe16375798dddc41285(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(@vue/compiler-sfc@3.5.39)(browserslist@4.28.4)(markdown-it@14.3.0)(vite@7.3.6)(vue@3.5.39):
+  github.com/webo-agency/www/6d02b387befc16d72f048fe16375798dddc41285(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)(@vue/compiler-sfc@3.5.39)(browserslist@4.28.5)(markdown-it@14.3.0)(vite@7.3.6)(vue@3.5.39):
     resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/6d02b387befc16d72f048fe16375798dddc41285}
     id: github.com/webo-agency/www/6d02b387befc16d72f048fe16375798dddc41285
     name: '@webo-agency/theme'
@@ -12125,8 +12133,8 @@ packages:
       markdown-it-attrs: 4.5.0(markdown-it@14.3.0)
       markdown-it-ins: 3.0.1
       node-fetch: 3.3.2
-      nuxt: 3.20.1(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(@vue/compiler-sfc@3.5.39)(vite@7.3.6)
-      nuxt-booster: 3.3.2(browserslist@4.28.4)
+      nuxt: 3.20.1(@emnapi/core@1.11.2)(@emnapi/runtime@1.11.2)(@vue/compiler-sfc@3.5.39)(vite@7.3.6)
+      nuxt-booster: 3.3.2(browserslist@4.28.5)
       nuxt-gtag: 4.1.0
       nuxt-vitalizer: 0.10.0
       swiper: 8.4.7
