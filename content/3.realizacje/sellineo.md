@@ -21,7 +21,7 @@ hreflangs:
 
 ::page-section-md
 ---
-class: mb-10 tablet:mb-20 mt-[-100px]
+class: mb-10 tablet:mb-20 mt-0 lg:mt-[-100px]
 ---
 :::effect-appear-md
 ::::block-header-case-md
@@ -349,7 +349,23 @@ class: tablet:hidden mb-[60px]
 :::effect-appear-md
 ::::prose-figure{src="/img/content-images/case-sellineo-img7.webp"}
 ---
-class: mb-[60px] lg:mb-[100px]
+class: hidden lg:block mb-[60px] lg:mb-[100px]
+---
+::::
+:::
+
+:::effect-appear-md
+::::prose-figure{src="/img/content-images/case-sellineo-img7-mobile-1.webp"}
+---
+class: block lg:hidden mb-[20px] lg:mb-[100px]
+---
+::::
+:::
+
+:::effect-appear-md
+::::prose-figure{src="/img/content-images/case-sellineo-img7-mobile-2.webp"}
+---
+class: block lg:hidden mb-[60px] lg:mb-[100px]
 ---
 ::::
 :::
