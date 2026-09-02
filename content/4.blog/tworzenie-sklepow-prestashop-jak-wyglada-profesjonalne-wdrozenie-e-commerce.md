@@ -593,8 +593,9 @@ linktitle: Zobacz wszystkie wpisy
 ::::block-post-related
 ---
 relatedPostsLinks:
-    - co-wplywa-na-szybkosc-ladowania-strony-i-dlaczego-to-takie-wazne
-    - czym-jest-konwersja-w-sklepie-internetowym-i-co-na-nia-wplywa
+    - ux-w-e-commerce-jak-realnie-poprawic-doswiadczenie-uzytkownika-w-sklepie-online
+    - tworzenie-sklepow-woocommerce-jak-wyglada-profesjonalne-wdrozenie-sklepu-na-wordpressie
+    - najczestsze-bledy-ux-ktore-obnizaja-konwersje-w-sklepie-internetowym
 ---
 ::::
 :::

@@ -260,8 +260,9 @@ linktitle: Zobacz wszystkie wpisy
 ::::block-post-related
 ---
 relatedPostsLinks:
-    - co-wplywa-na-szybkosc-ladowania-strony-i-dlaczego-to-takie-wazne
-    - czym-jest-konwersja-w-sklepie-internetowym-i-co-na-nia-wplywa
+    - szablon-vs-dedykowany-projekt-strony-internetowej-dlaczego-dedykowany-projekt-wygrywa
+    - jak-zapewnic-wysoka-wydajnosc-strony-internetowej
+    - ile-kosztuje-stworzenie-strony-internetowej-od-zera
 ---
 ::::
 :::
