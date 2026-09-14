@@ -1,6 +1,6 @@
 ---
-introduction.title: 'GetSales - Projekt i wdrożenie odświeżonej strony www agencji wsparcia sprzedaży B2B'
-introduction.description: 'GetSales to jedyna w polsce agencja wsparcia sprzedaży B2B, pomagająca firmom na całej długości procesu pozyskiwania klienta. Naszym zadaniem było projektowanie ux/ui kluczowych stron oraz kodowanie projektu graficznego na istniejącej stronie klienta.'
+introduction.title: 'Redesign strony www agencji sprzedaży B2B GetSales - Webo'
+introduction.description: 'Zaprojektowaliśmy i wdrożyliśmy odświeżoną stronę www dla agencji GetSales. Zobacz case study'
 type:
     - Strony WWW
     - Projektowanie UX/UI
@@ -31,7 +31,7 @@ link: 'https://getsales.pl/'
 ---
 
 #title
-## GetSales - Projekt i wdrożenie odświeżonej strony www agencji wsparcia sprzedaży B2B.
+# GetSales - Redesign strony internetowej agencji wsparcia sprzedaży B2B
 
 #description
 **GetSales** to jedyna w polsce agencja wsparcia sprzedaży B2B, pomagająca firmom na całej długości procesu pozyskiwania klienta. Naszym zadaniem było **projektowanie ux/ui** kluczowych stron oraz **kodowanie projektu graficznego** na istniejącej stronie klienta.

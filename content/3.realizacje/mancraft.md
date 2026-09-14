@@ -1,6 +1,6 @@
 ---
-introduction.title: 'Mancraft Airsoft - Sklep internetowy B2B/B2C polskiego producenta akcesoriów ASG z wykorzystaniem Prestashop '
-introduction.description: 'Głównym zadaniem była migracja starego sklepu z Prestashop 1.6 do Prestashop 1.7, następnie odświeżenie warstwy wizualnej sklepu oraz wdrożenie nowych funkcjonalności i integracji.'
+introduction.title: 'Migracja i rozwój sklepu Prestashop dla marki ASG Mancraft - Webo'
+introduction.description: 'Migracja Prestashop 1.6→1.7, strefa B2B i program lojalnościowy dla Mancraft Airsoft. Poznaj szczegóły!'
 type:
     - E-commerce
     - UX/UI
@@ -32,7 +32,7 @@ maxWidth: 100%
 ---
 
 #title
-## Mancraft - Sklep internetowy B2C/B2B Prestashop dla polskiego producenta ASG premium
+# Mancraft – migracja i rozwój sklepu internetowego Prestashop dla marki ASG
 
 #description
 **Shop Mancraft** to sklep internetowy, umożliwiający sprzedaż zarówno detaliczną jak i hurtową dla pasjonatów specjalistycznego sprzętu ASG klasy premium. Naszym głównym zadaniem była **migracja sklepu Prestashop 1.6 do Prestashop 1.7**, odświeżenie warstwy wizualnej oraz **wdrożenie nowych funkcjonalności i integracji.**

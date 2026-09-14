@@ -1,6 +1,6 @@
 ---
-introduction.title: 'UX/UI Sklepu internetowego producenta szczoteczek sonicznych klasy premium'
-introduction.description: 'Oravio to to polski producent wysokiej jakości szczoteczek sonicznych. Naszym zadaniem było zaprojektowanie łatwego w obsłudze interfejsu, eksponującego najważniejsze cechy produktu.'
+introduction.title: 'Projekt UX/UI sklepu ze szczoteczkami sonicznymi Oravio - Webo'
+introduction.description: 'Minimalistyczny sklep internetowy dla producenta szczoteczek sonicznych Oravio. Zobacz projekt UX/UI'
 type:
     - E-commerce
     - UX/UI
@@ -30,7 +30,7 @@ link: '/'
 ---
 
 #title
-## UX/UI Sklepu internetowego producenta szczoteczek sonicznych klasy premium
+# Oravio - Minimalistyczny sklep internetowy dla producenta szczoteczek sonicznych premium
 
 #description
 **Oravio** to to polski producent wysokiej jakości szczoteczek sonicznych. Naszym zadaniem było zaprojektowanie **łatwego w obsłudze interfejsu**, eksponującego najważniejsze cechy produktu.

@@ -1,6 +1,6 @@
 ---
-introduction.title: 'Hirefast - Wdrożenie landing page produktu operacyjnego z branży HR'
-introduction.description: 'Hirefast to narzędzie wspierające firmy w zatrudnianiu pracowników i zarządzaniu procesem rekrutacji end-to-end. Naszym zadaniem było wdrożenie landing page, którego celem jest wsparcie procesu sprzedaży i skuteczne pozyskiwanie leadów.'
+introduction.title: 'Landing page WordPress dla narzędzia HR Hirefast - Webo'
+introduction.description: 'Landing page WordPress wspierający sprzedaż i leady dla narzędzia HR Hirefast. Sprawdź, jak go zbudowaliśmy!'
 type:
     - Strony WWW
     - Programowanie Wordpress
@@ -29,7 +29,7 @@ link: 'https://hirefast.pl/'
 ---
 
 #title
-## Hirefast - Wdrożenie landing page produktu operacyjnego z branży HR 
+# Hirefast - Landing page WordPress zwiększający liczbę leadów
 
 #description
 **Hirefast** to narzędzie wspierające firmy w zatrudnianiu pracowników i zarządzaniu procesem rekrutacji end-to-end. Naszym zadaniem było **wdrożenie landing page**, którego celem jest wsparcie procesu sprzedaży i **skuteczne pozyskiwanie leadów.**

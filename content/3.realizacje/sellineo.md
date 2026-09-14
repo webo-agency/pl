@@ -1,6 +1,6 @@
 ---
-introduction.title: 'Sellineo - Projekt UX/UI i wdrożenie sklepu internetowego polskiego producenta spieków kwarcowych.'
-introduction.description: 'Sellineo jest międzynarodowym producentem, z ponad 25-letnim doświadczeniem w wytwarzaniu wysokiej jakości płyt spieków kwarcowych, konglomeratów i kamieni naturalnych. Dla naszego klienta stworzyliśmy unikalny sklep internetowy WooCommerce, prezentujące kluczowe cechy i niepowtarzalność produktów.'
+introduction.title: 'Projekt sklepu WooCommerce dla producenta spieków kwarcowych Sellineo - Webo'
+introduction.description: '29 widoków UX/UI, migracja 2000+ produktów, sklep WooCommerce na rynek niemiecki. Poznaj case study Sellineo!'
 type:
     - Sklepy internetowe
     - Programowanie
@@ -33,7 +33,7 @@ maxWidth: 100%
 ---
 
 #title
-## Sellineo - Projekt i wdrożenie sklepu internetowego na rynek niemiecki, polskiego producenta spieków kwarcowych.
+# Sellineo - projekt i wdrożenie sklepu internetowego na rynek niemiecki - 29 widoków UX/UI i migracja 2000+ produktów
 
 #description
 **Sellineo** jest międzynarodowym producentem, z ponad 25-letnim doświadczeniem w wytwarzaniu wysokiej jakości płyt spieków kwarcowych, konglomeratów i kamieni naturalnych. Dla naszego klienta stworzyliśmy **unikalny sklep internetowy WooCommerce**, prezentujący kluczowe cechy i niepowtarzalny charakter produktów.

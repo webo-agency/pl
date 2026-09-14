@@ -1,6 +1,6 @@
 ---
-introduction.title: 'Mutiny Group - Strona internetowa agencji marketingowej wykonana w Wordpress Full Site Editing'
-introduction.description: 'Mutiny to agencja z Trójmiasta oferująca działania z zakresu: Marketingu i PR, Eventów, Scenografii, Foto / Video, Grafika i 3D oraz IT. Naszym zadaniem była kompleksowa realizacja od projektu UX/UI po wdrożenie z wykorzystaniem Wordpress FSE'
+introduction.title: 'Strona www agencji marketingowej Mutiny Group - Webo'
+introduction.description: 'Trójmiejska agencja Mutiny Group - zaprojektowaliśmy UX/UI i wdrożyliśmy trójjęzyczną stronę www w WordPress FSE. Zobacz case study'
 type:
     - Strony www
     - UX/UI
@@ -32,7 +32,7 @@ maxWidth: 100%
 ---
 
 #title
-## Mutiny Group - Strona internetowa agencji marketingowej wykonana w Wordpress Full Site Editing
+# Mutiny Group - Trójjęzyczna strona internetowa agencji marketingowej w WordPress Full Site Editing
 
 #description
 Mutiny Group to trzyjęzykowa, **kompleksowo zrealizowana strona www** -> od pełnego procesu projektowania UX/UI po **wdrożenie programistyczne**. Strona internetowa została zrealizowana w oparciu o system CMS Wordpress z wykorzystaniem **Wordpress Full Site Editing**, usprawniający proces wprowadzania zmian na stronie. . 
