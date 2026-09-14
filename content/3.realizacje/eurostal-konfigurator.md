@@ -1,5 +1,9 @@
 ---
-introduction.title: 'Konfigurator 3D garaży blaszanych Eurostal - Webo'
+meta:
+    title: Konfigurator 3D garaży blaszanych Eurostal - Webo
+    description: Jak skrócić proces sprzedaży garaży blaszanych? Poznaj konfigurator 3D Eurostal zbudowany na WooCommerce i ThreeJS
+
+introduction.title: 'Eurostal - Dynamiczny konfigurator 3D garaży blaszanych'
 introduction.description: 'Jak skrócić proces sprzedaży garaży blaszanych? Poznaj konfigurator 3D Eurostal zbudowany na WooCommerce i ThreeJS'
 type:
     - Aplikacja internetowa

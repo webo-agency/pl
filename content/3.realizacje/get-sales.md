@@ -1,5 +1,10 @@
 ---
-introduction.title: 'Redesign strony www agencji sprzedaży B2B GetSales - Webo'
+
+meta:
+    title: Redesign strony www agencji sprzedaży B2B GetSales - Webo
+    description: Zaprojektowaliśmy i wdrożyliśmy odświeżoną stronę www dla agencji GetSales. Zobacz case study
+
+introduction.title: 'GetSales - Redesign strony internetowej agencji wsparcia sprzedaży B2B'
 introduction.description: 'Zaprojektowaliśmy i wdrożyliśmy odświeżoną stronę www dla agencji GetSales. Zobacz case study'
 type:
     - Strony WWW

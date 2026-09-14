@@ -1,5 +1,9 @@
 ---
-introduction.title: 'Landing page WordPress dla narzędzia HR Hirefast - Webo'
+meta:
+    title: Landing page WordPress dla narzędzia HR Hirefast - Webo
+    description: Landing page WordPress wspierający sprzedaż i leady dla narzędzia HR Hirefast. Sprawdź, jak go zbudowaliśmy!
+
+introduction.title: 'Hirefast - Landing page WordPress zwiększający liczbę leadów'
 introduction.description: 'Landing page WordPress wspierający sprzedaż i leady dla narzędzia HR Hirefast. Sprawdź, jak go zbudowaliśmy!'
 type:
     - Strony WWW

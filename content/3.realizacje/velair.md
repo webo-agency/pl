@@ -1,5 +1,9 @@
 ---
-introduction.title: 'Projekt sklepu WooCommerce producenta klimatyzatorów i osuszaczy Velair - Webo'
+meta:
+    title: Projekt sklepu WooCommerce producenta klimatyzatorów i osuszaczy Velair - Webo
+    description: Zaprojektowaliśmy i wdrożyliśmy butikowy sklep WooCommerce dla marki Velair. Sprawdź, jak wygląda cały proces
+
+introduction.title: 'Velair - Projekt butikowego sklepu WooCommerce producenta klimatyzatorów i osuszaczy'
 introduction.description: 'Zaprojektowaliśmy i wdrożyliśmy butikowy sklep WooCommerce dla marki Velair. Sprawdź, jak wygląda cały proces'
 type:
     - Sklepy internetowe

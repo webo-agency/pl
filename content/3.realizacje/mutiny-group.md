@@ -1,5 +1,9 @@
 ---
-introduction.title: 'Strona www agencji marketingowej Mutiny Group - Webo'
+meta:
+    title: Strona www agencji marketingowej Mutiny Group - Webo
+    description: Trójmiejska agencja Mutiny Group - zaprojektowaliśmy UX/UI i wdrożyliśmy trójjęzyczną stronę www w WordPress FSE. Zobacz case study
+
+introduction.title: 'Mutiny Group - Trójjęzyczna strona internetowa agencji marketingowej w WordPress Full Site Editing'
 introduction.description: 'Trójmiejska agencja Mutiny Group - zaprojektowaliśmy UX/UI i wdrożyliśmy trójjęzyczną stronę www w WordPress FSE. Zobacz case study'
 type:
     - Strony www

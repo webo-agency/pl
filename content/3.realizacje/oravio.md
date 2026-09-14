@@ -1,5 +1,9 @@
 ---
-introduction.title: 'Projekt UX/UI sklepu ze szczoteczkami sonicznymi Oravio - Webo'
+meta:
+    title: Projekt UX/UI sklepu ze szczoteczkami sonicznymi Oravio - Webo
+    description: Minimalistyczny sklep internetowy dla producenta szczoteczek sonicznych Oravio. Zobacz projekt UX/UI
+
+introduction.title: 'Oravio - Minimalistyczny sklep internetowy dla producenta szczoteczek sonicznych premium'
 introduction.description: 'Minimalistyczny sklep internetowy dla producenta szczoteczek sonicznych Oravio. Zobacz projekt UX/UI'
 type:
     - E-commerce

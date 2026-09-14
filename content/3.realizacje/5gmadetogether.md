@@ -1,5 +1,9 @@
 ---
-introduction.title: 'Strona internetowa headless 5g Made Together - Webo'
+meta:
+    title: Strona internetowa headless 5g Made Together - Webo
+    description: Od MVP w tydzień po pełną realizację headless. Sprawdź, jak powstała strona konferencji 5G Made Together.
+
+introduction.title: '5G Made Together - Strona headless konferencji technologicznej wdrożona w mniej niż 7 dni (MVP)'
 introduction.description: 'Od MVP w tydzień po pełną realizację headless. Sprawdź, jak powstała strona konferencji 5G Made Together.'
 type:
     - UX/UI
