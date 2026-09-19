@@ -73,9 +73,9 @@ class: mx-blog mb-10 mt-10 [&_li]:before:!bg-black [&_li]:!mb-2  [&_ul]:!mb-8
 ## Co to jest UX i dlaczego jest ważne w projektowaniu stron?
 
 :::::prose-p3
-**UX, czyli User Experience**, to całość doświadczeń użytkownika podczas korzystania ze strony internetowej. Dobry UX polega na maksymalnym ułatwieniu użytkownikowi korzystania ze strony - odpowiednim rozmieszczeniu elementów, uporządkowaniu informacji i prowadzeniu go przez kolejne etapy w taki sposób, aby zawsze wiedział, gdzie się znajduje i co powinien zrobić dalej. To usuwanie zbędnych barier na drodze do konwersji, tak aby znalezienie informacji, kontakt z firmą czy dokonanie zakupu produktu przebiegały naturalnie, bez frustracji  i niepotrzebnego zastanawiania się nad kolejnym krokiem.
+**UX, czyli User Experience**, to całość doświadczeń użytkownika podczas korzystania ze strony internetowej. Dobry UX polega na maksymalnym ułatwieniu użytkownikowi korzystania ze strony - odpowiednim rozmieszczeniu elementów, uporządkowaniu informacji i prowadzeniu go przez kolejne etapy w taki sposób, aby zawsze wiedział, gdzie się znajduje i co powinien zrobić dalej. To usuwanie zbędnych barier na drodze do konwersji, tak aby znalezienie informacji, kontakt z firmą czy dokonanie zakupu produktu przebiegały naturalnie, bez frustracji i niepotrzebnego zastanawiania się nad kolejnym krokiem.
 
-Warto pamiętać, że użytkownicy mają dziś wysokie oczekiwania wobec stron internetowych i niewielką tolerancję na problemy z ich obsługą. Jeśli witryna jest nieczytelna, utrudnia dotarcie do ważnych informacji lub wymaga zbyt dużego zaangażowania, potencjalny klient może ją opuścić i wybrać ofertę konkurencji.  Dlatego inwestowanie w UX to nie tylko poprawa wyglądu strony, to przede wszystkim zwiększenie wygody korzystania, skuteczne przedstawienie oferty, budowanie zaufania, eksponowanie najważniejszych informacji i prowadzenie użytkownika  w kierunku działań, które zwiększają skuteczność sprzedaży.
+Warto pamiętać, że użytkownicy mają dziś wysokie oczekiwania wobec stron internetowych i niewielką tolerancję na problemy z ich obsługą. Jeśli witryna jest nieczytelna, utrudnia dotarcie do ważnych informacji lub wymaga zbyt dużego zaangażowania, potencjalny klient może ją opuścić i wybrać ofertę konkurencji.  Dlatego inwestowanie w UX to nie tylko poprawa wyglądu strony, to przede wszystkim zwiększenie wygody korzystania, skuteczne przedstawienie oferty, budowanie zaufania, eksponowanie najważniejszych informacji i prowadzenie użytkownika w kierunku działań, które zwiększają skuteczność sprzedaży.
 :::::
 ::::
 
@@ -131,7 +131,7 @@ Projektowanie UX w e-commerce powinno ułatwiać klientowi przejście przez cał
 - **Responsywność i mobile UX** - zakupy na smartfonie wymagają odpowiedniego zaprojektowania menu, list produktów, filtrów, formularzy czy przycisków CTA. Nie wystarczy jedynie zmniejszyć desktopową wersję sklepu - proces zakupowy powinien być wygodny szczególnie na urzadzeniach mobilnych.
 - **Elementy budujące zaufanie** - informacje o dostawie i płatności, gwarancji i zwrotach produktów, opinie klientów czy dane kontaktowe powinny być dostępne w odpowiednich momentach procesu zakupowego. Pomagają klientowi ocenić wiarygodność sklepu, zaufać i podjąć decyzję o zakupie.
 - **Szybkość ładowania** - Użytkownicy oczekują, że strona załaduje się w ciągu kilku sekund. Wolne ładowanie stron kategorii, produktów i kolejnych etapów zamówienia może prowadzić do utraty potencjalnych klientów i spadku sprzedaży.
-- **Personalizacja doświadczenia** - rekomendacje produktów, ostatnio oglądane produkty czy treści dopasowane do zachowania użytkownika mogą ułatwiać przeglądanie oferty, a jednocześnie wspierać zwiększać wartość koszyka  i sprzedaży.
+- **Personalizacja doświadczenia** - rekomendacje produktów, ostatnio oglądane produkty czy treści dopasowane do zachowania użytkownika mogą ułatwiać przeglądanie oferty, a jednocześnie wspierać zwiększać wartość koszyka i sprzedaży.
 
 ::::
 
@@ -152,7 +152,7 @@ class: bg-green-gray !p-10 !pb-8 !items-start [&_p]:!m-0 [&_.description]:!m-0 [
 Jeśli chcesz, aby Twój sklep sprzedawał skuteczniej, postaw na profesjonalne projektowanie UX/UI. 
 
 #description
-Specjalizujemy się w tworzeniu intuicyjnych, konwertujących interfejsów e-commerce,  które łączą funkcjonalność z estetyką i realnie wpływają na wyniki sprzedaży.
+Specjalizujemy się w tworzeniu intuicyjnych, konwertujących interfejsów e-commerce, które łączą funkcjonalność z estetyką i realnie wpływają na wyniki sprzedaży.
 :::::
 ::::
 
@@ -242,7 +242,7 @@ Optymalizacja UX nie powinna opierać się na przypuszczeniach. Po uruchomieniu 
 
 - **1. Analizuj zachowania użytkowników** - sprawdzaj, jak poruszają się po stronie, które treści angażują ich najbardziej, gdzie kończą wizytę i w jakich miejscach rezygnują z wykonania kolejnego kroku.<br>
 
-- **2. Szukaj przyczyn, a nie tylko problemów** - sama informacja o niskiej konwersji formularza czy dużej liczbie wyjść  z podstrony nie mówi jeszcze, co należy zmienić. Dane warto zestawiać z nagraniami sesji, mapami cieplnymi czy informacjami od klientów, aby lepiej zrozumieć zachowanie użytkowników. <br>
+- **2. Szukaj przyczyn, a nie tylko problemów** - sama informacja o niskiej konwersji formularza czy dużej liczbie wyjść z podstrony nie mówi jeszcze, co należy zmienić. Dane warto zestawiać z nagraniami sesji, mapami cieplnymi czy informacjami od klientów, aby lepiej zrozumieć zachowanie użytkowników. <br>
 
 - **3. Zbieraj opinie użytkowników** - dane analityczne nie zawsze powiedzą, dlaczego użytkownik zrezygnował z zakupu, nie wysłał formularza lub miał problem ze zrozumieniem oferty. Rozmowy z klientami, ankiety czy informacje zbierane przez dział sprzedaży pozwalają lepiej poznać ich potrzeby, pytania i wątpliwości, a następnie wykorzystać tę wiedzę do ulepszania strony.
 
@@ -297,7 +297,7 @@ class: bg-green-gray !p-10 !pb-8 !items-start [&_p]:!m-0 [&_.description]:!m-0 [
 Chcesz zaprojektować stronę, która skutecznie wspiera sprzedaż?
 
 #description
-Skorzystaj z bezpłatnej konsultacji i połącz potrzeby użytkowników z celami biznesowymi  w oparciu o przemyślaną strategię. Stwórz stronę, która zamienia ruch w realne zapytania  i sprzedaż.
+Skorzystaj z bezpłatnej konsultacji i połącz potrzeby użytkowników z celami biznesowymi w oparciu o przemyślaną strategię. Stwórz stronę, która zamienia ruch w realne zapytania i sprzedaż.
 :::::
 ::::
 
