@@ -3,7 +3,8 @@ introduction.title: 'Ile kosztuje stworzenie strony internetowej od zera?'
 introduction.titleFormatted: 'Ile kosztuje stworzenie strony internetowej od zera?'
 introduction.description: 'Stworzenie strony internetowej od podstaw to jeden z najważniejszych etapów budowania obecności marki w sieci.'
 category:
-    - Technologia
+    - UX/UI Design
+    - Strony www
 image.url: '/img/blog-images/blog_webo_elementy_ile_kosztuje.webp'
 author: Maciej Z.
 authorAvatar: /img/content-images/avatar-maciej.webp

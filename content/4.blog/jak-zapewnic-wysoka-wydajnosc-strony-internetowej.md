@@ -4,6 +4,9 @@ introduction.titleFormatted: 'Jak zapewnić wysoką wydajność strony interneto
 introduction.description: 'W dzisiejszym cyfrowym świecie, gdzie każda sekunda się liczy, wysoka wydajność strony internetowej jest kluczowa zarówno dla użytkowników, jak i dla pozycjonowania w wyszukiwarkach.'
 category:
     - Technologia
+    - Strony www
+    - Headless
+    - Wordpress
 image.url: '/img/blog-images/wysok_wydajno_strony_internetowej.webp'
 author: Kamil Mędrala
 authorAvatar: /img/content-images/avatar-img.png

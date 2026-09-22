@@ -4,6 +4,9 @@ introduction.titleFormatted: 'Headless WordPress vs klasyczny WordPress - co wyb
 introduction.description: 'Wybór odpowiedniej platformy dla Twojej strony może mieć kluczowe znaczenie. Dwie popularne opcje to klasyczny WordPress oraz jego nowoczesna odmiana - Headless WordPress.'
 category:
     - Technologia
+    - Strony www
+    - Headless
+    - Wordpress
 image.url: '/img/blog-images/Headless_Wordpress_vs_klasyczny_Wordpress.webp'
 author: Kamil Mędrala
 authorAvatar: /img/content-images/avatar-img.png

@@ -52,7 +52,11 @@ allText: Wszystkie
 contentFolder: blog
 filters:
     - Technologia
-    - Design
+    - UX/UI Design
+    - Sklepy internetowe
+    - Strony www
+    - Wordpress
+    - Headless
 ---
 
 #filtersText

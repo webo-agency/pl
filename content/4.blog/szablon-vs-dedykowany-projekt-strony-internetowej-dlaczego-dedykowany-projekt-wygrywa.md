@@ -4,7 +4,7 @@ introduction.titleFormatted: 'Szablon vs dedykowany projekt strony internetowej 
 introduction.description: 'Strona internetowa to nie koszt, ale narzędzie sprzedażowe, które powinno wspierać rozwój firmy przez wiele lat. Dlatego wybór pomiędzy gotowym szablonem a dedykowanym projektem strony internetowej ma znacznie większe znaczenie, niż może się wydawać na początku'
 category:
     - UX/UI Design
-    - Strony internetowe
+    - Strony www
 image.url: '/img/blog-images/dedykowany_projekt_strony_internetowej.webp'
 author: Maciej Zawadzki
 authorRole: CEO / UX&UI Designer

@@ -5,7 +5,6 @@ introduction.description: 'Skuteczna strona internetowa może być jednym z najw
 category:
     - UX/UI Design
     - Strony www    
-    - Strony internetowe
 image.url: '/img/blog-images/jak_zaprojektowac_strone_internetowa.webp'
 author: Maciej Zawadzki
 authorRole: CEO / UX&UI Designer

@@ -3,7 +3,9 @@ introduction.title: 'Elementy strony głównej, które zwiększają konwersję -
 introduction.titleFormatted: 'Elementy strony głównej, które zwiększają konwersję - praktyczny poradnik'
 introduction.description: 'Stworzenie efektywnej strony głównej to kluczowy krok w procesie zwiększania konwersji na Twojej stronie internetowej.'
 category:
-    - Technologia
+    - UX/UI Design
+    - Sklepy internetowe
+    - Strony www
 image.url: '/img/blog-images/blog_webo_elementy_strony_glownej.webp'
 author: Maciej Z.
 authorAvatar: /img/content-images/avatar-maciej.webp
