@@ -335,7 +335,8 @@ class: bg-green-gray !p-10 !pb-8 !items-start [&_p]:!m-0 [&_.description]:!m-0 [
 Wsparcie Webo w procesie tworzenia sklepu internetowego
 
 #description
-Webo specjalizuje się zarówno w tworzeniu sklepów na popularnych platformach (WooCommerce, PrestaShop), jak i w budowie dedykowanych rozwiązań e-commerce szytych na miarę.
+Projektujemy i wdrażamy dedykowane sklepy WooCommerce i PrestaShop, dopasowane do potrzeb biznesu oraz przygotowane do dalszego rozwoju. Skorzystaj z bezpłatnej konsultacji i porozmawiajmy o Twoim projekcie.
+
 :::::
 ::::
 
