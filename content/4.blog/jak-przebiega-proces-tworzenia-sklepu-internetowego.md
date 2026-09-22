@@ -228,7 +228,7 @@ class: bg-green-gray !p-10 !pb-8 !items-start [&_p]:!m-0 [&_.description]:!m-0 [
 #title
 
 #description
-**Potrzebujesz sklepu zaprojektowanego z myślą o użytkownikach i realizacji celów sprzedażowych? Sprawdź naszą ofertę na Projektowanie UX/UI.** *<u><a href="/projektowanie-ux-ui/">Projektowanie UX/UI.</a></u>*
+**Potrzebujesz sklepu zaprojektowanego z myślą o użytkownikach i realizacji celów sprzedażowych? Sprawdź naszą ofertę na Projektowanie UX/UI.** *<u><a href="/uslugi/projektowanie-ux-ui/">Projektowanie UX/UI.</a></u>*
 
 :::::
 ::::
