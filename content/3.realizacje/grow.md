@@ -15,8 +15,8 @@ tile_hidden: false
 public: true
 tile_order: 1
 hreflangs:
-    EN: '/case-studies/hirefast/'
-    PL: '/realizacje/hirefast/'
+    EN: '/case-studies/grow/'
+    PL: '/realizacje/grow/'
 ---
 
 
@@ -28,8 +28,8 @@ class: mb-10 tablet:mb-20 mt-[100px] tablet:mt-[200px]
 ::::block-header-case-md
 ---
 class: mx-default
-logoUrl: '/img/logos/hirefast-black.svg'
-link: 'https://hirefast.pl/'
+logoUrl: '/img/logos/grow_logo2.svg'
+link: 'https://agencjagrow.pl/'
 ---
 
 #title
