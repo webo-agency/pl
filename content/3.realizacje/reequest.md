@@ -1,16 +1,16 @@
 ---
 meta:
-    title: Reequest - Wdrożenie strony internetowej agencji brandingowej w Nuxt Studio z wizualną edycją treści
-    description: Reequest - Wdrożenie strony internetowej agencji brandingowej w Nuxt Studio z wizualną edycją treści
+    title: Szybka strona www agencji brandingowej Reequest dostarczona w krótkim terminie - Webo
+    description: Wdrożyliśmy stronę Reequest na podstawie projektu UX/UI klienta. Lekki serwis z wizualną edycją treści w Nuxt Studio. Zobacz case study.
 
 introduction.title: 'Reequest - Wdrożenie strony internetowej agencji brandingowej w Nuxt Studio z wizualną edycją treści'
-introduction.description: 'Reequest - Wdrożenie strony internetowej agencji brandingowej w Nuxt Studio z wizualną edycją treści'
+introduction.description: 'Wdrożyliśmy stronę Reequest na podstawie projektu UX/UI klienta. Lekki serwis z wizualną edycją treści w Nuxt Studio. Zobacz case study.'
 type:
     - Strony WWW
-    - Programowanie Wordpress
+    - Programowanie
 technologies:
-image.url: '/img/content-images/case_grow_tile.webp'
-logo.url: '/img/logos/grow_logo_tile.svg'
+image.url: '/img/content-images/case_reequest_tile.webp'
+logo.url: '/img/logos/reequest_logo_tile.svg'
 tile_hidden: false
 public: true
 tile_order: 1
@@ -28,7 +28,7 @@ class: mb-10 tablet:mb-20 mt-[100px] tablet:mt-[200px]
 ::::block-header-case-md
 ---
 class: mx-default
-logoUrl: '/img/logos/grow_logo2.svg'
+logoUrl: '/img/logos/reequest_logo_baner.svg'
 link: 'https://www.reequest.pl/'
 ---
 
@@ -256,6 +256,7 @@ src: '/img/content-images/reequest_scroll_content.webp'
 alt: 'Strona główna agencji Grow po redesignie'
 speedDown: 17
 speedUp: 2
+variant: g
 ---
 ::::
 :::
@@ -317,7 +318,7 @@ class: mx-default
 
 ::::prose-figure{src="/img/content-images/case_reequest_img5.webp"}
 ---
-class: hidden tablet:block mb-[60px] [&_img]:h-[115px] [&_img]:w-auto
+class: hidden tablet:block mb-[60px] tablet:mb-[100px] [&_img]:h-[115px] [&_img]:w-auto
 ---
 ::::
 
@@ -395,9 +396,9 @@ class: mx-default max-w-[934px] tablet:[&_h4]:!mb-6 tablet:[&_.p3_p:not(:last-ch
 ### **Rezultat pracy**
 
 ::::prose-p3
-Na podstawie projektu UX/UI dostarczonego przez Reequest wdrożyliśmy lekką, szybko ładującą się stronę internetową, przygotowaną do wspierania działań sprzedażowych agencji. Przed publikacją dopracowaliśmy wdrożone widoki i funkcjonalności, a klient zweryfikował ich zgodność z projektem. Po uruchomieniu strony przetestowaliśmy jej działanie w różnych przeglądarkach oraz na urządzeniach z iOS i Androidem. Podłączyliśmy również integracje analityczne i narzędzia wspierające kontakt z klientami, w tym Chatbot i kalendarz spotkań.
+Na podstawie projektu UX/UI dostarczonego przez Reequest wdrożyliśmy **lekką, szybko ładującą się stronę internetową**, przygotowaną do wspierania działań sprzedażowych agencji. Przed publikacją dopracowaliśmy wdrożone widoki i funkcjonalności, a klient zweryfikował ich zgodność z projektem. Po uruchomieniu strony przetestowaliśmy jej działanie w różnych przeglądarkach oraz na urządzeniach z iOS i Androidem. Podłączyliśmy również integracje analityczne i narzędzia wspierające kontakt z klientami, w tym Chatbot i kalendarz spotkań.
 
-Po przeszkoleniu zespołu, Reequest może samodzielnie rozwijać serwis w module Nuxt Studio: aktualizować treści, korzystać z przygotowanych komponentów i tworzyć kolejne podstrony bez angażowania programisty przy każdej zmianie. Wdrożenie przeprowadziliśmy w krótkim terminie, dzięki czemu nowa strona była gotowa przed zbliżającymi się targami.
+Po przeszkoleniu zespołu, **Reequest może samodzielnie rozwijać serwis** w module Nuxt Studio: aktualizować treści, korzystać z przygotowanych komponentów i tworzyć kolejne podstrony **bez angażowania programisty** przy każdej zmianie. **Wdrożenie przeprowadziliśmy w krótkim terminie**, dzięki czemu nowa strona była gotowa przed zbliżającymi się targami.
 ::::
 :::
 ::
