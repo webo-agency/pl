@@ -256,7 +256,7 @@ src: '/img/content-images/reequest_scroll_content.webp'
 alt: 'Strona główna agencji Grow po redesignie'
 speedDown: 17
 speedUp: 2
-variant: g
+variant: gray
 ---
 ::::
 :::
