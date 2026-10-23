@@ -1,6 +1,6 @@
 ---
 meta:
-  title: Tworzenie sklepów internetowych - profesjonalne rozwiązania e-commerce - Webo.pl
+  title: 'Tworzenie sklepów internetowych na zamówienie | Webo'
   description: Tworzymy profesjonalne sklepy internetowe - responsywne, szybkie i bezpieczne. Rozpocznij sprzedaż online!
 draft: false
 public: true
@@ -11,9 +11,10 @@ schemaOrg:
   "@type": "Service"
   serviceType: "Projektowanie i wdrażanie e-commerce"
   provider:
-    "@type": "Organization"
+    "@type": "LocalBusiness"
+    "@id": "https://webo.pl/#organization"
     name: "Webo"
-    url: "https://webo.pl"
+    url: "https://webo.pl/"
   areaServed:
     "@type": "Country"
     "name": "Poland"
@@ -21,7 +22,6 @@ schemaOrg:
   category: "Sklepy internetowe"
   offers:
     "@type": "Offer"
-    availability: "https://schema.org/InStock"
     description: "Tworzenie sklepów internetowych"
   mainEntityOfPage:
     "@type": "WebPage"
@@ -740,7 +740,7 @@ class: mb-10 tablet:mb-16 tablet:mt-10
 ::::::
 
 #title
-## Wsparcie techniczne i rozwójczyli co jeszcze musisz wiedzieć?
+## Wsparcie techniczne i rozwój czyli co jeszcze musisz wiedzieć?
 
 #description
 ::::::prose-p-3
@@ -978,7 +978,7 @@ class: mb-10 tablet:mb-20
 ### *9/* Nasze ostatnie realizacje
 
 #title
-## Jasteśmy dumni <br> z *wykonanych projektów*
+## Jesteśmy dumni <br> z *wykonanych projektów*
 
 ::::
 :::

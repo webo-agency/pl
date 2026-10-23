@@ -1,4 +1,6 @@
 ---
+meta:
+    title: 'Błędy UX, które obniżają konwersję w sklepie internetowym'
 introduction.title: 'Najczęstsze błędy UX, które obniżają konwersję w sklepie internetowym'
 introduction.titleFormatted: 'Najczęstsze błędy UX, które obniżają konwersję w sklepie internetowym'
 introduction.description: 'Użytkownicy robią dziś zakupy online szybko i bez cierpliwości do niedziałających lub nie intuicyjnych sklepów. '

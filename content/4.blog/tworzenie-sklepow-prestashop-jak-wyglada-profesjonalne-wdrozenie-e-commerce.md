@@ -1,4 +1,7 @@
 ---
+meta:
+    title: 'Wdrożenie sklepu PrestaShop: etapy, koszt i czas realizacji'
+    description: 'Jak wygląda wdrożenie sklepu PrestaShop krok po kroku, ile kosztuje i ile trwa? Pokazujemy proces na przykładach naszych realizacji.'
 introduction.title: 'Tworzenie sklepów PrestaShop – jak wygląda profesjonalne wdrożenie e-commerce?'
 introduction.titleFormatted: 'Tworzenie sklepów PrestaShop – jak wygląda profesjonalne wdrożenie e-commerce?'
 introduction.description: 'Nowoczesny e-commerce musi być szybki, intuicyjny, dobrze widoczny w Google i gotowy do skalowania wraz z rozwojem biznesu.'
@@ -13,7 +16,7 @@ authorAvatar: /img/content-images/avatar-maciej.webp
 authorUrl: https://linkedin.com/in/maciej-zawadzki-ba3194138
 updatedAt: 2026-07-02
 hreflangs:
-    EN: '/blog/creating-prestashop-stores-what-a-professional-e-commerce-implementation-looks-like'
+    EN: '/blog/creating-prestashop-stores-what-a-professional-e-commerce-implementation-looks-like/'
     PL: '/blog/tworzenie-sklepow-prestashop-jak-wyglada-profesjonalne-wdrozenie-e-commerce/'
 public: true
 draft: false
@@ -621,7 +624,7 @@ class: text-center [&_p]:!max-w-[580px] [&_.description]:flex [&_.description]:j
 ---
 
 #title
-#### Szukasz solidnego *zespołu WooCommerce?*
+#### Szukasz solidnego *zespołu do stworzenia sklepu PrestaShop*
 
 #description
 Umów się na bezpłatną konsultację i opowiedz nam więcej o swoim projekcie

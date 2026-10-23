@@ -1,12 +1,31 @@
 ---
 meta:
-  title: Programowanie WordPress - pełna kontrola nad Twoją stroną
-  description: Programowanie WordPress - pełna kontrola nad Twoją stroną
+  title: 'Programowanie WordPress - pełna kontrola nad stroną | Webo'
+  description: 'Programowanie WordPress na zamówienie: moduły, integracje z API, CRM i ERP, konfiguratory i automatyzacje. Zapytaj o wycenę.'
 draft: false
 public: true
 hreflangs:
     EN: '/services/wordpress-development/'
     PL: '/uslugi/programowanie-wordpress/'
+schemaOrg:
+  "@type": "Service"
+  serviceType: "Programowanie WordPress"
+  provider:
+    "@type": "LocalBusiness"
+    "@id": "https://webo.pl/#organization"
+    name: "Webo"
+    url: "https://webo.pl/"
+  areaServed:
+    "@type": "Country"
+    "name": "Poland"
+  description: "Programujemy dedykowane moduły, integracje z API, CRM i ERP, konfiguratory oraz automatyzacje w WordPress, a także optymalizujemy kod i wydajność stron."
+  category: "WordPress"
+  offers:
+    "@type": "Offer"
+    description: "Programowanie WordPress na zamówienie"
+  mainEntityOfPage:
+    "@type": "WebPage"
+    "@id": "https://webo.pl/uslugi/programowanie-wordpress/"
 ---
 
 
@@ -647,7 +666,7 @@ class: mb-10 tablet:mb-20
 ### *9/* Nasze ostatnie realizacje
 
 #title
-## Jasteśmy dumni <br> z *wykonanych projektów*
+## Jesteśmy dumni <br> z *wykonanych projektów*
 
 ::::
 :::

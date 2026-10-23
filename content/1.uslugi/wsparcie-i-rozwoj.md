@@ -1,12 +1,31 @@
 ---
 meta:
-    title: Wsparcie i rozwój e-commerce - pomoc dla sklepów internetowych - Webo.pl
+    title: 'Wsparcie i rozwój sklepów internetowych | Webo'
     description: Techniczne wsparcie e-commerce, optymalizacja i rozwój. Skorzystaj z naszej wiedzy i zwiększ sprzedaż!
 draft: false
 public: true
 hreflangs:
     EN: '/services/support-and-development/'
     PL: '/uslugi/wsparcie-i-rozwoj/'
+schemaOrg:
+  "@type": "Service"
+  serviceType: "Wsparcie techniczne i rozwój sklepów internetowych"
+  provider:
+    "@type": "LocalBusiness"
+    "@id": "https://webo.pl/#organization"
+    name: "Webo"
+    url: "https://webo.pl/"
+  areaServed:
+    "@type": "Country"
+    "name": "Poland"
+  description: "Techniczne wsparcie sklepów internetowych, optymalizacja wydajności i rozwój o nowe funkcjonalności."
+  category: "E-commerce"
+  offers:
+    "@type": "Offer"
+    description: "Wsparcie i rozwój sklepów internetowych"
+  mainEntityOfPage:
+    "@type": "WebPage"
+    "@id": "https://webo.pl/uslugi/wsparcie-i-rozwoj/"
 ---
 
 

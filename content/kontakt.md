@@ -4,7 +4,7 @@ hreflangs:
     PL: '/kontakt/'
 
 meta:
-    title: Kontakt
+    title: 'Kontakt - Webo, strony i sklepy internetowe'
     description: 'Skontaktuj się z nami. Masz pytania o stronę www lub sklep internetowy? Chętnie pomożemy i dobierzemy najlepsze rozwiązania dla Twojej firmy. Napisz do nas!'   
 image:
     url: '/img/featured_image.webp'           
@@ -167,7 +167,7 @@ maxWidth: 610
 ---
 
 #subtitle
-### *-/* Kontakt
+# *-/* Kontakt
 
 #title
 ## Realizacja celów wymaga pierwszego kroku!

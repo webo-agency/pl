@@ -1,7 +1,7 @@
 ---
 meta:
-  title: Wsparcie techniczne WordPresss - pomoc i obsługa -  Webo.pl
-  description: Pomagamy w aktualizacjach, kopiach zapasowych i błędach. Skorzystaj ze wsparcia WordPress - szybko i bezpiecznie!
+  title: 'Pomoc techniczna WordPress - stała opieka i wsparcie | Webo'
+  description: 'Aktualizacje, kopie zapasowe, usuwanie wirusów i naprawa błędów - zapytaj o wycenę.'
 draft: false
 public: true
 hreflangs:
@@ -11,9 +11,10 @@ schemaOrg:
   "@type": "Service"
   serviceType: "Obsługa i rozwój stron WordPress"
   provider:
-    "@type": "Organization"
+    "@type": "LocalBusiness"
+    "@id": "https://webo.pl/#organization"
     name: "Webo"
-    url: "https://webo.pl"
+    url: "https://webo.pl/"
   areaServed:
     "@type": "Country"
     "name": "Poland"
@@ -21,7 +22,6 @@ schemaOrg:
   category: "Wsparcie WordPress"
   offers:
     "@type": "Offer"
-    availability: "https://schema.org/InStock"
     description: "Wsparcie WordPress"
   mainEntityOfPage:
     "@type": "WebPage"
@@ -804,7 +804,7 @@ class: mb-10 tablet:mb-20
 ### *6/* Nasze ostatnie realizacje
 
 #title
-## Jasteśmy dumni <br> z *wykonanych projektów*
+## Jesteśmy dumni <br> z *wykonanych projektów*
 
 ::::
 :::

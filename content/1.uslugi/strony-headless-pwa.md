@@ -1,6 +1,6 @@
 ---
 meta:
-    title: Headless CMS WordPress -  Webo.pl
+    title: 'Headless WordPress - strony i aplikacje Headless | Webo'
     description: Headless CMS - maksymalna wydajność i elastyczność. Postaw na nowoczesne rozwiązania - sprawdź naszą ofertę!
 draft: false
 public: true
@@ -11,9 +11,10 @@ schemaOrg:
   "@type": "Service"
   serviceType: "Projektowanie i wdrażanie stron Headless PWA"
   provider:
-    "@type": "Organization"
+    "@type": "LocalBusiness"
+    "@id": "https://webo.pl/#organization"
     name: "Webo"
-    url: "https://webo.pl"
+    url: "https://webo.pl/"
   areaServed:
     "@type": "Country"
     "name": "Poland"
@@ -21,7 +22,6 @@ schemaOrg:
   category: "Usługi Headless PWA"
   offers:
     "@type": "Offer"
-    availability: "https://schema.org/InStock"
     description: "Tworzenie stron Headless PWA"
   mainEntityOfPage:
     "@type": "WebPage"

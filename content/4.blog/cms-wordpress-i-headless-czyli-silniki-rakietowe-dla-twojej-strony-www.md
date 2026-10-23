@@ -1,4 +1,6 @@
 ---
+meta:
+    title: 'WordPress headless - na czym polega i kiedy się opłaca?'
 introduction.title: 'CMS Wordpress + Headless czyli silniki rakietowe dla Twojej strony www'
 introduction.titleFormatted: 'CMS Wordpress + Headless czyli silniki rakietowe dla <em>Twojej strony www</em>'
 introduction.description: 'Strony internetowe wykonane w architekturze Headless polegają na oddzieleniu interfejsu użytkownika (frontendu) od funkcji administracyjnych i zasobów wewnętrznych (backend).'

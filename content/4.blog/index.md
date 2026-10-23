@@ -5,7 +5,7 @@ hreflangs:
 sitemap:
     changefreq: daily
 meta:
-    title: Blog
+    title: 'Blog o stronach www, e-commerce i UX | Webo'
     description: 'Blog o stronach www, technologiach i UX. Sprawdź porady, trendy oraz praktyczne wskazówki, które pomogą rozwinąć Twój biznes online. Czytaj więcej!'    
 ---
 
@@ -18,12 +18,15 @@ class: my-16 tablet:my-[100px]
 #left
 ::::effect-appear-md
 :::::block-header-md
+---
+class: ml-0 [&_h1]:!text-2xl tablet:[&_h1]:!text-3xl desktop:[&_h1]:!text-4xl [&_h1]:!pb-0
+---
 
 #subtitle
 *-/* Blog
 
 #title
-## Wiedza ze świata IT <br> *w zasięgu ręki*
+# Blog o stronach <br> *www, e-commerce i UX*
 
 :::::
 ::::

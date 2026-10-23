@@ -4,7 +4,7 @@ hreflangs:
     PL: '/realizacje/'
 
 meta:
-    title: Realizacje
+    title: 'Realizacje - strony i sklepy internetowe | Webo'
     description: 'Zobacz nasze realizacje stron i sklepów internetowych dla firm z różnych branż. Sprawdź, jak pomagamy rozwijać biznes w sieci. Zobacz nasze portfolio!'     
 ---
 ::page-section-md
@@ -15,6 +15,7 @@ class:  mb-10 tablet:mb-20 mt-[100px] tablet:mt-[200px]
 ::::block-header-md
 ---
 center: true
+class: '[&_h1]:!text-2xl tablet:[&_h1]:!text-3xl desktop:[&_h1]:!text-4xl [&_h1]:!pb-0'
 ---
 
 #subtitle
@@ -23,7 +24,7 @@ center: true
 :::::
 
 #title
-## Zobacz projekty z których *jesteśmy dumni*
+# Realizacje - *strony i sklepy internetowe*
 
 ::::
 :::

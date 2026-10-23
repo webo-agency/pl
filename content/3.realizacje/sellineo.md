@@ -1,6 +1,6 @@
 ---
 meta:
-    title: Projekt sklepu WooCommerce dla producenta spieków kwarcowych Sellineo - Webo
+    title: 'Sellineo - sklep WooCommerce producenta spieków kwarcowych'
     description: 29 widoków UX/UI, migracja 2000+ produktów, sklep WooCommerce na rynek niemiecki. Poznaj case study Sellineo!
 
 introduction.title: 'Sellineo - projekt i wdrożenie sklepu internetowego na rynek niemiecki - 29 widoków UX/UI i migracja 2000+ produktów'

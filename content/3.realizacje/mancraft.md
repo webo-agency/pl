@@ -1,6 +1,6 @@
 ---
 meta:
-    title: Migracja i rozwój sklepu Prestashop dla marki ASG Mancraft - Webo
+    title: 'Mancraft - migracja i rozwój sklepu PrestaShop | Webo'
     description: Migracja Prestashop 1.6→1.7, strefa B2B i program lojalnościowy dla Mancraft Airsoft. Poznaj szczegóły!
 
 introduction.title: 'Mancraft – migracja i rozwój sklepu internetowego Prestashop dla marki ASG'

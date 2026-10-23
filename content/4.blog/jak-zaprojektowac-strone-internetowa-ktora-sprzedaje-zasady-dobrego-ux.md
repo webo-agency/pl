@@ -1,4 +1,6 @@
 ---
+meta:
+    title: 'Jak zaprojektować stronę, która sprzedaje? Zasady UX'
 introduction.title: 'Jak zaprojektować stronę internetową, która sprzedaje? Zasady dobrego UX'
 introduction.titleFormatted: 'Jak zaprojektować stronę internetową, która sprzedaje? Zasady dobrego UX'
 introduction.description: 'Skuteczna strona internetowa może być jednym z najważniejszych narzędzi sprzedażowych firmy. Jednak nie każda witryna przynosi oczekiwane rezultaty sprzedażowe.'
@@ -12,8 +14,8 @@ authorAvatar: /img/content-images/avatar-maciej.webp
 authorUrl: https://linkedin.com/in/maciej-zawadzki-ba3194138
 updatedAt: 2026-09-02
 hreflangs:
-    EN: '/blog/how-to-design-a-website-that-sells-the-principles-of-good-ux.md'
-    PL: '/blog/jak-zaprojektowac-strone-internetowa-ktora-sprzedaje-zasady-dobrego-ux.md/'
+    EN: '/blog/how-to-design-a-website-that-sells-the-principles-of-good-ux/'
+    PL: '/blog/jak-zaprojektowac-strone-internetowa-ktora-sprzedaje-zasady-dobrego-ux/'
 public: true
 draft: false
 ---
@@ -92,7 +94,7 @@ class: bg-green-gray !p-10 !pb-8 !items-start [&_p]:!m-0 [&_.description]:!m-0 [
 #title
 
 #description
-**Potrzebujesz strony zaprojektowanej z myślą o użytkownikach i realizacji celów sprzedażowych? Sprawdź naszą ofertę na** *<u><a href="/projektowanie-ux-ui/">Projektowanie UX/UI.</a></u>*
+**Potrzebujesz strony zaprojektowanej z myślą o użytkownikach i realizacji celów sprzedażowych? Sprawdź naszą ofertę na** *<u><a href="/uslugi/projektowanie-ux-ui/">Projektowanie UX/UI.</a></u>*
 
 :::::
 ::::

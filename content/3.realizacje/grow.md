@@ -1,6 +1,6 @@
 ---
 meta:
-    title: Agencja Grow - Redesign strony internetowej agencji employer branding - Webo
+    title: 'Grow - redesign strony agencji employer branding | Webo'
     description: Naszym zadaniem było zaprojektowanie i wdrożenie odświeżonej strony www, na istniejącym rozwiazaniu klienta 
 
 introduction.title: 'Agencja Grow - Redesign strony internetowej agencji employer branding'

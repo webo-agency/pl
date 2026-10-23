@@ -14,7 +14,7 @@ tile_hidden: false
 tile_order: 6
 public: true
 hreflangs:
-    EN: '/case-studies/oravio'
+    EN: '/case-studies/oravio/'
     PL: '/realizacje/oravio/'
 ---
 

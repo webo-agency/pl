@@ -1,6 +1,6 @@
 ---
 meta:
-  title: Tworzenie stron WordPresss - strony WWW dla firm -  Webo.pl
+  title: 'Strony firmowe WordPress - projekt i wdrożenie | Webo'
   description: Projektujemy i wdrażamy strony WordPress dopasowane do Twoich potrzeb. Zacznij budować swoją markę online!
 draft: false
 public: true
@@ -11,9 +11,10 @@ schemaOrg:
   "@type": "Service"
   serviceType: "Projektowanie i wdrażanie stron WordPress"
   provider:
-    "@type": "Organization"
+    "@type": "LocalBusiness"
+    "@id": "https://webo.pl/#organization"
     name: "Webo"
-    url: "https://webo.pl"
+    url: "https://webo.pl/"
   areaServed:
     "@type": "Country"
     "name": "Poland"
@@ -21,7 +22,6 @@ schemaOrg:
   category: "Usługi WordPress"
   offers:
     "@type": "Offer"
-    availability: "https://schema.org/InStock"
     description: "Tworzenie stron WordPress"
   mainEntityOfPage:
     "@type": "WebPage"

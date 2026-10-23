@@ -1,12 +1,31 @@
 ---
 meta:
-  title: Projektowanie UX/UI stron WWW - Webo.pl
-  description: Projektujemy intuicyjne interfejsy zwiększające konwersję. Zadbaj o UX swojej strony - zamów audyt lub projekt!
+  title: 'Projektowanie UX/UI stron i sklepów - audyt i projekt'
+  description: 'Projektujemy interfejsy stron i sklepów, które prowadzą do zakupu lub zapytania: analiza, makiety, prototyp i testy. Zamów audyt UX lub projekt.'
 hreflangs:
     EN: '/services/ux-ui-design/'
     PL: '/uslugi/projektowanie-ux-ui/'
 draft: false
 public: true
+schemaOrg:
+  "@type": "Service"
+  serviceType: "Projektowanie UX/UI stron i sklepów internetowych"
+  provider:
+    "@type": "LocalBusiness"
+    "@id": "https://webo.pl/#organization"
+    name: "Webo"
+    url: "https://webo.pl/"
+  areaServed:
+    "@type": "Country"
+    "name": "Poland"
+  description: "Projektujemy interfejsy stron i sklepów, które prowadzą do zakupu lub zapytania: analiza, makiety, prototyp i testy. Audyt UX i projekt UI."
+  category: "UX/UI"
+  offers:
+    "@type": "Offer"
+    description: "Projektowanie UX/UI i audyt UX"
+  mainEntityOfPage:
+    "@type": "WebPage"
+    "@id": "https://webo.pl/uslugi/projektowanie-ux-ui/"
 ---
 
 

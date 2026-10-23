@@ -1,4 +1,6 @@
 ---
+meta:
+    title: 'Szablon czy dedykowany projekt strony internetowej?'
 introduction.title: 'Szablon vs dedykowany projekt strony internetowej - dlaczego dedykowany projekt wygrywa?'
 introduction.titleFormatted: 'Szablon vs dedykowany projekt strony internetowej - dlaczego dedykowany projekt wygrywa?'
 introduction.description: 'Strona internetowa to nie koszt, ale narzędzie sprzedażowe, które powinno wspierać rozwój firmy przez wiele lat. Dlatego wybór pomiędzy gotowym szablonem a dedykowanym projektem strony internetowej ma znacznie większe znaczenie, niż może się wydawać na początku'
@@ -12,7 +14,7 @@ authorAvatar: /img/content-images/avatar-maciej.webp
 authorUrl: https://linkedin.com/in/maciej-zawadzki-ba3194138
 updatedAt: 2026-08-06
 hreflangs:
-    EN: '/blog/template-vs-custom-website-design-hy-a-custom-design-wins'
+    EN: '/blog/template-vs-custom-website-design-hy-a-custom-design-wins/'
     PL: '/blog/szablon-vs-dedykowany-projekt-strony-internetowej-dlaczego-dedykowany-projekt-wygrywa/'
 public: true
 draft: false

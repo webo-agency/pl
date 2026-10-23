@@ -1,12 +1,31 @@
 ---
 meta:
-  title: Skuteczne strony landing page - zaprojektowane, żeby konwertować -  Webo.pl
+  title: 'Projektowanie landing page, które konwertują | Webo'
   description: W Webo tworzymy landing page bez gotowych szablonów, szybkie, przejrzyste i zaprojektowane pod skuteczną konwersję - sprawdź ofertę!
 draft: false
 public: true
 hreflangs:
-    EN: '/services/landing-page/'
+    EN: '/services/landing-pages/'
     PL: '/uslugi/strony-landing-page/'
+schemaOrg:
+  "@type": "Service"
+  serviceType: "Projektowanie i wdrażanie stron landing page"
+  provider:
+    "@type": "LocalBusiness"
+    "@id": "https://webo.pl/#organization"
+    name: "Webo"
+    url: "https://webo.pl/"
+  areaServed:
+    "@type": "Country"
+    "name": "Poland"
+  description: "Projektujemy i wdrażamy landing page bez gotowych szablonów: szybkie, przejrzyste i zaprojektowane pod skuteczną konwersję."
+  category: "Landing page"
+  offers:
+    "@type": "Offer"
+    description: "Tworzenie stron landing page"
+  mainEntityOfPage:
+    "@type": "WebPage"
+    "@id": "https://webo.pl/uslugi/strony-landing-page/"
 ---
 
 
@@ -791,7 +810,7 @@ class: mb-10 tablet:mb-20
 ### *7/* Nasze ostatnie realizacje
 
 #title
-## Jasteśmy dumni <br> z *wykonanych projektów*
+## Jesteśmy dumni <br> z *wykonanych projektów*
 
 ::::
 :::

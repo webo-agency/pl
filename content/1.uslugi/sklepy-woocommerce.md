@@ -1,7 +1,7 @@
 ---
 meta:
-  title: Tworzenie sklepów internetowych WooCommerce -  Webo.pl
-  description: Sklepy WooCommerce z pełną integracją i wsparciem. Uruchom sprzedaż online bez komplikacji - sprawdź ofertę!
+  title: 'Tworzenie sklepów WooCommerce - projekt, wdrożenie, opieka'
+  description: 'Sklepy WooCommerce szyte na miarę: własny projekt UX/UI, rozbudowane funkcjonalności, integracje z ERP, płatnościami i kurierami, szybkie ładowanie. Zobacz realizacje i poproś o wycenę.'
 draft: false
 public: true
 hreflangs:
@@ -11,9 +11,10 @@ schemaOrg:
   "@type": "Service"
   serviceType: "Projektowanie i wdrażanie sklepów WooCommerce"
   provider:
-    "@type": "Organization"
+    "@type": "LocalBusiness"
+    "@id": "https://webo.pl/#organization"
     name: "Webo"
-    url: "https://webo.pl"
+    url: "https://webo.pl/"
   areaServed:
     "@type": "Country"
     "name": "Poland"
@@ -21,7 +22,6 @@ schemaOrg:
   category: "WooCommerce"
   offers:
     "@type": "Offer"
-    availability: "https://schema.org/InStock"
     description: "Tworzenie sklepów WooCommerce"
   mainEntityOfPage:
     "@type": "WebPage"
@@ -1004,7 +1004,7 @@ class: mb-10 tablet:mb-20
 ### *9/* Nasze ostatnie realizacje
 
 #title
-## Jasteśmy dumni <br> z *wykonanych projektów*
+## Jesteśmy dumni <br> z *wykonanych projektów*
 
 ::::
 :::

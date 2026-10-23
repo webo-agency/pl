@@ -172,7 +172,7 @@ class: mx-blog mb-10 tablet:mb-[60px]
 ---
 :::::block-cta-md
 ---
-button.link: /kontakt
+button.link: /kontakt/
 button.title: 'SKONTAKTUJ SIĘ Z NAMI'
 button.isWide: true
 maxWidth: 1100

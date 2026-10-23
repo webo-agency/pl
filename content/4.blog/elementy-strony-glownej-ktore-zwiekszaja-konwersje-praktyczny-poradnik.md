@@ -1,4 +1,6 @@
 ---
+meta:
+    title: 'Elementy strony głównej, które zwiększają konwersję'
 introduction.title: 'Elementy strony głównej, które zwiększają konwersję - praktyczny poradnik'
 introduction.titleFormatted: 'Elementy strony głównej, które zwiększają konwersję - praktyczny poradnik'
 introduction.description: 'Stworzenie efektywnej strony głównej to kluczowy krok w procesie zwiększania konwersji na Twojej stronie internetowej.'
@@ -12,8 +14,8 @@ authorAvatar: /img/content-images/avatar-maciej.webp
 authorUrl: https://linkedin.com/in/maciej-zawadzki-ba3194138
 updatedAt: 2026-01-26
 hreflangs:
-    EN: '/blog/ux-in-e-commerce-how-to-really-improve-the-user-experience-in-an-online-store/'
-    PL: '/blog/ux-w-e-commerce-jak-realnie-poprawic-doswiadczenie-uzytkownika-w-sklepie-online/'
+    EN: '/blog/homepage-elements-that-increase-conversion-practical-guide/'
+    PL: '/blog/elementy-strony-glownej-ktore-zwiekszaja-konwersje-praktyczny-poradnik/'
 public: true
 draft: false
 ---
@@ -304,7 +306,7 @@ class: mx-blog mb-10 tablet:mb-[60px]
 ---
 :::::block-cta-md
 ---
-button.link: /kontakt
+button.link: /kontakt/
 button.title: 'SKONTAKTUJ SIĘ Z NAMI'
 button.isWide: true
 maxWidth: 1100

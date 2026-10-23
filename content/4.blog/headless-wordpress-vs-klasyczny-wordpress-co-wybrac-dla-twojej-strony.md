@@ -1,4 +1,6 @@
 ---
+meta:
+    title: 'Headless WordPress czy klasyczny WordPress - co wybrać?'
 introduction.title: 'Headless WordPress vs klasyczny WordPress - co wybrać dla Twojej strony?'
 introduction.titleFormatted: 'Headless WordPress vs klasyczny WordPress - co wybrać dla Twojej strony??'
 introduction.description: 'Wybór odpowiedniej platformy dla Twojej strony może mieć kluczowe znaczenie. Dwie popularne opcje to klasyczny WordPress oraz jego nowoczesna odmiana - Headless WordPress.'
@@ -141,7 +143,7 @@ class: mx-blog mb-10 tablet:mb-[60px]
 ---
 :::::block-cta-md
 ---
-button.link: /uslugi/strony-internetowe
+button.link: /uslugi/strony-internetowe/
 button.title: 'Zobacz, jak tworzymy strony'
 button.isWide: true
 maxWidth: 1100
@@ -200,7 +202,7 @@ class: bg-green-gray !p-10 !pb-8 !items-start [&_p]:!m-0 [&_.description]:!m-0 [
 #title
 
 #description
-**Sprawdź naszą ofertę na** *<u><a href="/uslugi/strony-headless-pwa">Tworzenie stron internetowych Wordpress + Headless</a></u>*
+**Sprawdź naszą ofertę na** *<u><a href="/uslugi/strony-headless-pwa/">Tworzenie stron internetowych Wordpress + Headless</a></u>*
 
 :::::
 ::::

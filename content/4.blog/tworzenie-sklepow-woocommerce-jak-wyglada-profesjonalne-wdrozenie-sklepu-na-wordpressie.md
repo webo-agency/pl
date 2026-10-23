@@ -1,4 +1,6 @@
 ---
+meta:
+    title: 'Wdrożenie sklepu WooCommerce: etapy, koszt i czas realizacji'
 introduction.title: 'Tworzenie sklepów WooCommerce – jak wygląda profesjonalne wdrożenie sklepu na WordPressie?'
 introduction.titleFormatted: 'Tworzenie sklepów WooCommerce – jak wygląda profesjonalne wdrożenie sklepu na WordPressie?'
 introduction.description: 'WooCommerce od lat pozostaje jednym z najpopularniejszych systemów e-commerce na świecie.'

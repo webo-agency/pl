@@ -1,6 +1,6 @@
 ---
 meta:
-    title: Tworzenie stron internetowych - profesjonalne strony WWW -  Webo.pl  
+    title: 'Tworzenie stron internetowych dla firm | Webo'
     description: Nowoczesne strony www dla firm, zgodne z SEO i UX. Zdobądź nowych klientów - zamów wycenę już dziś!
 draft: false
 public: true
@@ -11,9 +11,10 @@ schemaOrg:
   "@type": "Service"
   serviceType: "Projektowanie i tworzenie stron WWW"
   provider:
-    "@type": "Organization"
+    "@type": "LocalBusiness"
+    "@id": "https://webo.pl/#organization"
     name: "Webo"
-    url: "https://webo.pl"
+    url: "https://webo.pl/"
   areaServed:
     "@type": "Country"
     "name": "Poland"
@@ -21,7 +22,6 @@ schemaOrg:
   category: "Strony internetowe"
   offers:
     "@type": "Offer"
-    availability: "https://schema.org/InStock"
     description: "Tworzenie stron internetowych"
   mainEntityOfPage:
     "@type": "WebPage"

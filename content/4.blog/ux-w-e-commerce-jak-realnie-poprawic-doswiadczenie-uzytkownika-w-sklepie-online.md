@@ -1,4 +1,6 @@
 ---
+meta:
+    title: 'UX w e-commerce - jak realnie poprawić wygodę zakupów'
 introduction.title: 'UX w e-commerce – jak realnie poprawić doświadczenie użytkownika w sklepie online'
 introduction.titleFormatted: 'UX w e-commerce – jak realnie poprawić doświadczenie użytkownika w sklepie online'
 introduction.description: 'W e-commerce UX nie jest dodatkiem do designu, lecz jednym z kluczowych czynników wpływających na sprzedaż.'
@@ -136,7 +138,7 @@ class: mx-blog mb-10 tablet:mb-[60px]
 ---
 :::::block-cta-md
 ---
-button.link: /kontakt
+button.link: /kontakt/
 button.title: 'SKONTAKTUJ SIĘ Z NAMI'
 button.isWide: true
 maxWidth: 1100

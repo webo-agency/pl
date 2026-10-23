@@ -299,7 +299,7 @@ Dzięki architekturze Headless umożliwiamy m.in lepszą optymalizację serwisu,
 
 :::::button-arrow-md
 ---
-link: '/uslugi/strony-headless-pwa'
+link: '/uslugi/strony-headless-pwa/'
 ---
 Dowiedz się więcej 
 :::::

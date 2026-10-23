@@ -1,7 +1,7 @@
 ---
 meta:
-  title: Tworzenie sklepów internetowych PrestaShop -  Webo.pl
-  description: Sklepy PrestaShop z pełną integracją i wsparciem. Uruchom sprzedaż online bez komplikacji - sprawdź ofertę!
+  title: 'Tworzenie sklepów PrestaShop - projekt, moduły, wdrożenie, integracje'
+  description: 'Indywidualny projekt UX, wdrożenie, moduły i integracje (ERP, płatności, kurierzy), SEO od startu. Wdrożenie w 8-12 tygodni. Umów bezpłatną konsultację.'
 draft: false
 public: true
 hreflangs:
@@ -11,9 +11,10 @@ schemaOrg:
   "@type": "Service"
   serviceType: "Projektowanie i wdrażanie sklepów internetowych PrestaShop"
   provider:
-    "@type": "Organization"
+    "@type": "LocalBusiness"
+    "@id": "https://webo.pl/#organization"
     name: "Webo"
-    url: "https://webo.pl"
+    url: "https://webo.pl/"
   areaServed:
     "@type": "Country"
     "name": "Poland"
@@ -21,7 +22,6 @@ schemaOrg:
   category: "PrestaShop"
   offers:
     "@type": "Offer"
-    availability: "https://schema.org/InStock"
     description: "Tworzenie sklepów PrestaShop"
   mainEntityOfPage:
     "@type": "WebPage"
@@ -918,7 +918,7 @@ class: mb-10 tablet:mb-20
 ### *8/* Nasze ostatnie realizacje
 
 #title
-## Jasteśmy dumni <br> z *wykonanych projektów*
+## Jesteśmy dumni <br> z *wykonanych projektów*
 
 ::::
 :::
