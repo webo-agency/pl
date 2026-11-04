@@ -3,7 +3,6 @@ meta:
   title: 'Strony firmowe WordPress - projekt i wdrożenie | Webo'
   description: Projektujemy i wdrażamy strony WordPress dopasowane do Twoich potrzeb. Zacznij budować swoją markę online!
 draft: false
-public: true
 hreflangs:
     EN: '/services/wordpress-websites/'
     PL: '/uslugi/strony-wordpress/'

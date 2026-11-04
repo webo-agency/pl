@@ -3,7 +3,6 @@ meta:
   title: 'Tworzenie sklepów WooCommerce - projekt, wdrożenie, opieka'
   description: 'Sklepy WooCommerce szyte na miarę: własny projekt UX/UI, rozbudowane funkcjonalności, integracje z ERP, płatnościami i kurierami, szybkie ładowanie. Zobacz realizacje i poproś o wycenę.'
 draft: false
-public: true
 hreflangs:
     EN: '/services/woocommerce/'
     PL: '/uslugi/sklepy-woocommerce/'

@@ -3,7 +3,6 @@ meta:
   title: 'Tworzenie sklepów PrestaShop - projekt, moduły, wdrożenie, integracje'
   description: 'Indywidualny projekt UX, wdrożenie, moduły i integracje (ERP, płatności, kurierzy), SEO od startu. Wdrożenie w 8-12 tygodni. Umów bezpłatną konsultację.'
 draft: false
-public: true
 hreflangs:
     EN: '/services/prestashop/'
     PL: '/uslugi/sklepy-prestashop/'

@@ -3,7 +3,6 @@ meta:
   title: 'Tworzenie sklepów internetowych na zamówienie | Webo'
   description: Tworzymy profesjonalne sklepy internetowe - responsywne, szybkie i bezpieczne. Rozpocznij sprzedaż online!
 draft: false
-public: true
 hreflangs:
     EN: '/services/e-commerce/'
     PL: '/uslugi/sklepy-internetowe/'

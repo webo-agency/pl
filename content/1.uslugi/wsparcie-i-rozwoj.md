@@ -3,7 +3,6 @@ meta:
     title: 'Wsparcie i rozwój sklepów internetowych | Webo'
     description: Techniczne wsparcie e-commerce, optymalizacja i rozwój. Skorzystaj z naszej wiedzy i zwiększ sprzedaż!
 draft: false
-public: true
 hreflangs:
     EN: '/services/support-and-development/'
     PL: '/uslugi/wsparcie-i-rozwoj/'

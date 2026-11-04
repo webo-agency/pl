@@ -3,7 +3,6 @@ meta:
   title: 'Projektowanie landing page, które konwertują | Webo'
   description: W Webo tworzymy landing page bez gotowych szablonów, szybkie, przejrzyste i zaprojektowane pod skuteczną konwersję - sprawdź ofertę!
 draft: false
-public: true
 hreflangs:
     EN: '/services/landing-pages/'
     PL: '/uslugi/strony-landing-page/'

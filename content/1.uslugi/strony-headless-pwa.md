@@ -3,7 +3,6 @@ meta:
     title: 'Headless WordPress - strony i aplikacje Headless | Webo'
     description: Headless CMS - maksymalna wydajność i elastyczność. Postaw na nowoczesne rozwiązania - sprawdź naszą ofertę!
 draft: false
-public: true
 hreflangs:
     EN: '/services/headless-and-pwa-websites/'
     PL: '/uslugi/strony-headless-pwa/'

@@ -3,7 +3,6 @@ meta:
   title: 'Pomoc techniczna WordPress - stała opieka i wsparcie | Webo'
   description: 'Aktualizacje, kopie zapasowe, usuwanie wirusów i naprawa błędów - zapytaj o wycenę.'
 draft: false
-public: true
 hreflangs:
     EN: '/services/wordpress-support/'
     PL: '/uslugi/wsparcie-wordpress/'
