@@ -11,6 +11,9 @@ schemaOrg:
   - "@type": "LocalBusiness"
     "@id": "https://webo.pl/#organization"
     name: "Webo"
+    alternateName:
+      - "Webo agency"
+      - "Webo.pl"
     url: "https://webo.pl/"
     logo: "https://webo.pl/symbol.png"
     image: "https://webo.pl/symbol.png"
@@ -36,6 +39,7 @@ schemaOrg:
   - "@type": "WebSite"
     "@id": "https://webo.pl/#website"
     name: "Webo"
+    alternateName: "Webo.pl"
     url: "https://webo.pl/"
     inLanguage: "pl-PL"
     publisher:
