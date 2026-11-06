@@ -183,9 +183,10 @@ Wypełnij formularz, a my **skontaktujemy się z Tobą w&nbsp;ciągu 24h** i z c
 ---
 tel: '+48721733397'
 mail: info@webo.agency
-address: 'Zwycięstwa 10, 44-100 Gliwice, Poland'
-nip: '631 261 36 26'
-regon: '382 471 232'
+company-name: 'Webo Sp. z o.o.'
+address: 'Park Naukowo-Technologiczny Technopark, Technopark 2, ul. Wincentego Pola 27, 44-100 Gliwice | Polska'
+nip: '631 274 1643'
+krs: '000 124 5372'
 ---
 
 #icons
