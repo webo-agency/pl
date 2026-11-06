@@ -234,7 +234,7 @@ classes: mb-5 tablet:mb-[100px]
 ::::block-header-md
 ---
 center: true
-maxWidth: 480
+maxWidth: 695
 class: mb-20
 ---
 
@@ -242,7 +242,7 @@ class: mb-20
 ### *3/* Dedykowane rozwiązania dla stron www
 
 #title
-## Strony www realizujemy *na platformach*
+## Strony www realizujemy korzystając ze sprawdzonych technologii
 ::::
 :::
 
@@ -251,7 +251,7 @@ class: mb-20
 ::::offer-tile-md
 --- 
 icon: '/img/icons/wordpress.svg'
-link: 'https://webo.agency/uslugi/strony-wordpress'
+link: 'https://webo.agency/uslugi/strony-wordpress/'
 ---
 #title
 #### Wordpress
@@ -267,15 +267,15 @@ Dowiedz się więcej
 
 ::::offer-tile-md
 --- 
-icon: '/img/icons/drupal.svg'
-link: 'https://webo.agency/kontakt'
+icon: '/img/icons/wp-nuxt.svg'
+link: 'https://webo.agency/uslugi/strony-headless-pwa/'
 delay: 1
 ---
 #title
-#### Drupal
+#### Wordpress + Headless
 
 #description
-Elastyczny i niesamowicie skalowalny system zarządzania treścią, na którym z powodzeniem zrealizujemy rozbudowane strony korporacyjne, zaawansowane serwisy i strony instytucji.
+Tradycyjny Wordpress w połączeniu z nową technologią = ultraszybkie ładowanie strony, najwyższe bezpieczeństwo, wielokanałowość i nielimitowane skalowanie.
 
 #readMoreText
 Dowiedz się więcej
@@ -284,14 +284,14 @@ Dowiedz się więcej
 ::::offer-tile-md
 --- 
 icon: '/img/icons/wordpress-headles.svg'
-link: 'https://webo.pl/uslugi/strony-headless-pwa/'
+link: 'https://webo.agency/kontakt/'
 delay: 2
 ---
 #title
-#### Wordpress + Headless
+#### Nuxt
 
 #description
-Tradycyjny Wordpress w połączeniu z nową technologią = ultraszybkie ładowanie strony, najwyższe bezpieczeństwo, wielokanałowość i nielimitowane skalowanie.
+Nowoczesny framework do tworzenia szybkich, wydajnych i skalowalnych srton i aplikacji internetowych. Idealny dla firm, które oczekują pełnej swobody projektowania, wysokiej jakości kodu i możliwości rozwoju bez ograniczeń.
 
 #readMoreText
 Dowiedz się więcej
@@ -315,7 +315,7 @@ class: top-20 right-[15%] fullHd:right-[20%] scale-x-[-1.6] scale-y-[1.6]
 ::::block-cta-md
 ---
 maxWidth: 800
-button.link: https://webo.agency/kontakt
+button.link: /kontakt/
 button.title: 'Skontaktuj się z nami'
 button.isWide: true
 class: tablet:mb-36
