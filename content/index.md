@@ -22,7 +22,7 @@ schemaOrg:
     email: "info@webo.agency"
     address:
       "@type": "PostalAddress"
-      streetAddress: "ul. Zwycięstwa 10"
+      streetAddress: "ul. Wincentego Pola 27"
       postalCode: "44-100"
       addressLocality: "Gliwice"
       addressCountry: "PL"

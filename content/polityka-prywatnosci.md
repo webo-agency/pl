@@ -17,7 +17,7 @@ innerContainerClasses: px-0 !max-w-5xl
 # Polityka prywatności
 ## §1 Postanowienia ogólne
 
-1. Administratorem Pani/Pana danych osobowych jest Webo Maciej Zawadzki z siedzibą w Gliwicach, ul. Zbożowej 9b lok. 3, 44-100 Gliwice, zarejestrowany pod numerem NIP nr 6312613626, REGON nr 382471232. 
+1. Administratorem Pani/Pana danych osobowych jest Webo Sp. z o.o. zarejestrowaną w Gliwicach przy ul. Zbożowej 9b/3, wpisaną do rejestru przedsiębiorców Krajowego Rejestru Sądowego pod numerem KRS 0001245372, NIP 6312741643, REGON 544908050. 
 2. Ochrona danych odbywa się zgodnie z wymogami powszechnie obowiązujących przepisów prawa, a ich przechowywanie ma miejsce na zabezpieczonych serwerach.
 3. Informujemy, że przestrzegamy zasad ochrony danych osobowych oraz wszelkich uregulowań prawnych, które są przewidziane w RODO. Na potrzeby lepszego odbioru Polityki Prywatności termin „Użytkownik” zastąpiony został określeniem „Ty”,  „Administrator” – „My”. Termin „RODO” oznacza Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE.
 4. Na żądanie osoby, której dane osobowe są przetwarzane udzielamy wyczerpujących informacji w jaki sposób wykorzystujemy jego dane osobowe. Zawsze w jasny sposób staramy się poinformować o danych, które gromadzimy, w jaki sposób je wykorzystujemy, jakim celom mają służyć i komu je przekazujemy, jaką zapewniamy ochronę tych danych przy przekazaniu innym podmiotom oraz udzielamy informacji o instytucjach, z którymi należy się skontaktować w razie wątpliwości. 
