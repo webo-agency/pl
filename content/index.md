@@ -47,8 +47,10 @@ schemaOrg:
 ---
 ::block-hero-md
 ---
-button.title: Dowiedz się więcej
+button.title: Poznaj ofertę stron www
 button.link: https://webo.agency/uslugi/strony-internetowe/
+secondaryButton.title: Sprawdź realizacje
+secondaryButton.link: /realizacje/
 logosText: "Zaufali nam:"
 logos:
     - alt: 'IS-Wireless'
@@ -102,7 +104,7 @@ logos:
 # Jesteśmy specjalistami od solidnych *stron internetowych*
 
 #description
-Tworzonych bez szablonów czy gotowców - <u>ale kodując od podstaw zgodnie z dokumentacją, jak należy.</u>
+Łączymy dopracowany UX/UI z przemyślaną architekturą i technologią. Dbając o jakość na każdym etapie<br> - <u>bez przypadkowych decyzji i dróg na skróty.</u>
 
 ::
 
