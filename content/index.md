@@ -52,7 +52,7 @@ button.link: https://webo.agency/uslugi/strony-internetowe/
 secondaryButton.title: Sprawdź realizacje
 secondaryButton.link: https://webo.agency/realizacje/
 logosText: "Zaufali nam:"
-logos: 
+logos:
     - alt: 'IS-Wireless'
       src: '/img/logos/isw.svg'
 
